@@ -28,7 +28,7 @@
 "zh-hans": "章鱼桶一家的专属道具。放在包里时，受到电属性攻击后，会使对手陷入失明状态。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

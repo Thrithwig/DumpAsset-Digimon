@@ -7,6 +7,7 @@ local luminous_spring = {}
 -- Map Callbacks
 --------------------------------------------------
 function luminous_spring.Init(map)
+  if SV.Digimon then map.Name = RogueEssence.LocalText("Tree of Life") end
   DEBUG.EnableDbgCoro() --Enable debugging this coroutine
   PrintInfo("=>> Init_luminous_spring")
 
@@ -45,6 +46,10 @@ function luminous_spring.South_Exit_Touch(obj, activator)
 end
 
 function luminous_spring.Spring_Touch(obj, activator)
+  if require("origin.digimon.scan_ledger").valid(SV.Digimon) then
+    require("origin.digimon.progression").show()
+    return
+  end
   DEBUG.EnableDbgCoro() --Enable debugging this coroutine
 	UI:ResetSpeaker()
 	

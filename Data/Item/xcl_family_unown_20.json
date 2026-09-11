@@ -25,7 +25,7 @@
 "zh-hans": "未知图腾的专属道具。放在包里时，食用食物后会回复HP。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

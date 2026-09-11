@@ -3,28 +3,15 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Dawn Stone",
-"LocalTexts": {
-"fr": "Pierre Aube",
-"de": "Funkelstein",
-"es": "Piedra Alba",
-"it": "Pietralbore",
-"ko": "각성의돌",
-"ja": "めざめいし",
-"ja-jp": "めざめいし",
-"zh-hans": "觉醒之石",
-"zh-hant": "覺醒之石"
-}
+"DefaultText": "Beast Spirit of Light",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "An odd stone that glints like an eye. It allows certain kinds of Pokémon to evolve. If held, the Pokémon's regular attacks and thrown items are changed from physical to special.",
-"LocalTexts": {
-"fr": "Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle brille comme un œil. Change l'attaque régulière et les objets lancés en type de Physique à Spécial si tenue.",
-"zh-hans": "能让某些特定宝可梦进化的神奇石头。像眼眸一般光彩动人。携带后，普通攻击与投掷出的道具将会从造成特殊伤害而非物理伤害。"
-}
+"DefaultText": "Unlocks compatible digivolutions at the Base Camp terminal while in the bag or equipped. Not consumed.",
+"LocalTexts": {}
 },
 "Released": true,
-"Comment": "",
+"Comment": "Cyber Sleuth equivalent. Reuses an existing evolution-item drop ID; removes its Pokemon held attack modifier.",
 "Sprite": "Stone_White",
 "Icon": -1,
 "SortCategory": 14,

@@ -85699,36 +85699,6 @@
 "Spawn": {
 "IsMoney": false,
 "Cursed": false,
-"Value": "box_light",
-"HiddenValue": "xcl_element_poison_dust",
-"Amount": 0,
-"Price": 8000,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "wand_lob",
-"HiddenValue": "",
-"Amount": 9,
-"Price": 180,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
 "Value": "evo_thunder_stone",
 "HiddenValue": "",
 "Amount": 0,
@@ -85788,36 +85758,7 @@
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -85857,36 +85798,7 @@
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -85926,36 +85838,7 @@
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -85995,36 +85878,7 @@
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -86064,36 +85918,7 @@
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -86133,36 +85958,7 @@
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -86202,36 +85998,7 @@
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -86271,36 +86038,7 @@
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -86340,36 +86078,7 @@
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 },
 {
@@ -210036,29 +209745,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -252181,33 +251868,11 @@ false
 },
 {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.InvItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"ID": "box_light",
-"Cursed": false,
-"HiddenValue": "xcl_element_poison_dust",
-"Amount": 0,
-"Price": 8000
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.InvItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"ID": "wand_lob",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 9,
-"Price": 180
-},
-"Rate": 10
-}
-]
+"$values": []
 }
 ]
 }
@@ -252261,29 +251926,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 },
 {
@@ -252388,29 +252031,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -294533,33 +294154,11 @@ false
 },
 {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.InvItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"ID": "box_light",
-"Cursed": false,
-"HiddenValue": "xcl_element_poison_dust",
-"Amount": 0,
-"Price": 8000
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.InvItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"ID": "wand_lob",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 9,
-"Price": 180
-},
-"Rate": 10
-}
-]
+"$values": []
 }
 ]
 }
@@ -294613,29 +294212,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 },
 {
@@ -294740,29 +294317,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -336885,33 +336440,11 @@ false
 },
 {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.InvItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"ID": "box_light",
-"Cursed": false,
-"HiddenValue": "xcl_element_poison_dust",
-"Amount": 0,
-"Price": 8000
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.InvItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"ID": "wand_lob",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 9,
-"Price": 180
-},
-"Rate": 10
-}
-]
+"$values": []
 }
 ]
 }
@@ -336965,29 +336498,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 },
 {
@@ -337306,37 +336817,7 @@ false
 "Spawn": {
 "IsMoney": false,
 "Cursed": false,
-"Value": "seed_plain",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
 "Value": "seed_reviver",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "seed_pure",
 "HiddenValue": "",
 "Amount": 0,
 "Price": 0,
@@ -338132,37 +337613,7 @@ false
 "Spawn": {
 "IsMoney": false,
 "Cursed": false,
-"Value": "seed_plain",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
 "Value": "seed_reviver",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "seed_pure",
 "HiddenValue": "",
 "Amount": 0,
 "Price": 0,
@@ -338958,37 +338409,7 @@ false
 "Spawn": {
 "IsMoney": false,
 "Cursed": false,
-"Value": "seed_plain",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
 "Value": "seed_reviver",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "seed_pure",
 "HiddenValue": "",
 "Amount": 0,
 "Price": 0,
@@ -339784,37 +339205,7 @@ false
 "Spawn": {
 "IsMoney": false,
 "Cursed": false,
-"Value": "seed_plain",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
 "Value": "seed_reviver",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "seed_pure",
 "HiddenValue": "",
 "Amount": 0,
 "Price": 0,
@@ -340610,37 +340001,7 @@ false
 "Spawn": {
 "IsMoney": false,
 "Cursed": false,
-"Value": "seed_plain",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
 "Value": "seed_reviver",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "seed_pure",
 "HiddenValue": "",
 "Amount": 0,
 "Price": 0,
@@ -344440,36 +343801,6 @@ false
 "Spawn": {
 "IsMoney": false,
 "Cursed": false,
-"Value": "box_light",
-"HiddenValue": "xcl_element_poison_dust",
-"Amount": 0,
-"Price": 8000,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "wand_lob",
-"HiddenValue": "",
-"Amount": 9,
-"Price": 180,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
 "Value": "evo_thunder_stone",
 "HiddenValue": "",
 "Amount": 0,
@@ -344529,29 +343860,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -344591,29 +343900,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -344653,29 +343940,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -344715,29 +343980,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -344777,29 +344020,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_kecleon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_kecleon_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 },
 {
@@ -344845,21 +344066,6 @@ false
 "Spawn": {
 "$type": "PMDC.LevelGen.ShopStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], PMDC",
 "Items": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "box_light",
-"HiddenValue": "xcl_element_poison_dust",
-"Amount": 0,
-"Price": 8000,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
 {
 "Spawn": {
 "IsMoney": false,
@@ -344923,22 +344129,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_clefairy_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_clefairy_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -344978,22 +344169,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_clefairy_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_clefairy_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345033,22 +344209,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_clefairy_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_clefairy_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345124,21 +344285,6 @@ false
 "Spawn": {
 "IsMoney": false,
 "Cursed": false,
-"Value": "box_light",
-"HiddenValue": "xcl_element_poison_dust",
-"Amount": 0,
-"Price": 8000,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
 "Value": "evo_thunder_stone",
 "HiddenValue": "",
 "Amount": 0,
@@ -345198,36 +344344,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345267,36 +344384,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345336,36 +344424,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345405,36 +344464,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345474,36 +344504,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345543,36 +344544,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345612,36 +344584,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345681,36 +344624,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345750,36 +344664,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_porygon_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_porygon_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 },
 {
@@ -345829,21 +344714,6 @@ false
 "Spawn": {
 "IsMoney": false,
 "Cursed": false,
-"Value": "box_light",
-"HiddenValue": "xcl_element_poison_dust",
-"Amount": 0,
-"Price": 8000,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
 "Value": "evo_thunder_stone",
 "HiddenValue": "",
 "Amount": 0,
@@ -345903,36 +344773,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_shuckle_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -345972,36 +344813,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_shuckle_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -346041,36 +344853,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_shuckle_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -346110,36 +344893,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_shuckle_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -346179,36 +344933,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_shuckle_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -346248,36 +344973,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_shuckle_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_02",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_shuckle_03",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 },
 {
@@ -346323,21 +345019,6 @@ false
 "Spawn": {
 "$type": "PMDC.LevelGen.ShopStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], PMDC",
 "Items": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "box_light",
-"HiddenValue": "xcl_element_poison_dust",
-"Amount": 0,
-"Price": 8000,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
 {
 "Spawn": {
 "IsMoney": false,
@@ -346401,29 +345082,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_dunsparce_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -346463,29 +345122,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_dunsparce_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -346525,29 +345162,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_dunsparce_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -346587,29 +345202,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_dunsparce_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -346649,29 +345242,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_dunsparce_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -346711,29 +345282,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_dunsparce_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 }
 ]
@@ -346773,29 +345322,7 @@ false
 },
 {
 "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-"Items": [
-{
-"ID": "xcl_family_dunsparce_00",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_01",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-},
-{
-"ID": "xcl_family_dunsparce_04",
-"Cursed": false,
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0
-}
-],
+"Items": [],
 "MapStartOnly": false
 },
 {
@@ -347529,23 +346056,7 @@ false
 "$type": "RogueElements.PickerSpawner`2[[RogueEssence.LevelGen.MapGenContext, RogueEssence],[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Picker": {
 "$type": "RogueElements.PresetMultiRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"ToSpawn": [
-{
-"$type": "RogueElements.PresetPicker`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"ToSpawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_plain",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-}
-}
-]
+"ToSpawn": []
 }
 }
 },

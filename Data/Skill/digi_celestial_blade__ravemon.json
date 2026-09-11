@@ -1,0 +1,173 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.SkillData, RogueEssence",
+    "Name": {
+      "DefaultText": "Celestial Blade",
+      "LocalTexts": {}
+    },
+    "Desc": {
+      "DefaultText": "Magic Electric attack. Power 45. Hits foes within 3 tiles; allies are safe. Phase 1: source secondary effects are not applied.",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Cyber Sleuth source: Magic attack, 90 Electric damage to all foes.",
+    "IndexNum": 12065,
+    "BaseCharges": 5,
+    "Strikes": 1,
+    "HitboxAction": {
+      "$type": "RogueEssence.Dungeon.AreaAction, RogueEssence",
+      "Emitter": {
+        "$type": "RogueEssence.Content.EmptyCircleSquareEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "HitTiles": true,
+      "BurstTiles": 0,
+      "HitArea": 0,
+      "Range": 3,
+      "Speed": 10,
+      "CharAnimData": {
+        "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
+        "ActionType": 34
+      },
+      "TargetAlignments": 4,
+      "TileEmitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "PreActions": [],
+      "ActionFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "DUN_Discharge",
+        "Emitter": {
+          "$type": "RogueEssence.Content.SingleEmitter, RogueEssence",
+          "LocHeight": 0,
+          "finished": false,
+          "Offset": 0,
+          "Anim": {
+            "$type": "RogueEssence.Content.StaticAnim, RogueEssence",
+            "Anim": {
+              "AnimIndex": "Discharge",
+              "FrameTime": 2,
+              "StartFrame": -1,
+              "EndFrame": -1,
+              "AnimDir": -1,
+              "Alpha": 255,
+              "AnimFlip": 0
+            },
+            "TotalTime": 0,
+            "Cycles": 1,
+            "FrameOffset": 0
+          },
+          "Layer": 2,
+          "UseDest": false
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      },
+      "LagBehindTime": 0
+    },
+    "Explosion": {
+      "TargetAlignments": 4,
+      "HitTiles": false,
+      "Range": 0,
+      "Speed": 0,
+      "TileEmitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "Emitter": {
+        "$type": "RogueEssence.Content.EmptyCircleSquareEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "IntroFX": [],
+      "ExplodeFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "",
+        "Emitter": {
+          "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+          "LocHeight": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      }
+    },
+    "Data": {
+      "Element": "electric",
+      "Category": 2,
+      "HitRate": 100,
+      "SkillStates": [
+        {
+          "$type": "RogueEssence.Dungeon.BasePowerState, RogueEssence",
+          "Power": 45
+        }
+      ],
+      "BeforeTryActions": [],
+      "BeforeActions": [],
+      "OnActions": [],
+      "BeforeExplosions": [],
+      "BeforeHits": [],
+      "OnHits": [
+        {
+          "Key": {
+            "str": [
+              -1
+            ]
+          },
+          "Value": {
+            "$type": "PMDC.Dungeon.DamageFormulaEvent, PMDC"
+          }
+        }
+      ],
+      "OnHitTiles": [],
+      "AfterActions": [],
+      "ElementEffects": [],
+      "IntroFX": [],
+      "HitFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "DUN_Discharge_2",
+        "Emitter": {
+          "$type": "RogueEssence.Content.SingleEmitter, RogueEssence",
+          "LocHeight": 0,
+          "finished": false,
+          "Offset": 0,
+          "Anim": {
+            "$type": "RogueEssence.Content.StaticAnim, RogueEssence",
+            "Anim": {
+              "AnimIndex": "Discharge_Hit",
+              "FrameTime": 3,
+              "StartFrame": -1,
+              "EndFrame": -1,
+              "AnimDir": -1,
+              "Alpha": 255,
+              "AnimFlip": 0
+            },
+            "TotalTime": 0,
+            "Cycles": 1,
+            "FrameOffset": 0
+          },
+          "Layer": 2,
+          "UseDest": false
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      },
+      "HitCharAction": {
+        "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
+        "ActionType": 0
+      }
+    }
+  }
+}

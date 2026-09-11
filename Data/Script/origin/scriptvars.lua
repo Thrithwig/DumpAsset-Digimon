@@ -20,6 +20,8 @@
 ]]--
 
 SV = {}
+-- New saves only. Never retrofit this ledger into Pokemon-era saves.
+SV.Digimon = require('origin.digimon.scan_ledger').new()
 
 -----------------------------------------------
 -- Services Defaults

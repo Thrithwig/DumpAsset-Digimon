@@ -25,7 +25,7 @@
 "zh-hans": "尾立一家的专属道具。放在包里时，在一个回合内受到多次攻击时，伤害会降低。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

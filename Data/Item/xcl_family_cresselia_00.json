@@ -27,7 +27,7 @@
 "zh-hans": "克雷色利亚的专属道具。放在包里时，当队友睡着时会逐渐回复它们的HP。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

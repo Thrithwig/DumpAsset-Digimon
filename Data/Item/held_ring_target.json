@@ -3,28 +3,12 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Ring Target",
-"LocalTexts": {
-"fr": "Point de Mire",
-"de": "Zielscheibe",
-"es": "Blanco",
-"it": "Facilsaglio",
-"ko": "겨냥표적",
-"ja": "ねらいのまと",
-"ja-jp": "ねらいのまと",
-"zh-hans": "标靶",
-"zh-hant": "標靶"
-}
+"DefaultText": "Master Guard",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A held item that removes the Pokémon's type immunities. This item sticks when held.",
-"LocalTexts": {
-"fr": "Objet à tenir qui retire au porteur l'immunité lié à son type, le rendant sensible à des capacités qui ne lui font aucun effet normalement. Cet objet devient collant lorsqu'il est tenu.",
-"de": "Dieses Item entfernt jegliche Immunitäten, die der Träger dank seines Typen besitzt. Das Item wird klebrig, sobald es getragen wird.",
-"it": "Uno strumento da dare a un Pokémon. Rimuove le immunità di tipo del Pokémon. Diventa viscido una volta tenuto.",
-"ko": "지니게 하면 끈적거리게 된다. 지닌 포켓몬의 특정 타입에 대한 면역이 사라진다.",
-"zh-hans": "携带后，原本因宝可梦的属性相克关系而无效的招式会变得能够击中。携带后此道具会被粘着。"
-}
+"DefaultText": "Reduces incoming damage by 5%.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
@@ -190,18 +174,7 @@
 "ModifyHPs": [],
 "RestoreHPs": []
 },
-"OnEquips": [
-{
-"Key": {
-"str": [
-1
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.AutoCurseItemEvent, PMDC"
-}
-}
-],
+"OnEquips": [],
 "OnPickups": [],
 "BeforeStatusAdds": [],
 "BeforeStatusAddings": [],
@@ -220,34 +193,26 @@
 "BeforeActions": [],
 "OnActions": [],
 "BeforeHittings": [],
-"BeforeBeingHits": [],
+"BeforeBeingHits": [
+{
+"Key": {
+"str": [
+0
+]
+},
+"Value": {
+"$type": "PMDC.Dungeon.MultiplyDamageEvent, PMDC",
+"Numerator": 19,
+"Denominator": 20
+}
+}
+],
 "AfterHittings": [],
 "AfterBeingHits": [],
 "OnHitTiles": [],
 "AfterActions": [],
 "UserElementEffects": [],
-"TargetElementEffects": [
-{
-"Key": {
-"str": [
-1
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.NoImmunityEvent, PMDC"
-}
-},
-{
-"Key": {
-"str": [
-1
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.NoResistanceEvent, PMDC"
-}
-}
-],
+"TargetElementEffects": [],
 "ModifyHPs": [],
 "RestoreHPs": []
 }

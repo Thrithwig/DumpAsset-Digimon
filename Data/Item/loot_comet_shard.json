@@ -3,22 +3,15 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Comet Shard",
-"LocalTexts": {
-"fr": "Morceau Comète",
-"ko": "혜성조각",
-"zh-hans": "彗星碎片"
-}
+"DefaultText": "Diamond",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A shard that fell to the ground when a comet passed nearby. It sells for an extremely high price.",
-"LocalTexts": {
-"fr": "Un fragment de comète, tombé au sol quand elle traversait l'atmosphère. Peut être vendu à bon prix en magasin.",
-"zh-hans": "彗星临近时，掉落到地表上的碎片。可以在商店以超高价出售。"
-}
+"DefaultText": "Valuable data that can be sold for Bits.",
+"LocalTexts": {}
 },
 "Released": true,
-"Comment": "",
+"Comment": "Cyber Sleuth equivalent. Sale-only equivalent; existing price retained.",
 "Sprite": "Crystal_Blue",
 "Icon": -1,
 "SortCategory": 15,

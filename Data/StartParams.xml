@@ -1,60 +1,60 @@
 <root>
   <StartChars>
     <StartChar>
-      <Species>bulbasaur</Species>
+      <Species>agumon</Species>
       <Form>0</Form>
       <Skin>normal</Skin>
-      <Gender>Unknown</Gender>
-      <Name>
-      </Name>
+      <Gender>Genderless</Gender>
+      <Name />
     </StartChar>
     <StartChar>
-      <Species>charmander</Species>
+      <Species>gabumon</Species>
       <Form>0</Form>
       <Skin>normal</Skin>
-      <Gender>Unknown</Gender>
-      <Name>
-      </Name>
+      <Gender>Genderless</Gender>
+      <Name />
     </StartChar>
     <StartChar>
-      <Species>squirtle</Species>
+      <Species>biyomon</Species>
       <Form>0</Form>
       <Skin>normal</Skin>
-      <Gender>Unknown</Gender>
-      <Name>
-      </Name>
+      <Gender>Genderless</Gender>
+      <Name />
     </StartChar>
     <StartChar>
-      <Species>chikorita</Species>
+      <Species>tentomon</Species>
       <Form>0</Form>
       <Skin>normal</Skin>
-      <Gender>Unknown</Gender>
-      <Name>
-      </Name>
+      <Gender>Genderless</Gender>
+      <Name />
     </StartChar>
     <StartChar>
-      <Species>cyndaquil</Species>
+      <Species>palmon</Species>
       <Form>0</Form>
       <Skin>normal</Skin>
-      <Gender>Unknown</Gender>
-      <Name>
-      </Name>
+      <Gender>Genderless</Gender>
+      <Name />
     </StartChar>
     <StartChar>
-      <Species>totodile</Species>
+      <Species>gomamon</Species>
       <Form>0</Form>
       <Skin>normal</Skin>
-      <Gender>Unknown</Gender>
-      <Name>
-      </Name>
+      <Gender>Genderless</Gender>
+      <Name />
     </StartChar>
     <StartChar>
-      <Species>pikachu</Species>
+      <Species>patamon</Species>
       <Form>0</Form>
       <Skin>normal</Skin>
-      <Gender>Unknown</Gender>
-      <Name>
-      </Name>
+      <Gender>Genderless</Gender>
+      <Name />
+    </StartChar>
+    <StartChar>
+      <Species>gatomon</Species>
+      <Form>0</Form>
+      <Skin>normal</Skin>
+      <Gender>Genderless</Gender>
+      <Name />
     </StartChar>
   </StartChars>
   <StartTeams>
@@ -204,7 +204,7 @@
     <StartTeam>Team Traitor</StartTeam>
   </StartTeams>
   <StartLevel>5</StartLevel>
-  <MaxLevel>100</MaxLevel>
+  <MaxLevel>99</MaxLevel>
   <StartPersonality>5</StartPersonality>
   <DefaultZone>debug_zone</DefaultZone>
   <DefaultRank>none</DefaultRank>

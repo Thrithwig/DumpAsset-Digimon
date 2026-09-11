@@ -28,7 +28,7 @@
 "zh-hans": "哥德宝宝一家的专属道具。放在包里时，如果上次攻击没有命中，会更容易躲避攻击。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

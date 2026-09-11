@@ -3,27 +3,12 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Cover Band",
-"LocalTexts": {
-"fr": "Bandeau Couverture",
-"de": "Schützerband",
-"es": "Bandana Auxilio",
-"it": "Bandanaiuto",
-"ko": "도움밴드",
-"ja": "かばいバンダナ",
-"ja-jp": "かばいバンダナ",
-"zh-hans": "掩护头巾"
-}
+"DefaultText": "Master Guard",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "An item to be held by a Pokémon. While the holder's HP is at half or above, it will take attacks for nearby allies.",
-"LocalTexts": {
-"fr": "Objet à tenir. Si le porteur a plus de la moitié de ses PV, il prendra les dégâts destinés à ses alliés",
-"de": "Ein Pokémon, das es bei sich trägt, hilft Freunden in Not. Wird ein naher Verbündeter angegriffen, nimmt es den Schaden auf sich solange es mehr als die Hälfte der KP übrig hat.",
-"es": "Debe llevarla un Pokémon. Mientras los PS del portador sean la mitad o más, este encajará ataques en lugar de aliados cercanos.",
-"it": "Uno strumento da dare a un Pokémon. Se chi lo tiene ha metà o più PS, riceverà l'attacco rivolto verso gli alleati.",
-"zh-hans": "有掩护他人能力的头巾。当携带者的HP达到一半或以上时，将为附近的队员承受攻击。"
-}
+"DefaultText": "Reduces incoming damage by 5%.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
@@ -157,20 +142,9 @@
 "AnimFlip": 0
 },
 "ProximityEvent": {
-"Radius": 1,
-"TargetAlignments": 4,
-"BeforeExplosions": [
-{
-"Key": {
-"str": [
-0
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.CoverAttackEvent, PMDC"
-}
-}
-],
+"Radius": -1,
+"TargetAlignments": 0,
+"BeforeExplosions": [],
 "OnEquips": [],
 "OnPickups": [],
 "BeforeStatusAdds": [],
@@ -219,7 +193,20 @@
 "BeforeActions": [],
 "OnActions": [],
 "BeforeHittings": [],
-"BeforeBeingHits": [],
+"BeforeBeingHits": [
+{
+"Key": {
+"str": [
+0
+]
+},
+"Value": {
+"$type": "PMDC.Dungeon.MultiplyDamageEvent, PMDC",
+"Numerator": 19,
+"Denominator": 20
+}
+}
+],
 "AfterHittings": [],
 "AfterBeingHits": [],
 "OnHitTiles": [],

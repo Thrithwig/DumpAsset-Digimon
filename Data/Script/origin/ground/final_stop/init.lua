@@ -19,7 +19,7 @@ final_stop.junction.south =
 -- North junction
 final_stop.junction.north =
 {
-  dungeons = { 'champions_road', 'barren_tundra', 'cave_of_solace', 'labyrinth_of_the_lost' },
+  dungeons = { 'champions_road' },
   groundmaps = {{Flag=SV.guildmaster_summit.GameComplete,Zone='guildmaster_island',ID=8,Entry=0}}
 }
 

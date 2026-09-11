@@ -129,6 +129,13 @@ function COMMON.RespawnAllies()
 end
 
 function COMMON.ShowTeamAssemblyMenu(obj, init_fun)
+  local map = _ZONE.CurrentGround
+  if map and (map.AssetName == 'base_camp' or map.AssetName == 'base_camp_2') then
+    require('origin.digimon.terminal').show(function() COMMON.ShowTeamAssemblyOnly(obj, init_fun) end)
+  else COMMON.ShowTeamAssemblyOnly(obj, init_fun) end
+end
+
+function COMMON.ShowTeamAssemblyOnly(obj, init_fun)
   SOUND:PlaySE("Menu/Skip")
   UI:AssemblyMenu()
   UI:WaitForChoice()
@@ -144,6 +151,9 @@ function COMMON.ShowTeamAssemblyMenu(obj, init_fun)
 end
 
 function COMMON.ShowDestinationMenu(dungeon_entrances, ground_entrances, force_list, speaker, confirm_msg)
+  local access = require 'origin.digimon.dungeon_access'
+  dungeon_entrances = access.destinations(dungeon_entrances)
+  ground_entrances = access.grounds(ground_entrances)
   
   local open_dests = {}
   --check for unlock of grounds
@@ -168,7 +178,7 @@ function COMMON.ShowDestinationMenu(dungeon_entrances, ground_entrances, force_l
 		else
 		  zone_name = "[color=#00FFFF]"..zone_summary.Name:ToLocal().."[color]"
 		end
-        table.insert(open_dests, { Name=zone_name, Dest=RogueEssence.Dungeon.ZoneLoc(dungeon_entrances[ii], 0, 0, 0) })
+        table.insert(open_dests, { Name=zone_name, Dest=RogueEssence.Dungeon.ZoneLoc(dungeon_entrances[ii], 0, access.entry_floor(dungeon_entrances[ii]), 0) })
 	  end
 	end
   end
@@ -337,6 +347,7 @@ function COMMON.GiftItem(player, receive_item)
 end
 
 function COMMON.GiftItemFull(player, receive_item, fanfare, force_storage)
+  if SV.Digimon and not _DATA:GetItem(receive_item.ID).Released then return end
   local orig_settings = UI:ExportSpeakerSettings()
   if fanfare then
     SOUND:PlayFanfare("Fanfare/Item")

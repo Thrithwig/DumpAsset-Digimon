@@ -3,28 +3,12 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Choice Band",
-"LocalTexts": {
-"fr": "Bandeau Choix",
-"de": "Wahlband",
-"es": "Cinta Elegida",
-"it": "Bendascelta",
-"ko": "구애머리띠",
-"ja": "こだわりハチマキ",
-"ja-jp": "こだわりハチマキ",
-"zh-hans": "讲究头带",
-"zh-hant": "講究頭帶"
-}
+"DefaultText": "Aqua Guard",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A curious headband that boosts Attack, but only allows the use of one move. This item sticks when held.",
-"LocalTexts": {
-"fr": "Un curieux bandana qui booste l'Attaque du porteur mais ne permet lui d'utiliser qu'une capacité. Cet objet devient collant lorsqu'il est tenu.",
-"de": "Dieses merkwürdige Band stärkt den Angriffs-Wert, aber nur eine Attacke ist einsetzbar. Das Item wird klebrig, sobald es getragen wird.",
-"it": "Uno strumento da dare a un Pokémon. Benda che aumenta l’Attacco, ma permette l’uso di una sola mossa. Diventa viscido una volta tenuto.",
-"ko": "지니게 하면 끈적거리게 되는 기묘한 머리띠. 공격이 올라가지만 똑같은 기술밖에 쓰지 못하게 된다.",
-"zh-hans": "有点讲究的头带。虽然携带后攻击会提高，但只能使出相同的招式。此道具携带后会被粘着。"
-}
+"DefaultText": "Reduces water damage by 10%.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
@@ -190,18 +174,7 @@
 "ModifyHPs": [],
 "RestoreHPs": []
 },
-"OnEquips": [
-{
-"Key": {
-"str": [
-1
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.AutoCurseItemEvent, PMDC"
-}
-}
-],
+"OnEquips": [],
 "OnPickups": [],
 "BeforeStatusAdds": [],
 "BeforeStatusAddings": [],
@@ -215,23 +188,12 @@
 "OnMapTurnEnds": [],
 "OnWalks": [],
 "OnDeaths": [],
-"OnRefresh": [
-{
-"Key": {
-"str": [
-0
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.MoveLockEvent, PMDC",
-"LockOthers": true,
-"LastSlotStatusID": "last_used_move_slot"
-}
-}
-],
+"OnRefresh": [],
 "BeforeTryActions": [],
 "BeforeActions": [],
-"OnActions": [
+"OnActions": [],
+"BeforeHittings": [],
+"BeforeBeingHits": [
 {
 "Key": {
 "str": [
@@ -239,16 +201,15 @@
 ]
 },
 "Value": {
-"$type": "PMDC.Dungeon.MultiplyCategoryEvent, PMDC",
-"Category": 1,
-"Numerator": 3,
-"Denominator": 2,
-"Anims": []
+"$type": "PMDC.Dungeon.MultiplyElementEvent, PMDC",
+"MultElement": "water",
+"Numerator": 9,
+"Denominator": 10,
+"Anims": [],
+"Msg": false
 }
 }
 ],
-"BeforeHittings": [],
-"BeforeBeingHits": [],
 "AfterHittings": [],
 "AfterBeingHits": [],
 "OnHitTiles": [],

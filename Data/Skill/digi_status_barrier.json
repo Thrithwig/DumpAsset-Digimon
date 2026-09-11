@@ -1,0 +1,173 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.SkillData, RogueEssence",
+    "Name": {
+      "DefaultText": "Status Barrier",
+      "LocalTexts": {}
+    },
+    "Desc": {
+      "DefaultText": "Phase 1 adaptation: The user creates a protective field that prevents status conditions for ten turns.",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Cyber Sleuth source: Make one member immune to all status effects.",
+    "IndexNum": 12424,
+    "BaseCharges": 5,
+    "Strikes": 1,
+    "HitboxAction": {
+      "$type": "RogueEssence.Dungeon.AreaAction, RogueEssence",
+      "Emitter": {
+        "$type": "RogueEssence.Content.EmptyCircleSquareEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "HitTiles": false,
+      "BurstTiles": 0,
+      "HitArea": 0,
+      "Range": 2,
+      "Speed": 10,
+      "CharAnimData": {
+        "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
+        "ActionType": 36
+      },
+      "TargetAlignments": 3,
+      "TileEmitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "PreActions": [],
+      "ActionFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "DUN_Safeguard",
+        "Emitter": {
+          "$type": "RogueEssence.Content.BetweenEmitter, RogueEssence",
+          "LocHeight": 0,
+          "finished": false,
+          "AnimBack": {
+            "$type": "RogueEssence.Content.StaticAnim, RogueEssence",
+            "Anim": {
+              "AnimIndex": "Safeguard_Back",
+              "FrameTime": 3,
+              "StartFrame": -1,
+              "EndFrame": -1,
+              "AnimDir": -1,
+              "Alpha": 255,
+              "AnimFlip": 0
+            },
+            "TotalTime": 0,
+            "Cycles": 1,
+            "FrameOffset": 0
+          },
+          "AnimFront": {
+            "$type": "RogueEssence.Content.StaticAnim, RogueEssence",
+            "Anim": {
+              "AnimIndex": "Safeguard_Front",
+              "FrameTime": 3,
+              "StartFrame": -1,
+              "EndFrame": -1,
+              "AnimDir": -1,
+              "Alpha": 255,
+              "AnimFlip": 0
+            },
+            "TotalTime": 0,
+            "Cycles": 1,
+            "FrameOffset": 0
+          },
+          "HeightBack": 32,
+          "HeightFront": 32,
+          "Offset": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      },
+      "LagBehindTime": 0
+    },
+    "Explosion": {
+      "TargetAlignments": 3,
+      "HitTiles": false,
+      "Range": 0,
+      "Speed": 0,
+      "TileEmitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "Emitter": {
+        "$type": "RogueEssence.Content.EmptyCircleSquareEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "IntroFX": [],
+      "ExplodeFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "",
+        "Emitter": {
+          "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+          "LocHeight": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      }
+    },
+    "Data": {
+      "Element": "normal",
+      "Category": 3,
+      "HitRate": -1,
+      "SkillStates": [],
+      "BeforeTryActions": [],
+      "BeforeActions": [],
+      "OnActions": [],
+      "BeforeExplosions": [],
+      "BeforeHits": [],
+      "OnHits": [
+        {
+          "Key": {
+            "str": [
+              0
+            ]
+          },
+          "Value": {
+            "$type": "PMDC.Dungeon.StatusBattleEvent, PMDC",
+            "StatusID": "safeguard",
+            "AffectTarget": true,
+            "SelfInflicted": false,
+            "SilentCheck": false,
+            "Anonymous": false,
+            "TriggerMsg": {
+              "Key": null
+            },
+            "Anims": []
+          }
+        }
+      ],
+      "OnHitTiles": [],
+      "AfterActions": [],
+      "ElementEffects": [],
+      "IntroFX": [],
+      "HitFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "",
+        "Emitter": {
+          "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+          "LocHeight": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      },
+      "HitCharAction": {
+        "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
+        "ActionType": 0
+      }
+    }
+  }
+}

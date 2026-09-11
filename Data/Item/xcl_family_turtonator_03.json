@@ -26,7 +26,7 @@
 "zh-hans": "爆焰龟兽的专属道具。放在包里时，如果上次攻击没有命中，之后就会造成更大的伤害。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

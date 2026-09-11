@@ -3,32 +3,17 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Geo Pebble",
-"LocalTexts": {
-"fr": "Racaillasse",
-"de": "Kleinkiesel",
-"it": "Geosasso",
-"ko": "돌멩이",
-"ja": "いしのつぶて",
-"ja-jp": "いしのつぶて",
-"zh-hans": "小拳石之石"
-}
+"DefaultText": "SP Restraint Chip C",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A weapon to be thrown. It flies high in an arc to clear obstacles and strike the target. It causes the target to flinch.",
-"LocalTexts": {
-"fr": "Objet à lancer dont la trajectoire décrit une courbe par-dessus les obstacles pour toucher la cible. Peut appeurer la cible.",
-"de": "Wurfwaffe die im hohen Bogen geworfen wird um Hindernisse zu umgehen und das Ziel direkt zu treffen. Ein Treffer lässt das Ziel zurückschrecken.",
-"it": "Strumento da lanciare che segue una traiettoria curva per superare gli ostacoli. Infligge danni al Pokémon colpito oltre a farlo tentennare.",
-"ja": "10の固定ダメージ（仮テキスト）",
-"ja-jp": "10の固定ダメージ（仮テキスト）",
-"zh-hans": "一种投掷武器。能以抛物线轨迹抛出，因此可以越过障碍攻击对手。有时会使对手畏缩。"
-}
+"DefaultText": "A thrown chip that deals damage and removes up to 8 trained SP points.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
-"Sprite": "Rock_Gray",
-"Icon": 0,
+"Sprite": "Stick_Green",
+"Icon": 1,
 "SortCategory": 2,
 "Price": 1,
 "Rarity": 0,
@@ -78,7 +63,7 @@
 "LagBehindTime": 0
 },
 "Explosion": {
-"TargetAlignments": 4,
+"TargetAlignments": 0,
 "HitTiles": false,
 "Range": 0,
 "Speed": 0,
@@ -143,21 +128,9 @@
 ]
 },
 "Value": {
-"$type": "PMDC.Dungeon.AdditionalEvent, PMDC",
-"BaseEvents": [
-{
-"$type": "PMDC.Dungeon.StatusBattleEvent, PMDC",
-"StatusID": "flinch",
-"AffectTarget": true,
-"SelfInflicted": false,
-"SilentCheck": true,
-"Anonymous": false,
-"TriggerMsg": {
-"Key": null
-},
-"Anims": []
-}
-]
+"$type": "RogueEssence.Dungeon.BattleScriptEvent, RogueEssence",
+"Script": "DigimonRestraint",
+"ArgTable": "{[\"stat\"]=\"SP\"}"
 }
 }
 ],
@@ -186,11 +159,11 @@
 }
 },
 "UsageType": 3,
-"ArcThrow": true,
+"ArcThrow": false,
 "BreakOnThrow": false,
 "ThrowAnim": {
-"AnimIndex": "",
-"FrameTime": 1,
+"AnimIndex": "Thorn_Green",
+"FrameTime": 60,
 "StartFrame": -1,
 "EndFrame": -1,
 "AnimDir": -1,

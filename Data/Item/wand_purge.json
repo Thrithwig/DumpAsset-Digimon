@@ -22,7 +22,7 @@
 "zh-hans": "可以挥向宝可梦的魔杖。使用后清除范围内目标的能力提高状态，且对能力提高的目标造成伤害，能力降低的目标给予治愈。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Wand_Blue",
 "Icon": 8,

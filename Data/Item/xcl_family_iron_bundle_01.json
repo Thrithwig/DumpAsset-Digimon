@@ -21,7 +21,7 @@
 "zh-hans": "铁包袱的专属道具。放在包里时，会免疫中毒状态。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

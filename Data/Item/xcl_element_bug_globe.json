@@ -27,7 +27,7 @@
 "zh-hans": "虫属性宝可梦的专属道具。放在包里时，会根据队员数减少飞行属性攻击对虫属性队员的伤害。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

@@ -25,7 +25,7 @@
 "zh-hans": "毒刺水母一家的专属道具。放在包里时，受到地面属性攻击时，会将攻击者传送走。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

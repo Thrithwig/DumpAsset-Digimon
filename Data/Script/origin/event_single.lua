@@ -1547,3 +1547,19 @@ function SINGLE_CHAR_SCRIPT.TileTestChange(owner, ownerChar, context, args)
 	end
 end
 
+
+-- Only the two generated Tropical Path final-floor stair tiles use this event.
+function SINGLE_CHAR_SCRIPT.DigimonTropicalExit(owner, ownerChar, context, args)
+  if _ZONE.CurrentZoneID ~= 'tropical_path' then return end
+  for i=0,_ZONE.CurrentMap.MapTeams.Count-1 do
+    local team=_ZONE.CurrentMap.MapTeams[i]
+    for j=0,team.Players.Count-1 do
+      local char=team.Players[j]
+      if not char.Dead and char.LuaDataTable and char.LuaDataTable.DigimonBoss then
+        context.CancelState.Cancel=true
+        _DUNGEON:LogMsg('Defeat the Koromon guardian before leaving this floor.')
+        return
+      end
+    end
+  end
+end

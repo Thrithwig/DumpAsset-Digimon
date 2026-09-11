@@ -2,6 +2,78 @@
 "Version": "0.8.12.0",
 "Object": {
 "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[RogueEssence.Data.EntrySummary, RogueEssence]], System.Private.CoreLib",
+"digi_armor": {
+"Name": {
+"DefaultText": "Digimon Armor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"digi_baby": {
+"Name": {
+"DefaultText": "Digimon Baby",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"digi_champion": {
+"Name": {
+"DefaultText": "Digimon Champion",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"digi_in_training": {
+"Name": {
+"DefaultText": "Digimon In-Training",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"digi_mega": {
+"Name": {
+"DefaultText": "Digimon Mega",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"digi_rookie": {
+"Name": {
+"DefaultText": "Digimon Rookie",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"digi_ultimate": {
+"Name": {
+"DefaultText": "Digimon Ultimate",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"digi_ultra": {
+"Name": {
+"DefaultText": "Digimon Ultra",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
 "erratic": {
 "Name": {
 "DefaultText": "Erratic",

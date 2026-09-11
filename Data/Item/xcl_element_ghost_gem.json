@@ -27,7 +27,7 @@
 "zh-hans": "幽灵属性宝可梦的专属道具。放在包里时，会提高没有异常状态的幽灵属性队友的移动速度。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

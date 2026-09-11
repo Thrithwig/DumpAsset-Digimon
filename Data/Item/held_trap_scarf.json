@@ -3,30 +3,12 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Trap Scarf",
-"LocalTexts": {
-"fr": "Trappeur",
-"de": "Fallenschal",
-"es": "Pañuelo Trampa",
-"it": "Trappovelo",
-"ko": "함정회피스카프",
-"ja": "わなよけスカーフ",
-"ja-jp": "わなよけスカーフ",
-"zh-hans": "陷阱围巾"
-}
+"DefaultText": "Master Guard",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A held item that prevents the Pokémon from setting off traps.",
-"LocalTexts": {
-"fr": "Objet à tenir qui empêche les pièges de se déclencher quand le Pokémon marche dessus.",
-"de": "Dieser Schal verhindert Fallenaktivierungen für den Träger.",
-"es": "Un objeto a equipar que impide que las trampas salten cuando el Pokémon las pisa. ",
-"it": "Uno strumento da dare a un Pokémon. Impedisce alle trappole di attivarsi",
-"ko": "지니게 하면 함정을 밟아도 작동되지 않게 된다.",
-"ja": "罠を回避できます（仮テキスト）",
-"ja-jp": "罠を回避できます（仮テキスト）",
-"zh-hans": "一种携带道具。携带者踩到陷阱时不会触发。"
-}
+"DefaultText": "Reduces incoming damage by 5%.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
@@ -206,7 +188,12 @@
 "OnMapTurnEnds": [],
 "OnWalks": [],
 "OnDeaths": [],
-"OnRefresh": [
+"OnRefresh": [],
+"BeforeTryActions": [],
+"BeforeActions": [],
+"OnActions": [],
+"BeforeHittings": [],
+"BeforeBeingHits": [
 {
 "Key": {
 "str": [
@@ -214,18 +201,12 @@
 ]
 },
 "Value": {
-"$type": "PMDC.Dungeon.MiscEvent, PMDC",
-"Effect": {
-"$type": "PMDC.Dungeon.TrapState, PMDC"
-}
+"$type": "PMDC.Dungeon.MultiplyDamageEvent, PMDC",
+"Numerator": 19,
+"Denominator": 20
 }
 }
 ],
-"BeforeTryActions": [],
-"BeforeActions": [],
-"OnActions": [],
-"BeforeHittings": [],
-"BeforeBeingHits": [],
 "AfterHittings": [],
 "AfterBeingHits": [],
 "OnHitTiles": [],

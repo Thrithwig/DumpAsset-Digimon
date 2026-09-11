@@ -8,7 +8,7 @@ base_camp.junction = {}
 -- North junction - standard exit
 base_camp.junction.north =
 {
-  dungeons =  { 'tropical_path', 'faultline_ridge', 'guildmaster_trail' },
+  dungeons = { 'guildmaster_trail', 'tropical_path', 'faultline_ridge' },
   groundmaps = {{Flag=SV.forest_camp.ExpositionComplete,Zone='guildmaster_island',ID=3,Entry=0},
   {Flag=SV.cliff_camp.ExpositionComplete,Zone='guildmaster_island',ID=4,Entry=0},
   {Flag=SV.canyon_camp.ExpositionComplete,Zone='guildmaster_island',ID=5,Entry=0},
@@ -20,7 +20,7 @@ base_camp.junction.north =
 -- Ferry
 base_camp.junction.ferry =
 {
-  dungeons = { 'lava_floe_island', 'castaway_cave', 'eon_island', 'uncharted_waters', 'inscribed_cave', 'prism_isles' },
+  dungeons = {},
   groundmaps = {}
 }
 

@@ -1,0 +1,176 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.SkillData, RogueEssence",
+    "Name": {
+      "DefaultText": "Flashy Boss Punch",
+      "LocalTexts": {}
+    },
+    "Desc": {
+      "DefaultText": "Physical Light attack. Power 65. Strikes the adjacent foe in front. Phase 1: source secondary effects are not applied.",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Cyber Sleuth source: Physical attack, 130 Light damage to one foe. 75% chance of stunning target.",
+    "IndexNum": 12167,
+    "BaseCharges": 5,
+    "Strikes": 1,
+    "HitboxAction": {
+      "$type": "RogueEssence.Dungeon.AttackAction, RogueEssence",
+      "HitTiles": false,
+      "BurstTiles": 0,
+      "Emitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "WideAngle": 0,
+      "CharAnimData": {
+        "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
+        "ActionType": 9
+      },
+      "TargetAlignments": 4,
+      "TileEmitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "PreActions": [
+        {
+          "Delay": 0,
+          "AbsoluteDelay": false,
+          "Sound": "_UNK_DUN_Attack_Charge",
+          "Emitter": {
+            "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+            "LocHeight": 0
+          },
+          "ScreenMovement": {
+            "MinShake": 0,
+            "MaxShake": 0,
+            "MaxShakeTime": 0
+          }
+        }
+      ],
+      "ActionFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "",
+        "Emitter": {
+          "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+          "LocHeight": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      },
+      "LagBehindTime": 7
+    },
+    "Explosion": {
+      "TargetAlignments": 4,
+      "HitTiles": false,
+      "Range": 0,
+      "Speed": 0,
+      "TileEmitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "Emitter": {
+        "$type": "RogueEssence.Content.EmptyCircleSquareEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "IntroFX": [],
+      "ExplodeFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "",
+        "Emitter": {
+          "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+          "LocHeight": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      }
+    },
+    "Data": {
+      "Element": "fairy",
+      "Category": 1,
+      "HitRate": 100,
+      "SkillStates": [
+        {
+          "$type": "RogueEssence.Dungeon.BasePowerState, RogueEssence",
+          "Power": 65
+        }
+      ],
+      "BeforeTryActions": [],
+      "BeforeActions": [],
+      "OnActions": [],
+      "BeforeExplosions": [],
+      "BeforeHits": [],
+      "OnHits": [
+        {
+          "Key": {
+            "str": [
+              -1
+            ]
+          },
+          "Value": {
+            "$type": "PMDC.Dungeon.DamageFormulaEvent, PMDC"
+          }
+        }
+      ],
+      "OnHitTiles": [],
+      "AfterActions": [],
+      "ElementEffects": [],
+      "IntroFX": [],
+      "HitFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "DUN_Karate_Chop",
+        "Emitter": {
+          "$type": "RogueEssence.Content.MoveToEmitter, RogueEssence",
+          "LocHeight": 0,
+          "finished": false,
+          "Anim": {
+            "AnimIndex": "Print_Hand",
+            "FrameTime": 2,
+            "StartFrame": -1,
+            "EndFrame": -1,
+            "AnimDir": -1,
+            "Alpha": 255,
+            "AnimFlip": 0
+          },
+          "OffsetStart": {
+            "X": 0,
+            "Y": 0
+          },
+          "OffsetEnd": {
+            "X": 0,
+            "Y": 0
+          },
+          "HeightStart": 24,
+          "HeightEnd": 1,
+          "LingerStart": 4,
+          "LingerEnd": 12,
+          "MoveTime": 3,
+          "ResultAnim": {
+            "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+            "LocHeight": 0
+          },
+          "ResultLayer": 2
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      },
+      "HitCharAction": {
+        "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
+        "ActionType": 0
+      }
+    }
+  }
+}

@@ -95,6 +95,16 @@
 "WorstStat": -1
 }
 },
+"aeroveedramon": {
+"0": {
+"Family": "aeroveedramon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "aggron": {
 "0": {
 "Family": "aron",
@@ -113,11 +123,51 @@
 "WorstStat": -1
 }
 },
+"agumon_blk": {
+"0": {
+"Family": "agumon_blk",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"agumon": {
+"0": {
+"Family": "agumon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"agunimon": {
+"0": {
+"Family": "agunimon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "aipom": {
 "0": {
 "Family": "aipom",
 "Stage": 2,
 "Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"airdramon": {
+"0": {
+"Family": "airdramon",
+"Stage": 1,
+"Element1": "flying",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -713,6 +763,36 @@
 "WorstStat": -1
 }
 },
+"alphamon_nx": {
+"0": {
+"Family": "alphamon_nx",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"alphamon_ouryuken": {
+"0": {
+"Family": "alphamon_ouryuken",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"alphamon": {
+"0": {
+"Family": "alphamon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "altaria": {
 "0": {
 "Family": "swablu",
@@ -779,6 +859,46 @@
 "WorstStat": -1
 }
 },
+"andromon": {
+"0": {
+"Family": "andromon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"angemon": {
+"0": {
+"Family": "angemon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"angewomon": {
+"0": {
+"Family": "angewomon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"ankylomon": {
+"0": {
+"Family": "ankylomon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "annihilape": {
 "0": {
 "Family": "mankey",
@@ -795,6 +915,26 @@
 "Stage": 2,
 "Element1": "rock",
 "Element2": "bug",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"antylamon": {
+"0": {
+"Family": "antylamon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"apocalymon": {
+"0": {
+"Family": "apocalymon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -827,6 +967,16 @@
 "WorstStat": -1
 }
 },
+"aquilamon": {
+"0": {
+"Family": "aquilamon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "araquanid": {
 "0": {
 "Family": "dewpider",
@@ -853,6 +1003,66 @@
 "Stage": 4,
 "Element1": "grass",
 "Element2": "normal",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"arcadiamon_champion": {
+"0": {
+"Family": "arcadiamon_champion",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"arcadiamon_in_tr": {
+"0": {
+"Family": "arcadiamon_in_tr",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"arcadiamon_mega": {
+"0": {
+"Family": "arcadiamon_mega",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"arcadiamon_rookie": {
+"0": {
+"Family": "arcadiamon_rookie",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"arcadiamon_ultimate": {
+"0": {
+"Family": "arcadiamon_ultimate",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"arcadiamon_ultra": {
+"0": {
+"Family": "arcadiamon_ultra",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -1089,6 +1299,26 @@
 "WorstStat": -1
 }
 },
+"armadillomon": {
+"0": {
+"Family": "armadillomon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"armageddemon": {
+"0": {
+"Family": "armageddemon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "armaldo": {
 "0": {
 "Family": "anorith",
@@ -1253,12 +1483,32 @@
 "WorstStat": -1
 }
 },
+"bakemon": {
+"0": {
+"Family": "bakemon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "baltoy": {
 "0": {
 "Family": "baltoy",
 "Stage": 2,
 "Element1": "ground",
 "Element2": "psychic",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"bancholeomon": {
+"0": {
+"Family": "bancholeomon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -1276,6 +1526,26 @@
 "Family": "shuppet",
 "Stage": 4,
 "Element1": "ghost",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"baohuckmon": {
+"0": {
+"Family": "baohuckmon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"barbamon": {
+"0": {
+"Family": "barbamon",
+"Stage": 1,
+"Element1": "dark",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -1423,6 +1693,26 @@
 "WorstStat": -1
 }
 },
+"beelzemon_bm": {
+"0": {
+"Family": "beelzemon_bm",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"beelzemon": {
+"0": {
+"Family": "beelzemon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "beheeyem": {
 "0": {
 "Family": "elgyem",
@@ -1473,11 +1763,41 @@
 "WorstStat": -1
 }
 },
+"belphemon_rm": {
+"0": {
+"Family": "belphemon_rm",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"belphemon_sm": {
+"0": {
+"Family": "belphemon_sm",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "bergmite": {
 "0": {
 "Family": "bergmite",
 "Stage": 2,
 "Element1": "ice",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"betamon": {
+"0": {
+"Family": "betamon",
+"Stage": 1,
+"Element1": "water",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -1523,6 +1843,16 @@
 "WorstStat": -1
 }
 },
+"birdramon": {
+"0": {
+"Family": "birdramon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "bisharp": {
 "0": {
 "Family": "pawniard",
@@ -1533,12 +1863,52 @@
 "WorstStat": -1
 }
 },
+"biyomon": {
+"0": {
+"Family": "biyomon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "blacephalon": {
 "0": {
 "Family": "blacephalon",
 "Stage": 1,
 "Element1": "fire",
 "Element2": "ghost",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"blackgatomon": {
+"0": {
+"Family": "blackgatomon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"blackkingnumemon": {
+"0": {
+"Family": "blackkingnumemon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"blackwargreymon": {
+"0": {
+"Family": "blackwargreymon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -1617,11 +1987,31 @@
 "WorstStat": -1
 }
 },
+"bluemeramon": {
+"0": {
+"Family": "bluemeramon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "boldore": {
 "0": {
 "Family": "roggenrola",
 "Stage": 8,
 "Element1": "rock",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"boltmon": {
+"0": {
+"Family": "boltmon",
+"Stage": 1,
+"Element1": "electric",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -1652,6 +2042,16 @@
 "Family": "bonsly",
 "Stage": 2,
 "Element1": "rock",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"botamon": {
+"0": {
+"Family": "botamon",
+"Stage": 1,
+"Element1": "normal",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -1721,6 +2121,16 @@
 "Stage": 4,
 "Element1": "psychic",
 "Element2": "flying",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"breakdramon": {
+"0": {
+"Family": "breakdramon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -1805,6 +2215,16 @@
 "WorstStat": -1
 }
 },
+"bukamon": {
+"0": {
+"Family": "bukamon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "bulbasaur": {
 "0": {
 "Family": "bulbasaur",
@@ -1856,6 +2276,16 @@
 "Family": "burmy",
 "Stage": 2,
 "Element1": "bug",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"burninggreymon": {
+"0": {
+"Family": "burninggreymon",
+"Stage": 1,
+"Element1": "fire",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -1949,6 +2379,16 @@
 "Stage": 4,
 "Element1": "fire",
 "Element2": "ground",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"cannonbeemon": {
+"0": {
+"Family": "cannonbeemon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -2057,6 +2497,16 @@
 "WorstStat": -1
 }
 },
+"catchmamemon": {
+"0": {
+"Family": "catchmamemon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "caterpie": {
 "0": {
 "Family": "caterpie",
@@ -2149,6 +2599,46 @@
 "0": {
 "Family": "happiny",
 "Stage": 8,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"chaosdramon": {
+"0": {
+"Family": "chaosdramon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"chaosgallantmon": {
+"0": {
+"Family": "chaosgallantmon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"chaosmon_va": {
+"0": {
+"Family": "chaosmon_va",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"chaosmon": {
+"0": {
+"Family": "chaosmon",
+"Stage": 1,
 "Element1": "normal",
 "Element2": "none",
 "BestStat": -1,
@@ -2251,6 +2741,16 @@
 "1": {
 "Family": "cherubi",
 "Stage": 4,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"cherrymon": {
+"0": {
+"Family": "cherrymon",
+"Stage": 1,
 "Element1": "grass",
 "Element2": "none",
 "BestStat": -1,
@@ -2367,6 +2867,26 @@
 "WorstStat": -1
 }
 },
+"chirinmon": {
+"0": {
+"Family": "chirinmon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"chuumon": {
+"0": {
+"Family": "chuumon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "cinccino": {
 "0": {
 "Family": "minccino",
@@ -2475,6 +2995,16 @@
 "WorstStat": -1
 }
 },
+"clockmon": {
+"0": {
+"Family": "clockmon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "clodsire": {
 "0": {
 "Family": "wooper",
@@ -2519,6 +3049,16 @@
 "Stage": 1,
 "Element1": "steel",
 "Element2": "fighting",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"coelamon": {
+"0": {
+"Family": "coelamon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -2586,6 +3126,26 @@
 "Family": "cufant",
 "Stage": 4,
 "Element1": "steel",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"coredramon_blue": {
+"0": {
+"Family": "coredramon_blue",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"coredramon_green": {
+"0": {
+"Family": "coredramon_green",
+"Stage": 1,
+"Element1": "ground",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -2733,6 +3293,16 @@
 "WorstStat": -1
 }
 },
+"craniamon": {
+"0": {
+"Family": "craniamon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "cranidos": {
 "0": {
 "Family": "cranidos",
@@ -2749,6 +3319,26 @@
 "Stage": 4,
 "Element1": "water",
 "Element2": "dark",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"creepymon": {
+"0": {
+"Family": "creepymon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"crescemon": {
+"0": {
+"Family": "crescemon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -2798,6 +3388,36 @@
 "Family": "totodile",
 "Stage": 8,
 "Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"crowmon": {
+"0": {
+"Family": "crowmon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"crusadermon_nx": {
+"0": {
+"Family": "crusadermon_nx",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"crusadermon": {
+"0": {
+"Family": "crusadermon",
+"Stage": 1,
+"Element1": "dark",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -2873,12 +3493,32 @@
 "WorstStat": -1
 }
 },
+"cyberdramon": {
+"0": {
+"Family": "cyberdramon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "cyclizar": {
 "0": {
 "Family": "cyclizar",
 "Stage": 1,
 "Element1": "dragon",
 "Element2": "normal",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"cyclonemon": {
+"0": {
+"Family": "cyclonemon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -2898,6 +3538,16 @@
 "Family": "fidough",
 "Stage": 4,
 "Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"darkdramon": {
+"0": {
+"Family": "darkdramon",
+"Stage": 1,
+"Element1": "electric",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -2970,6 +3620,16 @@
 "Family": "darumaka",
 "Stage": 2,
 "Element1": "ice",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"datamon": {
+"0": {
+"Family": "datamon",
+"Stage": 1,
+"Element1": "electric",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -3077,6 +3737,16 @@
 "WorstStat": -1
 }
 },
+"demidevimon": {
+"0": {
+"Family": "demidevimon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "deoxys": {
 "0": {
 "Family": "deoxys",
@@ -3106,6 +3776,16 @@
 "Family": "deoxys",
 "Stage": 1,
 "Element1": "psychic",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"devimon": {
+"0": {
+"Family": "devimon",
+"Stage": 1,
+"Element1": "dark",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -3151,6 +3831,16 @@
 "WorstStat": -1
 }
 },
+"diaboromon": {
+"0": {
+"Family": "diaboromon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "dialga": {
 "0": {
 "Family": "dialga",
@@ -3165,6 +3855,16 @@
 "Stage": 1,
 "Element1": "steel",
 "Element2": "dragon",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"dianamon": {
+"0": {
+"Family": "dianamon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -3197,6 +3897,16 @@
 "WorstStat": -1
 }
 },
+"digitamamon": {
+"0": {
+"Family": "digitamamon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "diglett": {
 "0": {
 "Family": "diglett",
@@ -3211,6 +3921,16 @@
 "Stage": 2,
 "Element1": "ground",
 "Element2": "steel",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"dinobeemon": {
+"0": {
+"Family": "dinobeemon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -3275,6 +3995,46 @@
 "WorstStat": -1
 }
 },
+"dorugamon": {
+"0": {
+"Family": "dorugamon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"dorugoramon": {
+"0": {
+"Family": "dorugoramon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"dorugreymon": {
+"0": {
+"Family": "dorugreymon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"dorumon": {
+"0": {
+"Family": "dorumon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "dottler": {
 "0": {
 "Family": "blipbug",
@@ -3291,6 +4051,26 @@
 "Stage": 8,
 "Element1": "steel",
 "Element2": "ghost",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"dracmon": {
+"0": {
+"Family": "dracmon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"dracomon": {
+"0": {
+"Family": "dracomon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -3331,6 +4111,16 @@
 "Stage": 4,
 "Element1": "dragon",
 "Element2": "ghost",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"dragomon": {
+"0": {
+"Family": "dragomon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -3577,6 +4367,26 @@
 "WorstStat": -1
 }
 },
+"duramon": {
+"0": {
+"Family": "duramon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"durandamon": {
+"0": {
+"Family": "durandamon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "durant": {
 "0": {
 "Family": "durant",
@@ -3633,6 +4443,26 @@
 "Stage": 2,
 "Element1": "bug",
 "Element2": "rock",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"dynasmon": {
+"0": {
+"Family": "dynasmon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"ebemon": {
+"0": {
+"Family": "ebemon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -3700,6 +4530,16 @@
 "Family": "gossifleur",
 "Stage": 4,
 "Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"elecmon": {
+"0": {
+"Family": "elecmon",
+"Stage": 1,
+"Element1": "electric",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -3871,6 +4711,16 @@
 "WorstStat": -1
 }
 },
+"etemon": {
+"0": {
+"Family": "etemon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "eternatus": {
 "0": {
 "Family": "eternatus",
@@ -3885,6 +4735,16 @@
 "Stage": 1,
 "Element1": "poison",
 "Element2": "dragon",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"examon": {
+"0": {
+"Family": "examon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -3937,11 +4797,41 @@
 "WorstStat": -1
 }
 },
+"exveemon": {
+"0": {
+"Family": "exveemon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"falcomon": {
+"0": {
+"Family": "falcomon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "falinks": {
 "0": {
 "Family": "falinks",
 "Stage": 1,
 "Element1": "fighting",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"fanbeemon": {
+"0": {
+"Family": "fanbeemon",
+"Stage": 1,
+"Element1": "grass",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -4112,6 +5002,16 @@
 "Family": "flabebe",
 "Stage": 2,
 "Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"flamedramon": {
+"0": {
+"Family": "flamedramon",
+"Stage": 1,
+"Element1": "fire",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -4367,6 +5267,16 @@
 "WorstStat": -1
 }
 },
+"frigimon": {
+"0": {
+"Family": "frigimon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "frillish": {
 "0": {
 "Family": "frillish",
@@ -4529,6 +5439,36 @@
 "WorstStat": -1
 }
 },
+"gabumon_blk": {
+"0": {
+"Family": "gabumon_blk",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gabumon": {
+"0": {
+"Family": "gabumon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gaiomon": {
+"0": {
+"Family": "gaiomon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "gallade": {
 "0": {
 "Family": "ralts",
@@ -4547,12 +5487,72 @@
 "WorstStat": -1
 }
 },
+"gallantmon_cm": {
+"0": {
+"Family": "gallantmon_cm",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gallantmon_nx": {
+"0": {
+"Family": "gallantmon_nx",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gallantmon": {
+"0": {
+"Family": "gallantmon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "galvantula": {
 "0": {
 "Family": "joltik",
 "Stage": 4,
 "Element1": "bug",
 "Element2": "electric",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gankoomon": {
+"0": {
+"Family": "gankoomon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gaogamon": {
+"0": {
+"Family": "gaogamon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gaomon": {
+"0": {
+"Family": "gaomon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -4621,6 +5621,46 @@
 "WorstStat": -1
 }
 },
+"gargomon": {
+"0": {
+"Family": "gargomon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"garudamon": {
+"0": {
+"Family": "garudamon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"garurumon_blk": {
+"0": {
+"Family": "garurumon_blk",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"garurumon": {
+"0": {
+"Family": "garurumon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "gastly": {
 "0": {
 "Family": "gastly",
@@ -4645,6 +5685,36 @@
 "Stage": 4,
 "Element1": "water",
 "Element2": "ground",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gatomon": {
+"0": {
+"Family": "gatomon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gazimon": {
+"0": {
+"Family": "gazimon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gekomon": {
+"0": {
+"Family": "gekomon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -4735,6 +5805,26 @@
 "WorstStat": -1
 }
 },
+"geogreymon": {
+"0": {
+"Family": "geogreymon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"geremon": {
+"0": {
+"Family": "geremon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "gholdengo": {
 "0": {
 "Family": "gimmighoul",
@@ -4751,6 +5841,16 @@
 "Stage": 2,
 "Element1": "dragon",
 "Element2": "ground",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gigadramon": {
+"0": {
+"Family": "gigadramon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -4778,6 +5878,16 @@
 "Family": "gimmighoul",
 "Stage": 2,
 "Element1": "ghost",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"ginryumon": {
+"0": {
+"Family": "ginryumon",
+"Stage": 1,
+"Element1": "normal",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -4909,6 +6019,16 @@
 "WorstStat": -1
 }
 },
+"goblimon": {
+"0": {
+"Family": "goblimon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "gogoat": {
 "0": {
 "Family": "skiddo",
@@ -4934,6 +6054,26 @@
 "Family": "goldeen",
 "Stage": 2,
 "Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"goldnumemon": {
+"0": {
+"Family": "goldnumemon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"goldramon": {
+"0": {
+"Family": "goldramon",
+"Stage": 1,
+"Element1": "fairy",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -4967,6 +6107,16 @@
 "WorstStat": -1
 }
 },
+"golemon": {
+"0": {
+"Family": "golemon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "golett": {
 "0": {
 "Family": "golett",
@@ -4993,6 +6143,16 @@
 "Stage": 4,
 "Element1": "ground",
 "Element2": "ghost",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gomamon": {
+"0": {
+"Family": "gomamon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -5075,6 +6235,16 @@
 "WorstStat": -1
 }
 },
+"gotsumon": {
+"0": {
+"Family": "gotsumon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "gourgeist": {
 "0": {
 "Family": "pumpkaboo",
@@ -5109,6 +6279,16 @@
 "WorstStat": -1
 }
 },
+"grademon": {
+"0": {
+"Family": "grademon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "grafaiai": {
 "0": {
 "Family": "shroodle",
@@ -5124,6 +6304,36 @@
 "Family": "snubbull",
 "Stage": 4,
 "Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"grandracmon": {
+"0": {
+"Family": "grandracmon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"grankuwagamon": {
+"0": {
+"Family": "grankuwagamon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"grapleomon": {
+"0": {
+"Family": "grapleomon",
+"Stage": 1,
+"Element1": "electric",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -5193,6 +6403,26 @@
 "Stage": 4,
 "Element1": "water",
 "Element2": "dark",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"greymon_blue": {
+"0": {
+"Family": "greymon_blue",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"greymon": {
+"0": {
+"Family": "greymon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -5271,6 +6501,26 @@
 "WorstStat": -1
 }
 },
+"groundlocomon": {
+"0": {
+"Family": "groundlocomon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"groundramon": {
+"0": {
+"Family": "groundramon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "grovyle": {
 "0": {
 "Family": "treecko",
@@ -5299,6 +6549,16 @@
 "WorstStat": -1
 }
 },
+"growlmon": {
+"0": {
+"Family": "growlmon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "grubbin": {
 "0": {
 "Family": "grubbin",
@@ -5314,6 +6574,46 @@
 "Family": "spoink",
 "Stage": 4,
 "Element1": "psychic",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"gryphonmon": {
+"0": {
+"Family": "gryphonmon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"guardromon_gold": {
+"0": {
+"Family": "guardromon_gold",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"guardromon": {
+"0": {
+"Family": "guardromon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"guilmon": {
+"0": {
+"Family": "guilmon",
+"Stage": 1,
+"Element1": "fire",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -5373,6 +6673,26 @@
 "Stage": 4,
 "Element1": "water",
 "Element2": "dark",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"hackmon": {
+"0": {
+"Family": "hackmon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"hagurumon": {
+"0": {
+"Family": "hagurumon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -5455,6 +6775,16 @@
 "WorstStat": -1
 }
 },
+"hawkmon": {
+"0": {
+"Family": "hawkmon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "hawlucha": {
 "0": {
 "Family": "hawlucha",
@@ -5533,11 +6863,41 @@
 "WorstStat": -1
 }
 },
+"herculeskabuterimon": {
+"0": {
+"Family": "herculeskabuterimon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "herdier": {
 "0": {
 "Family": "lillipup",
 "Stage": 8,
 "Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"hiandromon": {
+"0": {
+"Family": "hiandromon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"hippogryphonmon": {
+"0": {
+"Family": "hippogryphonmon",
+"Stage": 1,
+"Element1": "flying",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -5558,6 +6918,16 @@
 "Family": "hippopotas",
 "Stage": 4,
 "Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"hisyaryumon": {
+"0": {
+"Family": "hisyaryumon",
+"Stage": 1,
+"Element1": "normal",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -5709,6 +7079,26 @@
 "WorstStat": -1
 }
 },
+"hououmon": {
+"0": {
+"Family": "hououmon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"hudiemon": {
+"0": {
+"Family": "hudiemon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "huntail": {
 "0": {
 "Family": "clamperl",
@@ -5739,12 +7129,42 @@
 "WorstStat": -1
 }
 },
+"icedevimon": {
+"0": {
+"Family": "icedevimon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"icemon": {
+"0": {
+"Family": "icemon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "igglybuff": {
 "0": {
 "Family": "igglybuff",
 "Stage": 2,
 "Element1": "normal",
 "Element2": "fairy",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"ikkakumon": {
+"0": {
+"Family": "ikkakumon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -5759,12 +7179,52 @@
 "WorstStat": -1
 }
 },
+"imperialdramon_dm": {
+"0": {
+"Family": "imperialdramon_dm",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"imperialdramon_fm": {
+"0": {
+"Family": "imperialdramon_fm",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"imperialdramon_pm": {
+"0": {
+"Family": "imperialdramon_pm",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "impidimp": {
 "0": {
 "Family": "impidimp",
 "Stage": 2,
 "Element1": "dark",
 "Element2": "fairy",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"impmon": {
+"0": {
+"Family": "impmon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -5793,6 +7253,16 @@
 "Stage": 1,
 "Element1": "psychic",
 "Element2": "normal",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"infermon": {
+"0": {
+"Family": "infermon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -5945,6 +7415,16 @@
 "WorstStat": -1
 }
 },
+"jesmon": {
+"0": {
+"Family": "jesmon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "jigglypuff": {
 "0": {
 "Family": "igglybuff",
@@ -5995,12 +7475,32 @@
 "WorstStat": -1
 }
 },
+"justimon": {
+"0": {
+"Family": "justimon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "jynx": {
 "0": {
 "Family": "smoochum",
 "Stage": 4,
 "Element1": "ice",
 "Element2": "psychic",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kabuterimon": {
+"0": {
+"Family": "kabuterimon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -6030,6 +7530,16 @@
 "Family": "abra",
 "Stage": 8,
 "Element1": "psychic",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kaisergreymon": {
+"0": {
+"Family": "kaisergreymon",
+"Stage": 1,
+"Element1": "fire",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -6111,6 +7621,56 @@
 "WorstStat": -1
 }
 },
+"kendogarurumon": {
+"0": {
+"Family": "kendogarurumon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kentaurosmon": {
+"0": {
+"Family": "kentaurosmon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"keramon": {
+"0": {
+"Family": "keramon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kerpymon_blk": {
+"0": {
+"Family": "kerpymon_blk",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kerpymon_good": {
+"0": {
+"Family": "kerpymon_good",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "kilowattrel": {
 "0": {
 "Family": "wattrel",
@@ -6137,6 +7697,16 @@
 "Stage": 4,
 "Element1": "water",
 "Element2": "dragon",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kingetemon": {
+"0": {
+"Family": "kingetemon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -6229,6 +7799,16 @@
 "WorstStat": -1
 }
 },
+"knightmon": {
+"0": {
+"Family": "knightmon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "koffing": {
 "0": {
 "Family": "koffing",
@@ -6265,6 +7845,16 @@
 "Stage": 1,
 "Element1": "fighting",
 "Element2": "dragon",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"koromon": {
+"0": {
+"Family": "koromon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -6329,6 +7919,56 @@
 "WorstStat": -1
 }
 },
+"kudamon": {
+"0": {
+"Family": "kudamon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kuramon": {
+"0": {
+"Family": "kuramon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kurisarimon": {
+"0": {
+"Family": "kurisarimon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kuwagamon": {
+"0": {
+"Family": "kuwagamon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kuzuhamon": {
+"0": {
+"Family": "kuzuhamon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "kyogre": {
 "0": {
 "Family": "kyogre",
@@ -6342,6 +7982,16 @@
 "Family": "kyogre",
 "Stage": 1,
 "Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"kyubimon": {
+"0": {
+"Family": "kyubimon",
+"Stage": 1,
+"Element1": "fire",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -6373,12 +8023,32 @@
 "WorstStat": -1
 }
 },
+"ladydevimon": {
+"0": {
+"Family": "ladydevimon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "lairon": {
 "0": {
 "Family": "aron",
 "Stage": 8,
 "Element1": "steel",
 "Element2": "rock",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"lalamon": {
+"0": {
+"Family": "lalamon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -6545,6 +8215,66 @@
 "WorstStat": -1
 }
 },
+"lekismon": {
+"0": {
+"Family": "lekismon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"leomon": {
+"0": {
+"Family": "leomon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"leopardmon_lm": {
+"0": {
+"Family": "leopardmon_lm",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"leopardmon_nx": {
+"0": {
+"Family": "leopardmon_nx",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"leopardmon": {
+"0": {
+"Family": "leopardmon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"leviamon": {
+"0": {
+"Family": "leviamon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "lickilicky": {
 "0": {
 "Family": "lickitung",
@@ -6575,12 +8305,32 @@
 "WorstStat": -1
 }
 },
+"lilamon": {
+"0": {
+"Family": "lilamon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "lileep": {
 "0": {
 "Family": "lileep",
 "Stage": 2,
 "Element1": "rock",
 "Element2": "grass",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"lilithmon": {
+"0": {
+"Family": "lilithmon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -6608,6 +8358,16 @@
 "Family": "lillipup",
 "Stage": 2,
 "Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"lillymon": {
+"0": {
+"Family": "lillymon",
+"Stage": 1,
+"Element1": "grass",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -6661,6 +8421,16 @@
 "WorstStat": -1
 }
 },
+"lobomon": {
+"0": {
+"Family": "lobomon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "lokix": {
 "0": {
 "Family": "nymble",
@@ -6677,6 +8447,16 @@
 "Stage": 8,
 "Element1": "water",
 "Element2": "grass",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"lopmon": {
+"0": {
+"Family": "lopmon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -6709,6 +8489,16 @@
 "WorstStat": -1
 }
 },
+"lotosmon": {
+"0": {
+"Family": "lotosmon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "loudred": {
 "0": {
 "Family": "whismur",
@@ -6733,6 +8523,36 @@
 "Stage": 4,
 "Element1": "fighting",
 "Element2": "steel",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"lucemon_fm": {
+"0": {
+"Family": "lucemon_fm",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"lucemon_sm": {
+"0": {
+"Family": "lucemon_sm",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"lucemon": {
+"0": {
+"Family": "lucemon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -6773,6 +8593,16 @@
 "Stage": 4,
 "Element1": "psychic",
 "Element2": "ghost",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"lunamon": {
+"0": {
+"Family": "lunamon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -6881,6 +8711,26 @@
 "WorstStat": -1
 }
 },
+"machgaogamon": {
+"0": {
+"Family": "machgaogamon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"machinedramon": {
+"0": {
+"Family": "machinedramon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "machoke": {
 "0": {
 "Family": "machop",
@@ -6969,6 +8819,56 @@
 "WorstStat": -1
 }
 },
+"magnaangemon": {
+"0": {
+"Family": "magnaangemon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"magnadramon": {
+"0": {
+"Family": "magnadramon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"magnagarurumon_sv": {
+"0": {
+"Family": "magnagarurumon_sv",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"magnagarurumon": {
+"0": {
+"Family": "magnagarurumon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"magnamon": {
+"0": {
+"Family": "magnamon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "magnemite": {
 "0": {
 "Family": "magnemite",
@@ -7015,6 +8915,16 @@
 "Stage": 4,
 "Element1": "dark",
 "Element2": "psychic",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"mamemon": {
+"0": {
+"Family": "mamemon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -7137,6 +9047,16 @@
 "WorstStat": -1
 }
 },
+"marineangemon": {
+"0": {
+"Family": "marineangemon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "marowak": {
 "0": {
 "Family": "cubone",
@@ -7191,6 +9111,26 @@
 "Stage": 4,
 "Element1": "bug",
 "Element2": "flying",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"mastemon": {
+"0": {
+"Family": "mastemon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"matadormon": {
+"0": {
+"Family": "matadormon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -7259,11 +9199,61 @@
 "WorstStat": -1
 }
 },
+"megadramon": {
+"0": {
+"Family": "megadramon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"megagargomon": {
+"0": {
+"Family": "megagargomon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"megakabuterimon": {
+"0": {
+"Family": "megakabuterimon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "meganium": {
 "0": {
 "Family": "chikorita",
 "Stage": 4,
 "Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"megaseadramon": {
+"0": {
+"Family": "megaseadramon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"megidramon": {
+"0": {
+"Family": "megidramon",
+"Stage": 1,
+"Element1": "fire",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -7377,6 +9367,26 @@
 "WorstStat": -1
 }
 },
+"meramon": {
+"0": {
+"Family": "meramon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"merukimon": {
+"0": {
+"Family": "merukimon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "mesprit": {
 "0": {
 "Family": "mesprit",
@@ -7405,6 +9415,86 @@
 "WorstStat": -1
 }
 },
+"metaletemon": {
+"0": {
+"Family": "metaletemon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"metalgarurumon_blk": {
+"0": {
+"Family": "metalgarurumon_blk",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"metalgarurumon": {
+"0": {
+"Family": "metalgarurumon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"metalgreymon_blue": {
+"0": {
+"Family": "metalgreymon_blue",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"metalgreymon": {
+"0": {
+"Family": "metalgreymon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"metalmamemon": {
+"0": {
+"Family": "metalmamemon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"metalseadramon": {
+"0": {
+"Family": "metalseadramon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"metaltyrannomon": {
+"0": {
+"Family": "metaltyrannomon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "metang": {
 "0": {
 "Family": "beldum",
@@ -7420,6 +9510,16 @@
 "Family": "caterpie",
 "Stage": 8,
 "Element1": "bug",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"meteormon": {
+"0": {
+"Family": "meteormon",
+"Stage": 1,
+"Element1": "ground",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -7559,6 +9659,16 @@
 "WorstStat": -1
 }
 },
+"minervamon": {
+"0": {
+"Family": "minervamon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "minior": {
 "0": {
 "Family": "minior",
@@ -7683,6 +9793,26 @@
 "WorstStat": -1
 }
 },
+"miragegaogamon_bm": {
+"0": {
+"Family": "miragegaogamon_bm",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"miragegaogamon": {
+"0": {
+"Family": "miragegaogamon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "miraidon": {
 "0": {
 "Family": "miraidon",
@@ -7759,6 +9889,36 @@
 "WorstStat": -1
 }
 },
+"monochromon": {
+"0": {
+"Family": "monochromon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"monodramon": {
+"0": {
+"Family": "monodramon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"monzaemon": {
+"0": {
+"Family": "monzaemon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "morelull": {
 "0": {
 "Family": "morelull",
@@ -7807,6 +9967,16 @@
 "WorstStat": -1
 }
 },
+"motimon": {
+"0": {
+"Family": "motimon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "mr_mime": {
 "0": {
 "Family": "mime_jr",
@@ -7839,6 +10009,16 @@
 "0": {
 "Family": "mudbray",
 "Stage": 2,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"mudfrigimon": {
+"0": {
+"Family": "mudfrigimon",
+"Stage": 1,
 "Element1": "ground",
 "Element2": "none",
 "BestStat": -1,
@@ -7923,6 +10103,26 @@
 "WorstStat": -1
 }
 },
+"mushroomon": {
+"0": {
+"Family": "mushroomon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"myotismon": {
+"0": {
+"Family": "myotismon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "nacli": {
 "0": {
 "Family": "nacli",
@@ -7949,6 +10149,16 @@
 "Stage": 4,
 "Element1": "poison",
 "Element2": "dragon",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"nanimon": {
+"0": {
+"Family": "nanimon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -7993,6 +10203,16 @@
 "Stage": 1,
 "Element1": "psychic",
 "Element2": "dragon",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"neptunemon": {
+"0": {
+"Family": "neptunemon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -8165,12 +10385,32 @@
 "WorstStat": -1
 }
 },
+"numemon": {
+"0": {
+"Family": "numemon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "nuzleaf": {
 "0": {
 "Family": "seedot",
 "Stage": 8,
 "Element1": "grass",
 "Element2": "dark",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"nyaromon": {
+"0": {
+"Family": "nyaromon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -8215,6 +10455,16 @@
 "WorstStat": -1
 }
 },
+"ogremon": {
+"0": {
+"Family": "ogremon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "oinkologne": {
 "0": {
 "Family": "lechonk",
@@ -8228,6 +10478,16 @@
 "Family": "lechonk",
 "Stage": 4,
 "Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"okuwamon": {
+"0": {
+"Family": "okuwamon",
+"Stage": 1,
+"Element1": "grass",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -8253,12 +10513,62 @@
 "WorstStat": -1
 }
 },
+"omnimon_nx": {
+"0": {
+"Family": "omnimon_nx",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"omnimon_zwart": {
+"0": {
+"Family": "omnimon_zwart",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"omnimon": {
+"0": {
+"Family": "omnimon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"omnishoutmon": {
+"0": {
+"Family": "omnishoutmon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "onix": {
 "0": {
 "Family": "onix",
 "Stage": 2,
 "Element1": "rock",
 "Element2": "ground",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"ophanimon": {
+"0": {
+"Family": "ophanimon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -8345,6 +10655,26 @@
 "WorstStat": -1
 }
 },
+"otamamon": {
+"0": {
+"Family": "otamamon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"ouryumon": {
+"0": {
+"Family": "ouryumon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "overqwil": {
 "0": {
 "Family": "qwilfish",
@@ -8355,11 +10685,41 @@
 "WorstStat": -1
 }
 },
+"pabumon": {
+"0": {
+"Family": "pabumon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "pachirisu": {
 "0": {
 "Family": "pachirisu",
 "Stage": 1,
 "Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"pagumon": {
+"0": {
+"Family": "pagumon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"paildramon": {
+"0": {
+"Family": "paildramon",
+"Stage": 1,
+"Element1": "normal",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -8401,6 +10761,16 @@
 "WorstStat": -1
 }
 },
+"palmon": {
+"0": {
+"Family": "palmon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "palossand": {
 "0": {
 "Family": "sandygast",
@@ -8431,12 +10801,32 @@
 "WorstStat": -1
 }
 },
+"pandamon": {
+"0": {
+"Family": "pandamon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "pangoro": {
 "0": {
 "Family": "pancham",
 "Stage": 4,
 "Element1": "fighting",
 "Element2": "dark",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"panjyamon": {
+"0": {
+"Family": "panjyamon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -8501,6 +10891,16 @@
 "WorstStat": -1
 }
 },
+"patamon": {
+"0": {
+"Family": "patamon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "patrat": {
 "0": {
 "Family": "patrat",
@@ -8547,6 +10947,16 @@
 "Stage": 2,
 "Element1": "dark",
 "Element2": "steel",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"peckmon": {
+"0": {
+"Family": "peckmon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -8604,6 +11014,16 @@
 "Family": "phanpy",
 "Stage": 2,
 "Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"phantomon": {
+"0": {
+"Family": "phantomon",
+"Stage": 1,
+"Element1": "dark",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -8697,6 +11117,16 @@
 "WorstStat": -1
 }
 },
+"piedmon": {
+"0": {
+"Family": "piedmon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "pignite": {
 "0": {
 "Family": "tepig",
@@ -8731,6 +11161,16 @@
 "Stage": 2,
 "Element1": "normal",
 "Element2": "flying",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"pilevolcamon": {
+"0": {
+"Family": "pilevolcamon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -8787,6 +11227,46 @@
 "0": {
 "Family": "piplup",
 "Stage": 2,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"piximon": {
+"0": {
+"Family": "piximon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"platinumnumemon": {
+"0": {
+"Family": "platinumnumemon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"platinumsukamon": {
+"0": {
+"Family": "platinumsukamon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"plesiomon": {
+"0": {
+"Family": "plesiomon",
+"Stage": 1,
 "Element1": "water",
 "Element2": "none",
 "BestStat": -1,
@@ -8939,6 +11419,16 @@
 "WorstStat": -1
 }
 },
+"poyomon": {
+"0": {
+"Family": "poyomon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "primarina": {
 "0": {
 "Family": "popplio",
@@ -8954,6 +11444,16 @@
 "Family": "mankey",
 "Stage": 8,
 "Element1": "fighting",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"princemamemon": {
+"0": {
+"Family": "princemamemon",
+"Stage": 1,
+"Element1": "normal",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -9023,12 +11523,42 @@
 "WorstStat": -1
 }
 },
+"pumpkinmon": {
+"0": {
+"Family": "pumpkinmon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"punimon": {
+"0": {
+"Family": "punimon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "pupitar": {
 "0": {
 "Family": "larvitar",
 "Stage": 8,
 "Element1": "rock",
 "Element2": "ground",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"puppetmon": {
+"0": {
+"Family": "puppetmon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -9237,6 +11767,46 @@
 "WorstStat": -1
 }
 },
+"rapidmon_armor": {
+"0": {
+"Family": "rapidmon_armor",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"rapidmon": {
+"0": {
+"Family": "rapidmon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"raptordramon": {
+"0": {
+"Family": "raptordramon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"raremon": {
+"0": {
+"Family": "raremon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "raticate": {
 "0": {
 "Family": "rattata",
@@ -9269,6 +11839,26 @@
 "Stage": 2,
 "Element1": "dark",
 "Element2": "normal",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"ravemon_bm": {
+"0": {
+"Family": "ravemon_bm",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"ravemon": {
+"0": {
+"Family": "ravemon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -9381,6 +11971,26 @@
 "WorstStat": -1
 }
 },
+"renamon": {
+"0": {
+"Family": "renamon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"reppamon": {
+"0": {
+"Family": "reppamon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "reshiram": {
 "0": {
 "Family": "reshiram",
@@ -9479,6 +12089,16 @@
 "WorstStat": -1
 }
 },
+"rizegreymon": {
+"0": {
+"Family": "rizegreymon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "roaring_moon": {
 "0": {
 "Family": "roaring_moon",
@@ -9535,6 +12155,26 @@
 "Stage": 8,
 "Element1": "grass",
 "Element2": "poison",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"rosemon_bm": {
+"0": {
+"Family": "rosemon_bm",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"rosemon": {
+"0": {
+"Family": "rosemon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -9629,6 +12269,36 @@
 "WorstStat": -1
 }
 },
+"rusttyranomon": {
+"0": {
+"Family": "rusttyranomon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"ryudamon": {
+"0": {
+"Family": "ryudamon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"saberleomon": {
+"0": {
+"Family": "saberleomon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "sableye": {
 "0": {
 "Family": "sableye",
@@ -9647,6 +12317,16 @@
 "WorstStat": -1
 }
 },
+"sakuyamon": {
+"0": {
+"Family": "sakuyamon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "salamence": {
 "0": {
 "Family": "bagon",
@@ -9661,6 +12341,16 @@
 "Stage": 4,
 "Element1": "dragon",
 "Element2": "flying",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"salamon": {
+"0": {
+"Family": "salamon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -9783,6 +12473,26 @@
 "Stage": 2,
 "Element1": "ghost",
 "Element2": "ground",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"sangloupmon": {
+"0": {
+"Family": "sangloupmon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"saviorhuckmon": {
+"0": {
+"Family": "saviorhuckmon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -9957,6 +12667,16 @@
 "WorstStat": -1
 }
 },
+"seadramon": {
+"0": {
+"Family": "seadramon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "seaking": {
 "0": {
 "Family": "goldeen",
@@ -10017,6 +12737,16 @@
 "WorstStat": -1
 }
 },
+"seraphimon": {
+"0": {
+"Family": "seraphimon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "serperior": {
 "0": {
 "Family": "snivy",
@@ -10053,6 +12783,16 @@
 "Stage": 2,
 "Element1": "bug",
 "Element2": "grass",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"shakkoumon": {
+"0": {
+"Family": "shakkoumon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -10123,6 +12863,16 @@
 "WorstStat": -1
 }
 },
+"shellnumemon": {
+"0": {
+"Family": "shellnumemon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "shellos": {
 "0": {
 "Family": "shellos",
@@ -10181,11 +12931,51 @@
 "WorstStat": -1
 }
 },
+"shinegreymon_bm": {
+"0": {
+"Family": "shinegreymon_bm",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"shinegreymon": {
+"0": {
+"Family": "shinegreymon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "shinx": {
 "0": {
 "Family": "shinx",
 "Stage": 2,
 "Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"shogungekomon": {
+"0": {
+"Family": "shogungekomon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"shoutmon": {
+"0": {
+"Family": "shoutmon",
+"Stage": 1,
+"Element1": "fire",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -10256,6 +13046,16 @@
 "Family": "silicobra",
 "Stage": 2,
 "Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"silphymon": {
+"0": {
+"Family": "silphymon",
+"Stage": 1,
+"Element1": "flying",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -10465,6 +13265,46 @@
 "WorstStat": -1
 }
 },
+"sistermon_b_awake": {
+"0": {
+"Family": "sistermon_b_awake",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"sistermon_blanc": {
+"0": {
+"Family": "sistermon_blanc",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"sistermon_c_awake": {
+"0": {
+"Family": "sistermon_c_awake",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"sistermon_ciel": {
+"0": {
+"Family": "sistermon_ciel",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "sizzlipede": {
 "0": {
 "Family": "sizzlipede",
@@ -10545,6 +13385,36 @@
 "WorstStat": -1
 }
 },
+"skullgreymon": {
+"0": {
+"Family": "skullgreymon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"skullmeramon": {
+"0": {
+"Family": "skullmeramon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"skullsatamon": {
+"0": {
+"Family": "skullsatamon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "skuntank": {
 "0": {
 "Family": "stunky",
@@ -10580,6 +13450,16 @@
 "Family": "slakoth",
 "Stage": 2,
 "Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"slayerdramon": {
+"0": {
+"Family": "slayerdramon",
+"Stage": 1,
+"Element1": "flying",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -10831,6 +13711,26 @@
 "WorstStat": -1
 }
 },
+"socerimon": {
+"0": {
+"Family": "socerimon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"solarmon": {
+"0": {
+"Family": "solarmon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "solgaleo": {
 "0": {
 "Family": "cosmog",
@@ -11075,6 +13975,16 @@
 "WorstStat": -1
 }
 },
+"starmon": {
+"0": {
+"Family": "starmon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "staryu": {
 "0": {
 "Family": "staryu",
@@ -11113,6 +14023,16 @@
 "WorstStat": -1
 }
 },
+"stingmon": {
+"0": {
+"Family": "stingmon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "stonjourner": {
 "0": {
 "Family": "stonjourner",
@@ -11128,6 +14048,16 @@
 "Family": "lillipup",
 "Stage": 4,
 "Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"strikedramon": {
+"0": {
+"Family": "strikedramon",
+"Stage": 1,
+"Element1": "ground",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -11191,10 +14121,30 @@
 "WorstStat": -1
 }
 },
+"sukamon": {
+"0": {
+"Family": "sukamon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "sunflora": {
 "0": {
 "Family": "sunkern",
 "Stage": 4,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"sunflowmon": {
+"0": {
+"Family": "sunflowmon",
+"Stage": 1,
 "Element1": "grass",
 "Element2": "none",
 "BestStat": -1,
@@ -11211,12 +14161,32 @@
 "WorstStat": -1
 }
 },
+"superstarmon": {
+"0": {
+"Family": "superstarmon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "surskit": {
 "0": {
 "Family": "surskit",
 "Stage": 2,
 "Element1": "bug",
 "Element2": "water",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"susanomon": {
+"0": {
+"Family": "susanomon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -11319,6 +14289,16 @@
 "WorstStat": -1
 }
 },
+"syakomon": {
+"0": {
+"Family": "syakomon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "sylveon": {
 "0": {
 "Family": "eevee",
@@ -11369,6 +14349,16 @@
 "WorstStat": -1
 }
 },
+"tanemon": {
+"0": {
+"Family": "tanemon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "tangela": {
 "0": {
 "Family": "tangela",
@@ -11384,6 +14374,26 @@
 "Family": "tangela",
 "Stage": 4,
 "Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"tankmon": {
+"0": {
+"Family": "tankmon",
+"Stage": 1,
+"Element1": "electric",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"taomon": {
+"0": {
+"Family": "taomon",
+"Stage": 1,
+"Element1": "dark",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -11529,6 +14539,16 @@
 "WorstStat": -1
 }
 },
+"tentomon": {
+"0": {
+"Family": "tentomon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "tepig": {
 "0": {
 "Family": "tepig",
@@ -11545,6 +14565,16 @@
 "Stage": 1,
 "Element1": "rock",
 "Element2": "fighting",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"terriermon": {
+"0": {
+"Family": "terriermon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -11592,6 +14622,16 @@
 "Family": "grookey",
 "Stage": 8,
 "Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"tigervespamon": {
+"0": {
+"Family": "tigervespamon",
+"Stage": 1,
+"Element1": "electric",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -11657,6 +14697,16 @@
 "WorstStat": -1
 }
 },
+"titamon": {
+"0": {
+"Family": "titamon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "toedscool": {
 "0": {
 "Family": "toedscool",
@@ -11697,6 +14747,16 @@
 "WorstStat": -1
 }
 },
+"togemon": {
+"0": {
+"Family": "togemon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "togepi": {
 "0": {
 "Family": "togepi",
@@ -11713,6 +14773,16 @@
 "Stage": 8,
 "Element1": "fairy",
 "Element2": "flying",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"tokomon": {
+"0": {
+"Family": "tokomon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -11859,6 +14929,16 @@
 "WorstStat": -1
 }
 },
+"toyagumon": {
+"0": {
+"Family": "toyagumon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "tranquill": {
 "0": {
 "Family": "pidove",
@@ -11895,6 +14975,16 @@
 "Stage": 4,
 "Element1": "ghost",
 "Element2": "grass",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"triceramon": {
+"0": {
+"Family": "triceramon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -11939,6 +15029,26 @@
 "WorstStat": -1
 }
 },
+"tsumemon": {
+"0": {
+"Family": "tsumemon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"tsunomon": {
+"0": {
+"Family": "tsunomon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "turtonator": {
 "0": {
 "Family": "turtonator",
@@ -11954,6 +15064,16 @@
 "Family": "turtwig",
 "Stage": 2,
 "Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"turuiemon": {
+"0": {
+"Family": "turuiemon",
+"Stage": 1,
+"Element1": "ground",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -12025,6 +15145,26 @@
 "WorstStat": -1
 }
 },
+"tyrannomon": {
+"0": {
+"Family": "tyrannomon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"tyrantkabuterimon": {
+"0": {
+"Family": "tyrantkabuterimon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "tyrantrum": {
 "0": {
 "Family": "tyrunt",
@@ -12055,6 +15195,16 @@
 "WorstStat": -1
 }
 },
+"ulforceveedramon": {
+"0": {
+"Family": "ulforceveedramon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "umbreon": {
 "0": {
 "Family": "eevee",
@@ -12071,6 +15221,16 @@
 "Stage": 4,
 "Element1": "normal",
 "Element2": "flying",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"unimon": {
+"0": {
+"Family": "unimon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -12365,6 +15525,26 @@
 "WorstStat": -1
 }
 },
+"vademon": {
+"0": {
+"Family": "vademon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"valkyrimon": {
+"0": {
+"Family": "valkyrimon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "vanillish": {
 "0": {
 "Family": "vanillite",
@@ -12405,12 +15585,52 @@
 "WorstStat": -1
 }
 },
+"varodurumon": {
+"0": {
+"Family": "varodurumon",
+"Stage": 1,
+"Element1": "fairy",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "varoom": {
 "0": {
 "Family": "varoom",
 "Stage": 2,
 "Element1": "steel",
 "Element2": "poison",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"veedramon": {
+"0": {
+"Family": "veedramon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"veemon": {
+"0": {
+"Family": "veemon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"vegiemon": {
+"0": {
+"Family": "vegiemon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -12431,6 +15651,16 @@
 "Stage": 2,
 "Element1": "bug",
 "Element2": "poison",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"venommyotismon": {
+"0": {
+"Family": "venommyotismon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -12537,6 +15767,16 @@
 "Stage": 4,
 "Element1": "bug",
 "Element2": "electric",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"vikemon": {
+"0": {
+"Family": "vikemon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -12743,6 +15983,16 @@
 "WorstStat": -1
 }
 },
+"volcanomon": {
+"0": {
+"Family": "volcanomon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "volcarona": {
 "0": {
 "Family": "larvesta",
@@ -12839,11 +16089,51 @@
 "WorstStat": -1
 }
 },
+"wanyamon": {
+"0": {
+"Family": "wanyamon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"wargreymon": {
+"0": {
+"Family": "wargreymon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"wargrowlmon": {
+"0": {
+"Family": "wargrowlmon",
+"Stage": 1,
+"Element1": "fire",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "wartortle": {
 "0": {
 "Family": "squirtle",
 "Stage": 8,
 "Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"waspmon": {
+"0": {
+"Family": "waspmon",
+"Stage": 1,
+"Element1": "electric",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -12913,6 +16203,36 @@
 "Stage": 4,
 "Element1": "poison",
 "Element2": "fairy",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"weregarurumon_blk": {
+"0": {
+"Family": "weregarurumon_blk",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"weregarurumon": {
+"0": {
+"Family": "weregarurumon",
+"Stage": 1,
+"Element1": "ground",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"whamon": {
+"0": {
+"Family": "whamon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -12987,12 +16307,32 @@
 "WorstStat": -1
 }
 },
+"wingdramon": {
+"0": {
+"Family": "wingdramon",
+"Stage": 1,
+"Element1": "flying",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "wingull": {
 "0": {
 "Family": "wingull",
 "Stage": 2,
 "Element1": "water",
 "Element2": "flying",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"wisemon": {
+"0": {
+"Family": "wisemon",
+"Stage": 1,
+"Element1": "dark",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -13010,6 +16350,16 @@
 "Family": "wishiwashi",
 "Stage": 1,
 "Element1": "water",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"wizardmon": {
+"0": {
+"Family": "wizardmon",
+"Stage": 1,
+"Element1": "dark",
 "Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
@@ -13041,6 +16391,16 @@
 "Stage": 2,
 "Element1": "psychic",
 "Element2": "flying",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"woodmon": {
+"0": {
+"Family": "woodmon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -13095,6 +16455,16 @@
 "Stage": 4,
 "Element1": "bug",
 "Element2": "steel",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"wormmon": {
+"0": {
+"Family": "wormmon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -13221,6 +16591,16 @@
 "Stage": 4,
 "Element1": "bug",
 "Element2": "flying",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"yokomon": {
+"0": {
+"Family": "yokomon",
+"Stage": 1,
+"Element1": "grass",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }
@@ -13403,12 +16783,42 @@
 "WorstStat": -1
 }
 },
+"zubaeagermon": {
+"0": {
+"Family": "zubaeagermon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"zubamon": {
+"0": {
+"Family": "zubamon",
+"Stage": 1,
+"Element1": "normal",
+"Element2": "none",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
 "zubat": {
 "0": {
 "Family": "zubat",
 "Stage": 2,
 "Element1": "poison",
 "Element2": "flying",
+"BestStat": -1,
+"WorstStat": -1
+}
+},
+"zudomon": {
+"0": {
+"Family": "zudomon",
+"Stage": 1,
+"Element1": "water",
+"Element2": "none",
 "BestStat": -1,
 "WorstStat": -1
 }

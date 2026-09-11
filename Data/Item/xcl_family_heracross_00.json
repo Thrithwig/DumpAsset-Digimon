@@ -26,7 +26,7 @@
 "zh-hans": "赫拉克罗斯的专属道具。放在包里时，受到火属性攻击后，会使对手陷入无理取闹状态。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

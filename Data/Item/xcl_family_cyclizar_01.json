@@ -25,7 +25,7 @@
 "zh-hans": "摩托蜥的专属道具。放在包里时，使用物理招式后可能会提高移动速度。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

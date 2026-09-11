@@ -26,7 +26,7 @@
 "zh-hans": "大剑鬼一家的专属道具。放在包里时，被物理攻击击中后，会散落尖刺。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

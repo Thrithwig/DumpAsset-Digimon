@@ -27,7 +27,7 @@
 "zh-hans": "岩石属性宝可梦的专属道具。放在包里时，会根据队员数减少钢属性攻击对岩石属性队员的伤害。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

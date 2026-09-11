@@ -824,3 +824,14 @@ end
 
 
 
+
+-- Digimon consumable effects; source amounts and personality rules live in one module.
+function BATTLE_SCRIPT.DigimonTrainingFood(owner, ownerChar, context, args)
+  require('origin.digimon.item_effects').food(context.Target,args.stat)
+end
+function BATTLE_SCRIPT.DigimonBravePoint(owner, ownerChar, context, args)
+  require('origin.digimon.item_effects').experience(context.Target,args.amount)
+end
+function BATTLE_SCRIPT.DigimonRestraint(owner, ownerChar, context, args)
+  require('origin.digimon.item_effects').restraint(context.Target,args.stat)
+end

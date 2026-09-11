@@ -18,7 +18,7 @@ rest_stop.junction.south =
 -- north junction
 rest_stop.junction.north =
 {
-  dungeons = { 'thunderstruck_pass', 'veiled_ridge', 'snowbound_path', 'treacherous_mountain', 'hope_road', 'cave_of_whispers' },
+  dungeons = { 'thunderstruck_pass', 'veiled_ridge', 'snowbound_path', 'treacherous_mountain', 'cave_of_whispers' },
   --also dungeon 21: royal halls, is accessible by ???
   --also dungeon 22: cave of solace, is accessible by having 8 key items
   groundmaps ={{Flag=SV.final_stop.ExpositionComplete,Zone='guildmaster_island',ID=7,Entry=0},

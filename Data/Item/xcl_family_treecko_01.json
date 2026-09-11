@@ -28,7 +28,7 @@
 "zh-hans": "森林蜥蜴一家的专属道具。放在包里时，会更快从异常状态中恢复。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

@@ -1091,7 +1091,11 @@ function base_camp_2.Compute_Swap_Catalog()
 	local base_data = SV.base_trades[ii]
 	table.insert(catalog, base_data)
   end
-  return catalog
+  local available={}
+  for _,trade in ipairs(catalog) do
+    if _DATA:GetItem(trade.Item).Released then table.insert(available,trade) end
+  end
+  return available
 end
 
 function base_camp_2.Swap_Action(obj, activator)

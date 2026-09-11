@@ -24,7 +24,7 @@
 "zh-hans": "一种种子，会禁止宝可梦使用自己最后一次使用过的招式，阻止在迷宫中再次使用它。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Seed_Blue",
 "Icon": 4,

@@ -3,28 +3,12 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Sticky Barb",
-"LocalTexts": {
-"fr": "Piquants",
-"de": "Klettdorn",
-"es": "Toxiestrella",
-"it": "Vischiopunta",
-"ko": "끈적끈적바늘",
-"ja": "くっつきバリ",
-"ja-jp": "くっつきバリ",
-"zh-hans": "附着针",
-"zh-hant": "附著針"
-}
+"DefaultText": "Master Guard",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A held item that damages the holder and sticks when held. It may latch on to Pokémon that make contact with the holder.",
-"LocalTexts": {
-"fr": "Objet à tenir. Inflige des dégâts au porteur et devient collant lorsqu'il est tenu. Il est susceptible de s'accrocher aux ennemis ou alliés qui rentre en contact avec le porteur.",
-"de": "Bleibt kleben und verursacht beim Angreifen Schaden solange er gehalten wird. Er kann jedoch an Angreifern haften bleiben, die ihn berühren.",
-"it": "Uno strumento da dare a un Pokémon. Danneggia chi lo tiene, ma può attaccarsi al nemico che sferra un attacco fisico. Diventa viscido una volta tenuto.",
-"ko": "지니게 하면 데미지를 입고 끈적거리게 된다. 지닌 포켓몬과 접촉하는 포켓몬에게 옮겨갈 수도 있다.",
-"zh-hans": "携带后，此道具会被粘着，而攻击时也会受伤。有时也会附着到碰到自己的对手身上。"
-}
+"DefaultText": "Reduces incoming damage by 5%.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
@@ -190,18 +174,7 @@
 "ModifyHPs": [],
 "RestoreHPs": []
 },
-"OnEquips": [
-{
-"Key": {
-"str": [
-1
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.AutoCurseItemEvent, PMDC"
-}
-}
-],
+"OnEquips": [],
 "OnPickups": [],
 "BeforeStatusAdds": [],
 "BeforeStatusAddings": [],
@@ -220,8 +193,7 @@
 "BeforeActions": [],
 "OnActions": [],
 "BeforeHittings": [],
-"BeforeBeingHits": [],
-"AfterHittings": [
+"BeforeBeingHits": [
 {
 "Key": {
 "str": [
@@ -229,45 +201,16 @@
 ]
 },
 "Value": {
-"$type": "PMDC.Dungeon.HitCounterEvent, PMDC",
-"BaseEvents": [
-{
-"$type": "PMDC.Dungeon.SwitchHeldItemEvent, PMDC"
-}
-],
-"Targets": 6,
-"RequireDamage": true,
-"RequireContact": true,
-"RequireSurvive": false,
-"Chance": 100
+"$type": "PMDC.Dungeon.MultiplyDamageEvent, PMDC",
+"Numerator": 19,
+"Denominator": 20
 }
 }
 ],
+"AfterHittings": [],
 "AfterBeingHits": [],
 "OnHitTiles": [],
-"AfterActions": [
-{
-"Key": {
-"str": [
-0
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.OnAggressionEvent, PMDC",
-"BaseEvents": [
-{
-"$type": "PMDC.Dungeon.ChipDamageEvent, PMDC",
-"HPFraction": 12,
-"Msg": {
-"Key": null
-},
-"VFX": true,
-"SkipAction": true
-}
-]
-}
-}
-],
+"AfterActions": [],
 "UserElementEffects": [],
 "TargetElementEffects": [],
 "ModifyHPs": [],

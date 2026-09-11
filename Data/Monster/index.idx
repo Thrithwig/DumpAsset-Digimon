@@ -314,6 +314,26 @@
 "Comment": "",
 "SortOrder": 142
 },
+"aeroveedramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "AeroVeedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "AeroVeedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10150
+},
 "aggron": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -372,6 +392,66 @@
 "Comment": "",
 "SortOrder": 306
 },
+"agumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Agumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Agumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10018
+},
+"agumon_blk": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Agumon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Agumon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10019
+},
+"agunimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Agunimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Agunimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10068
+},
 "aipom": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -411,6 +491,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 190
+},
+"airdramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Airdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Airdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10075
 },
 "alakazam": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -1743,6 +1843,66 @@
 "Comment": "",
 "SortOrder": 594
 },
+"alphamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Alphamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Alphamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10219
+},
+"alphamon_nx": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Alphamon NX",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Alphamon NX",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10337
+},
+"alphamon_ouryuken": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Alphamon Ouryuken",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Alphamon Ouryuken",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10312
+},
 "altaria": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -1979,6 +2139,86 @@
 "Comment": "",
 "SortOrder": 181
 },
+"andromon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Andromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Andromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10144
+},
+"angemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Angemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Angemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10077
+},
+"angewomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Angewomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Angewomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10152
+},
+"ankylomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Ankylomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Ankylomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10070
+},
 "annihilape": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -2054,6 +2294,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 347
+},
+"antylamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Antylamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Antylamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10143
+},
+"apocalymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Apocalymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Apocalymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10332
 },
 "appletun": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -2145,6 +2425,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 840
+},
+"aquilamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Aquilamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Aquilamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10067
 },
 "araquanid": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -2261,6 +2561,126 @@
 "Released": false,
 "Comment": "",
 "SortOrder": 930
+},
+"arcadiamon_champion": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Arcadiamon Champion",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Arcadiamon Champion",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10069
+},
+"arcadiamon_in_tr": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Arcadiamon In-Tr.",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Arcadiamon In-Tr.",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10006
+},
+"arcadiamon_mega": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Arcadiamon Mega",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Arcadiamon Mega",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10218
+},
+"arcadiamon_rookie": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Arcadiamon Rookie",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Arcadiamon Rookie",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10020
+},
+"arcadiamon_ultimate": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Arcadiamon Ultimate",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Arcadiamon Ultimate",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10142
+},
+"arcadiamon_ultra": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Arcadiamon Ultra",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Arcadiamon Ultra",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10311
 },
 "arcanine": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -2838,6 +3258,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 168
+},
+"armadillomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Armadillomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Armadillomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10021
+},
+"armageddemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Armageddemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Armageddemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10310
 },
 "armaldo": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -3444,6 +3904,26 @@
 "Comment": "",
 "SortOrder": 371
 },
+"bakemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Bakemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Bakemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10124
+},
 "baltoy": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -3483,6 +3963,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 343
+},
+"bancholeomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "BanchoLeomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "BanchoLeomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10272
 },
 "banette": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -3541,6 +4041,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 354
+},
+"baohuckmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "BaoHuckmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "BaoHuckmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10123
+},
+"barbamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Barbamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Barbamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10271
 },
 "barbaracle": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -4032,6 +4572,46 @@
 "Comment": "",
 "SortOrder": 15
 },
+"beelzemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Beelzemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Beelzemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10281
+},
+"beelzemon_bm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Beelzemon BM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Beelzemon BM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10282
+},
 "beheeyem": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -4228,6 +4808,46 @@
 "Comment": "",
 "SortOrder": 69
 },
+"belphemon_rm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Belphemon RM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Belphemon RM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10321
+},
+"belphemon_sm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Belphemon SM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Belphemon SM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10283
+},
 "bergmite": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -4267,6 +4887,26 @@
 "Released": false,
 "Comment": "",
 "SortOrder": 712
+},
+"betamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Betamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Betamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10055
 },
 "bewear": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -4428,6 +5068,26 @@
 "Comment": "",
 "SortOrder": 688
 },
+"birdramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Birdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Birdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10122
+},
 "bisharp": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -4468,6 +5128,26 @@
 "Comment": "",
 "SortOrder": 625
 },
+"biyomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Biyomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Biyomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10050
+},
 "blacephalon": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -4507,6 +5187,66 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 806
+},
+"blackgatomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "BlackGatomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "BlackGatomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10128
+},
+"blackkingnumemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "BlackKingNumemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "BlackKingNumemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10191
+},
+"blackwargreymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "BlackWarGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "BlackWarGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10276
 },
 "blastoise": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -4755,6 +5495,26 @@
 "Comment": "",
 "SortOrder": 522
 },
+"bluemeramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "BlueMeramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "BlueMeramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10192
+},
 "boldore": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -4794,6 +5554,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 525
+},
+"boltmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Boltmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Boltmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10286
 },
 "boltund": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -4910,6 +5690,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 438
+},
+"botamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Botamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Botamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10004
 },
 "bouffalant": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -5155,6 +5955,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 628
+},
+"breakdramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Breakdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Breakdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10278
 },
 "breloom": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -5472,6 +6292,26 @@
 "Comment": "",
 "SortOrder": 418
 },
+"bukamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Bukamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Bukamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10015
+},
 "bulbasaur": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -5658,6 +6498,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 412
+},
+"burninggreymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "BurningGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "BurningGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10149
 },
 "butterfree": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -5963,6 +6823,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 323
+},
+"cannonbeemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "CannonBeemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "CannonBeemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10158
 },
 "capsakid": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -6334,6 +7214,26 @@
 "Comment": "",
 "SortOrder": 351
 },
+"catchmamemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "CatchMamemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "CatchMamemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10157
+},
 "caterpie": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -6693,6 +7593,86 @@
 "Comment": "",
 "SortOrder": 113
 },
+"chaosdramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Chaosdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Chaosdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10233
+},
+"chaosgallantmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "ChaosGallantmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "ChaosGallantmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10232
+},
+"chaosmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Chaosmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Chaosmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10317
+},
+"chaosmon_va": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Chaosmon VA",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Chaosmon VA",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10318
+},
 "charcadet": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -7033,6 +8013,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 421
+},
+"cherrymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Cherrymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Cherrymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10165
 },
 "cherubi": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -7430,6 +8430,26 @@
 "Comment": "",
 "SortOrder": 433
 },
+"chirinmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Chirinmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Chirinmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10174
+},
 "chi_yu": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -7465,6 +8485,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 1004
+},
+"chuumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Chuumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Chuumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10038
 },
 "cinccino": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -7877,6 +8917,26 @@
 "Comment": "",
 "SortOrder": 852
 },
+"clockmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Clockmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Clockmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10092
+},
 "clodsire": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -8043,6 +9103,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 638
+},
+"coelamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Coelamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Coelamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10104
 },
 "cofagrigus": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -8294,6 +9374,46 @@
 "Released": false,
 "Comment": "",
 "SortOrder": 879
+},
+"coredramon_blue": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Coredramon (Blue)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Coredramon (Blue)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10096
+},
+"coredramon_green": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Coredramon (Green)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Coredramon (Green)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10097
 },
 "corphish": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -8800,6 +9920,26 @@
 "Comment": "",
 "SortOrder": 845
 },
+"craniamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Craniamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Craniamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10241
+},
 "cranidos": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -8879,6 +10019,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 342
+},
+"creepymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Creepymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Creepymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10261
+},
+"crescemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Crescemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Crescemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10162
 },
 "cresselia": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -9075,6 +10255,66 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 159
+},
+"crowmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Crowmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Crowmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10208
+},
+"crusadermon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Crusadermon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Crusadermon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10306
+},
+"crusadermon_nx": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Crusadermon NX",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Crusadermon NX",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10338
 },
 "crustle": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -9356,6 +10596,26 @@
 "Comment": "",
 "SortOrder": 742
 },
+"cyberdramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Cyberdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Cyberdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10163
+},
 "cyclizar": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -9391,6 +10651,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 967
+},
+"cyclonemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Cyclonemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Cyclonemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10100
 },
 "cyndaquil": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -9467,6 +10747,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 927
+},
+"darkdramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Darkdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Darkdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10255
 },
 "darkrai": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -9699,6 +10999,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 554
+},
+"datamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Datamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Datamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10183
 },
 "decidueye": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -10035,6 +11355,26 @@
 "Comment": "",
 "SortOrder": 655
 },
+"demidevimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "DemiDevimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "DemiDevimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10049
+},
 "deoxys": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -10128,6 +11468,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 386
+},
+"devimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Devimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Devimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10116
 },
 "dewgong": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -10289,6 +11649,26 @@
 "Comment": "",
 "SortOrder": 781
 },
+"diaboromon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Diaboromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Diaboromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10260
+},
 "dialga": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -10341,6 +11721,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 483
+},
+"dianamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Dianamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Dianamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10259
 },
 "diancie": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -10440,6 +11840,26 @@
 "Comment": "",
 "SortOrder": 660
 },
+"digitamamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Digitamamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Digitamamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10176
+},
 "diglett": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -10497,6 +11917,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 50
+},
+"dinobeemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Dinobeemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Dinobeemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10175
 },
 "ditto": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -10730,6 +12170,86 @@
 "Comment": "",
 "SortOrder": 232
 },
+"dorugamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Dorugamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Dorugamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10119
+},
+"dorugoramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Dorugoramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Dorugoramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10267
+},
+"dorugreymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "DoruGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "DoruGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10181
+},
+"dorumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Dorumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Dorumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10044
+},
 "dottler": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -10809,6 +12329,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 680
+},
+"dracmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Dracmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Dracmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10042
+},
+"dracomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Dracomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Dracomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10043
 },
 "dracovish": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -10969,6 +12529,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 887
+},
+"dragomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Dragomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Dragomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10173
 },
 "dragonair": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -11862,6 +13442,46 @@
 "Comment": "",
 "SortOrder": 884
 },
+"duramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Duramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Duramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10178
+},
+"durandamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Durandamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Durandamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10264
+},
 "durant": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -12101,6 +13721,46 @@
 "Released": false,
 "Comment": "",
 "SortOrder": 557
+},
+"dynasmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Dynasmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Dynasmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10263
+},
+"ebemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Ebemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Ebemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10221
 },
 "eelektrik": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -12359,6 +14019,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 830
+},
+"elecmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Elecmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Elecmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10023
 },
 "electabuzz": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -12974,6 +14654,26 @@
 "Comment": "",
 "SortOrder": 677
 },
+"etemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Etemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Etemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10151
+},
 "eternatus": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -13031,6 +14731,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 890
+},
+"examon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Examon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Examon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10314
 },
 "excadrill": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -13210,6 +14930,46 @@
 "Comment": "",
 "SortOrder": 295
 },
+"exveemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "ExVeemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "ExVeemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10076
+},
+"falcomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Falcomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Falcomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10051
+},
 "falinks": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -13249,6 +15009,26 @@
 "Released": false,
 "Comment": "",
 "SortOrder": 870
+},
+"fanbeemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "FanBeemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "FanBeemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10052
 },
 "farfetchd": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -13832,6 +15612,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 669
+},
+"flamedramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Flamedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Flamedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10323
 },
 "flamigo": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -14633,6 +16433,26 @@
 "Comment": "",
 "SortOrder": 996
 },
+"frigimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Frigimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Frigimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10133
+},
 "frillish": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -15121,6 +16941,66 @@
 "Comment": "",
 "SortOrder": 444
 },
+"gabumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gabumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gabumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10027
+},
+"gabumon_blk": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gabumon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gabumon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10028
+},
+"gaiomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gaiomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gaiomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10230
+},
 "gallade": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -15179,6 +17059,66 @@
 "Comment": "",
 "SortOrder": 475
 },
+"gallantmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gallantmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gallantmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10262
+},
+"gallantmon_cm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gallantmon CM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gallantmon CM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10320
+},
+"gallantmon_nx": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gallantmon NX",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gallantmon NX",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10341
+},
 "galvantula": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -15218,6 +17158,66 @@
 "Released": false,
 "Comment": "",
 "SortOrder": 596
+},
+"gankoomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gankoomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gankoomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10234
+},
+"gaogamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "GaoGamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "GaoGamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10081
+},
+"gaomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gaomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gaomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10025
 },
 "garbodor": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -15422,6 +17422,86 @@
 "Comment": "",
 "SortOrder": 934
 },
+"gargomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gargomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gargomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10084
+},
+"garudamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Garudamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Garudamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10154
+},
+"garurumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Garurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Garurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10085
+},
+"garurumon_blk": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Garurumon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Garurumon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10086
+},
 "gastly": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -15519,6 +17599,66 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 423
+},
+"gatomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gatomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gatomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10115
+},
+"gazimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gazimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gazimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10026
+},
+"gekomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gekomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gekomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10094
 },
 "genesect": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -15747,6 +17887,46 @@
 "Comment": "",
 "SortOrder": 74
 },
+"geogreymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "GeoGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "GeoGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10105
+},
+"geremon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Geremon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Geremon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10095
+},
 "gholdengo": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -15822,6 +18002,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 443
+},
+"gigadramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gigadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gigadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10156
 },
 "gigalith": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -15914,6 +18114,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 999
+},
+"ginryumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Ginryumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Ginryumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10329
 },
 "girafarig": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -16383,6 +18603,26 @@
 "Comment": "",
 "SortOrder": 44
 },
+"goblimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Goblimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Goblimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10033
+},
 "gogoat": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -16503,6 +18743,46 @@
 "Comment": "",
 "SortOrder": 118
 },
+"goldnumemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "GoldNumemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "GoldNumemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10098
+},
+"goldramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Goldramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Goldramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10244
+},
 "golduck": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -16600,6 +18880,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 76
+},
+"golemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Golemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Golemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10099
 },
 "golett": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -16720,6 +19020,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 623
+},
+"gomamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gomamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gomamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10034
 },
 "goodra": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -17014,6 +19334,26 @@
 "Comment": "",
 "SortOrder": 575
 },
+"gotsumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gotsumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gotsumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10032
+},
 "gourgeist": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -17108,6 +19448,26 @@
 "Comment": "",
 "SortOrder": 711
 },
+"grademon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Grademon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Grademon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10161
+},
 "grafaiai": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -17183,6 +19543,66 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 210
+},
+"grandracmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "GranDracmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "GranDracmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10238
+},
+"grankuwagamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "GranKuwagamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "GranKuwagamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10237
+},
+"grapleomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "GrapLeomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "GrapLeomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10160
 },
 "grapploct": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -17434,6 +19854,46 @@
 "Comment": "",
 "SortOrder": 658
 },
+"greymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Greymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Greymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10090
+},
+"greymon_blue": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Greymon (Blue)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Greymon (Blue)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10091
+},
 "grimer": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -17681,6 +20141,46 @@
 "Comment": "",
 "SortOrder": 383
 },
+"groundlocomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "GroundLocomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "GroundLocomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10239
+},
+"groundramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Groundramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Groundramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10159
+},
 "grovyle": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -17774,6 +20274,26 @@
 "Comment": "",
 "SortOrder": 58
 },
+"growlmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Growlmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Growlmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10088
+},
 "grubbin": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -17853,6 +20373,86 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 326
+},
+"gryphonmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Gryphonmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Gryphonmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10240
+},
+"guardromon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Guardromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Guardromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10079
+},
+"guardromon_gold": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Guardromon (Gold)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Guardromon (Gold)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10080
+},
+"guilmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Guilmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Guilmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10029
 },
 "gulpin": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -18071,6 +20671,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 130
+},
+"hackmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Hackmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Hackmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10047
+},
+"hagurumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Hagurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Hagurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10045
 },
 "hakamo_o": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -18362,6 +21002,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 93
+},
+"hawkmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Hawkmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Hawkmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10056
 },
 "hawlucha": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -18661,6 +21321,26 @@
 "Comment": "",
 "SortOrder": 214
 },
+"herculeskabuterimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "HerculesKabuterimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "HerculesKabuterimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10280
+},
 "herdier": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -18700,6 +21380,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 507
+},
+"hiandromon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "HiAndromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "HiAndromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10269
+},
+"hippogryphonmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "HippoGryphonmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "HippoGryphonmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10189
 },
 "hippopotas": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -18780,6 +21500,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 450
+},
+"hisyaryumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Hisyaryumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Hisyaryumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10330
 },
 "hitmonchan": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -19293,6 +22033,26 @@
 "Comment": "",
 "SortOrder": 972
 },
+"hououmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Hououmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Hououmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10284
+},
 "ho_oh": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -19332,6 +22092,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 250
+},
+"hudiemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Hudiemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Hudiemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10126
 },
 "huntail": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -19453,6 +22233,46 @@
 "Comment": "",
 "SortOrder": 97
 },
+"icedevimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "IceDevimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "IceDevimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10065
+},
+"icemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Icemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Icemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10066
+},
 "igglybuff": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -19492,6 +22312,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 174
+},
+"ikkakumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Ikkakumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Ikkakumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10071
 },
 "illumise": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -19533,6 +22373,66 @@
 "Comment": "",
 "SortOrder": 314
 },
+"imperialdramon_dm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Imperialdramon DM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Imperialdramon DM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10222
+},
+"imperialdramon_fm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Imperialdramon FM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Imperialdramon FM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10223
+},
+"imperialdramon_pm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Imperialdramon PM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Imperialdramon PM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10313
+},
 "impidimp": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -19572,6 +22472,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 859
+},
+"impmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Impmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Impmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10022
 },
 "incineroar": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -19670,6 +22590,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 876
+},
+"infermon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Infermon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Infermon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10146
 },
 "infernape": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -20210,6 +23150,26 @@
 "Comment": "",
 "SortOrder": 593
 },
+"jesmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Jesmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Jesmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10247
+},
 "jigglypuff": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -20410,6 +23370,26 @@
 "Comment": "",
 "SortOrder": 189
 },
+"justimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Justimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Justimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10250
+},
 "jynx": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -20449,6 +23429,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 124
+},
+"kabuterimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kabuterimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kabuterimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10082
 },
 "kabuto": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -20569,6 +23569,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 64
+},
+"kaisergreymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "KaiserGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "KaiserGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10231
 },
 "kakuna": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -20846,6 +23866,106 @@
 "Comment": "",
 "SortOrder": 647
 },
+"kendogarurumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "KendoGarurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "KendoGarurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10155
+},
+"kentaurosmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kentaurosmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kentaurosmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10251
+},
+"keramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Keramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Keramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10031
+},
+"kerpymon_blk": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kerpymon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kerpymon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10242
+},
+"kerpymon_good": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kerpymon (Good)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kerpymon (Good)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10243
+},
 "kilowattrel": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -20957,6 +24077,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 230
+},
+"kingetemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "KingEtemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "KingEtemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10235
 },
 "kingler": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -21283,6 +24423,26 @@
 "Comment": "",
 "SortOrder": 601
 },
+"knightmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Knightmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Knightmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10182
+},
 "koffing": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -21438,6 +24598,26 @@
 "Released": false,
 "Comment": "",
 "SortOrder": 1007
+},
+"koromon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Koromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Koromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10007
 },
 "krabby": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -21679,6 +24859,106 @@
 "Comment": "",
 "SortOrder": 891
 },
+"kudamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kudamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kudamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10030
+},
+"kuramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kuramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kuramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10001
+},
+"kurisarimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kurisarimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kurisarimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10089
+},
+"kuwagamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kuwagamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kuwagamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10093
+},
+"kuzuhamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kuzuhamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kuzuhamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10236
+},
 "kyogre": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -21736,6 +25016,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 382
+},
+"kyubimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kyubimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kyubimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10087
 },
 "kyurem": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -21813,6 +25113,26 @@
 "Comment": "",
 "SortOrder": 646
 },
+"ladydevimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "LadyDevimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "LadyDevimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10214
+},
 "lairon": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -21852,6 +25172,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 305
+},
+"lalamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lalamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lalamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10059
 },
 "lampent": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -22434,6 +25774,126 @@
 "Comment": "",
 "SortOrder": 165
 },
+"lekismon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lekismon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lekismon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10138
+},
+"leomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Leomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Leomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10137
+},
+"leopardmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Leopardmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Leopardmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10265
+},
+"leopardmon_lm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Leopardmon LM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Leopardmon LM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10266
+},
+"leopardmon_nx": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Leopardmon NX",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Leopardmon NX",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10339
+},
+"leviamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Leviamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Leviamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10302
+},
 "lickilicky": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -22554,6 +26014,26 @@
 "Comment": "",
 "SortOrder": 510
 },
+"lilamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lilamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lilamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10210
+},
 "lileep": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -22593,6 +26073,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 345
+},
+"lilithmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lilithmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lilithmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10303
 },
 "lilligant": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -22686,6 +26186,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 506
+},
+"lillymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lillymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lillymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10212
 },
 "linoone": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -22865,6 +26385,26 @@
 "Comment": "",
 "SortOrder": 607
 },
+"lobomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lobomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lobomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10073
+},
 "lokix": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -22940,6 +26480,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 271
+},
+"lopmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lopmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lopmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10063
 },
 "lopunny": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -23039,6 +26599,26 @@
 "Comment": "",
 "SortOrder": 270
 },
+"lotosmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lotosmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lotosmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10309
+},
 "loudred": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -23136,6 +26716,66 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 448
+},
+"lucemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lucemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lucemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10060
+},
+"lucemon_fm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lucemon FM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lucemon FM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10213
+},
+"lucemon_sm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lucemon SM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lucemon SM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10322
 },
 "ludicolo": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -23296,6 +26936,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 792
+},
+"lunamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Lunamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Lunamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10061
 },
 "lunatone": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -23660,6 +27320,46 @@
 "Comment": "",
 "SortOrder": 68
 },
+"machgaogamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MachGaogamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MachGaogamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10198
+},
+"machinedramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Machinedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Machinedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10294
+},
 "machoke": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -23998,6 +27698,106 @@
 "Comment": "",
 "SortOrder": 467
 },
+"magnaangemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MagnaAngemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MagnaAngemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10195
+},
+"magnadramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Magnadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Magnadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10285
+},
+"magnagarurumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MagnaGarurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MagnaGarurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10287
+},
+"magnagarurumon_sv": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MagnaGarurumon (SV)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MagnaGarurumon (SV)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10288
+},
+"magnamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Magnamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Magnamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10324
+},
 "magnemite": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -24197,6 +27997,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 687
+},
+"mamemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Mamemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Mamemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10199
 },
 "mamoswine": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -24656,6 +28476,26 @@
 "Comment": "",
 "SortOrder": 183
 },
+"marineangemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MarineAngemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MarineAngemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10290
+},
 "marowak": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -24870,6 +28710,46 @@
 "Comment": "",
 "SortOrder": 284
 },
+"mastemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Mastemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Mastemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10289
+},
+"matadormon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Matadormon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Matadormon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10197
+},
 "maushold": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -25078,6 +28958,66 @@
 "Comment": "",
 "SortOrder": 307
 },
+"megadramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Megadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Megadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10201
+},
+"megagargomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MegaGargomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MegaGargomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10254
+},
+"megakabuterimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MegaKabuterimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MegaKabuterimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10141
+},
 "meganium": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -25117,6 +29057,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 154
+},
+"megaseadramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MegaSeadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MegaSeadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10200
+},
+"megidramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Megidramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Megidramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10295
 },
 "melmetal": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -25448,6 +29428,46 @@
 "Comment": "",
 "SortOrder": 52
 },
+"meramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Meramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Meramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10131
+},
+"merukimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Merukimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Merukimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10300
+},
 "mesprit": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -25546,6 +29566,166 @@
 "Comment": "",
 "SortOrder": 376
 },
+"metaletemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MetalEtemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MetalEtemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10296
+},
+"metalgarurumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MetalGarurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MetalGarurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10297
+},
+"metalgarurumon_blk": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MetalGarurumon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MetalGarurumon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10298
+},
+"metalgreymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MetalGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MetalGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10203
+},
+"metalgreymon_blue": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MetalGreymon (Blue)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MetalGreymon (Blue)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10204
+},
+"metalmamemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MetalMamemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MetalMamemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10206
+},
+"metalseadramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MetalSeadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MetalSeadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10299
+},
+"metaltyrannomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MetalTyrannomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MetalTyrannomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10205
+},
 "metang": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -25625,6 +29805,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 11
+},
+"meteormon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Meteormon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Meteormon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10145
 },
 "mew": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -26120,6 +30320,26 @@
 "Comment": "",
 "SortOrder": 572
 },
+"minervamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Minervamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Minervamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10291
+},
 "minior": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -26434,6 +30654,46 @@
 "Comment": "",
 "SortOrder": 312
 },
+"miragegaogamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MirageGaogamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MirageGaogamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10292
+},
+"miragegaogamon_bm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MirageGaogamon BM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MirageGaogamon BM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10293
+},
 "miraidon": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -26676,6 +30936,66 @@
 "Comment": "",
 "SortOrder": 391
 },
+"monochromon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Monochromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Monochromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10132
+},
+"monodramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Monodramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Monodramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10058
+},
+"monzaemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Monzaemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Monzaemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10207
+},
 "morelull": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -26854,6 +31174,26 @@
 "Comment": "",
 "SortOrder": 414
 },
+"motimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Motimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Motimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10016
+},
 "mr_mime": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -26991,6 +31331,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 749
+},
+"mudfrigimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "MudFrigimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "MudFrigimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10113
 },
 "mudkip": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -27290,6 +31650,46 @@
 "Comment": "",
 "SortOrder": 518
 },
+"mushroomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Mushroomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Mushroomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10057
+},
+"myotismon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Myotismon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Myotismon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10147
+},
 "nacli": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -27401,6 +31801,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 804
+},
+"nanimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Nanimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Nanimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10120
 },
 "natu": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -27535,6 +31955,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 800
+},
+"neptunemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Neptunemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Neptunemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10268
 },
 "nickit": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -28194,6 +32634,26 @@
 "Comment": "",
 "SortOrder": 322
 },
+"numemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Numemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Numemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10121
+},
 "nuzleaf": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -28233,6 +32693,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 274
+},
+"nyaromon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Nyaromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Nyaromon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10012
 },
 "nymble": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -28390,6 +32870,26 @@
 "Comment": "",
 "SortOrder": 43
 },
+"ogremon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Ogremon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Ogremon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10078
+},
 "oinkologne": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -28441,6 +32941,26 @@
 "Released": false,
 "Comment": "",
 "SortOrder": 916
+},
+"okuwamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Okuwamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Okuwamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10153
 },
 "omanyte": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -28522,6 +33042,86 @@
 "Comment": "",
 "SortOrder": 139
 },
+"omnimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Omnimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Omnimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10315
+},
+"omnimon_nx": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Omnimon NX",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Omnimon NX",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10340
+},
+"omnimon_zwart": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Omnimon Zwart",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Omnimon Zwart",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10316
+},
+"omnishoutmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "OmniShoutmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "OmniShoutmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10327
+},
 "onix": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -28561,6 +33161,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 95
+},
+"ophanimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Ophanimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Ophanimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10229
 },
 "oranguru": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -28823,6 +33443,46 @@
 "Comment": "",
 "SortOrder": 501
 },
+"otamamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Otamamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Otamamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10024
+},
+"ouryumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Ouryumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Ouryumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10331
+},
 "overqwil": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -28860,6 +33520,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 904
+},
+"pabumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Pabumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Pabumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10002
 },
 "pachirisu": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -28900,6 +33580,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 417
+},
+"pagumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Pagumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Pagumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10013
+},
+"paildramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Paildramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Paildramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10184
 },
 "palafin": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -29005,6 +33725,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 484
+},
+"palmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Palmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Palmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10048
 },
 "palossand": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -29126,6 +33866,26 @@
 "Comment": "",
 "SortOrder": 674
 },
+"pandamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Pandamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Pandamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10186
+},
 "pangoro": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -29165,6 +33925,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 675
+},
+"panjyamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Panjyamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Panjyamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10185
 },
 "panpour": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -29406,6 +34186,26 @@
 "Comment": "",
 "SortOrder": 766
 },
+"patamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Patamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Patamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10046
+},
 "patrat": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -29593,6 +34393,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 624
+},
+"peckmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Peckmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Peckmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10130
 },
 "pelipper": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -29811,6 +34631,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 231
+},
+"phantomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Phantomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Phantomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10190
 },
 "phantump": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -30150,6 +34990,26 @@
 "Comment": "",
 "SortOrder": 519
 },
+"piedmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Piedmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Piedmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10273
+},
 "pignite": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -30280,6 +35140,26 @@
 "Released": false,
 "Comment": "",
 "SortOrder": 731
+},
+"pilevolcamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "PileVolcamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "PileVolcamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10270
 },
 "piloswine": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -30498,6 +35378,86 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 393
+},
+"piximon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Piximon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Piximon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10188
+},
+"platinumnumemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "PlatinumNumemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "PlatinumNumemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10275
+},
+"platinumsukamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "PlatinumSukamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "PlatinumSukamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10127
+},
+"plesiomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Plesiomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Plesiomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10279
 },
 "plusle": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -31043,6 +36003,26 @@
 "Comment": "",
 "SortOrder": 474
 },
+"poyomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Poyomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Poyomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10005
+},
 "primarina": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -31122,6 +36102,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 57
+},
+"princemamemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "PrinceMamemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "PrinceMamemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10277
 },
 "prinplup": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -31337,6 +36337,46 @@
 "Comment": "",
 "SortOrder": 710
 },
+"pumpkinmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Pumpkinmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Pumpkinmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10187
+},
+"punimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Punimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Punimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10003
+},
 "pupitar": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -31376,6 +36416,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 247
+},
+"puppetmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Puppetmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Puppetmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10274
 },
 "purrloin": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -32130,6 +37190,86 @@
 "Comment": "",
 "SortOrder": 78
 },
+"rapidmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Rapidmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Rapidmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10211
+},
+"rapidmon_armor": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Rapidmon (Armor)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Rapidmon (Armor)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10325
+},
+"raptordramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Raptordramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Raptordramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10135
+},
+"raremon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Raremon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Raremon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10136
+},
 "raticate": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -32245,6 +37385,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 19
+},
+"ravemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Ravemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Ravemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10304
+},
+"ravemon_bm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Ravemon BM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Ravemon BM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10305
 },
 "rayquaza": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -32660,6 +37840,46 @@
 "Comment": "",
 "SortOrder": 223
 },
+"renamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Renamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Renamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10062
+},
+"reppamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Reppamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Reppamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10139
+},
 "reshiram": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -33027,6 +38247,26 @@
 "Comment": "",
 "SortOrder": 447
 },
+"rizegreymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "RizeGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "RizeGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10209
+},
 "roaring_moon": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -33262,6 +38502,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 315
+},
+"rosemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Rosemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Rosemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10307
+},
+"rosemon_bm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Rosemon BM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Rosemon BM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10308
 },
 "roserade": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -33553,6 +38833,66 @@
 "Comment": "",
 "SortOrder": 867
 },
+"rusttyranomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "RustTyranomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "RustTyranomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10301
+},
+"ryudamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Ryudamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Ryudamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10328
+},
+"saberleomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "SaberLeomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "SaberLeomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10245
+},
 "sableye": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -33611,6 +38951,26 @@
 "Comment": "",
 "SortOrder": 302
 },
+"sakuyamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Sakuyamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Sakuyamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10246
+},
 "salamence": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -33668,6 +39028,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 373
+},
+"salamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Salamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Salamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10054
 },
 "salandit": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -34084,6 +39464,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 989
+},
+"sangloupmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Sangloupmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Sangloupmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10101
+},
+"saviorhuckmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "SaviorHuckmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "SaviorHuckmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10171
 },
 "sawk": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -34675,6 +40095,26 @@
 "Comment": "",
 "SortOrder": 117
 },
+"seadramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Seadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Seadramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10103
+},
 "seaking": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -34915,6 +40355,26 @@
 "Comment": "",
 "SortOrder": 161
 },
+"seraphimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Seraphimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Seraphimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10253
+},
 "serperior": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -35074,6 +40534,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 540
+},
+"shakkoumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Shakkoumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Shakkoumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10164
 },
 "sharpedo": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -35311,6 +40791,26 @@
 "Comment": "",
 "SortOrder": 90
 },
+"shellnumemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "ShellNumemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "ShellNumemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10083
+},
 "shellos": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -35529,6 +41029,46 @@
 "Comment": "",
 "SortOrder": 756
 },
+"shinegreymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "ShineGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "ShineGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10248
+},
+"shinegreymon_bm": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "ShineGreymon BM",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "ShineGreymon BM",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10249
+},
 "shinx": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -35568,6 +41108,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 403
+},
+"shogungekomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "ShogunGekomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "ShogunGekomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10179
+},
+"shoutmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Shoutmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Shoutmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10326
 },
 "shroodle": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -35844,6 +41424,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 843
+},
+"silphymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Silphymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Silphymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10166
 },
 "silvally": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -36397,6 +41997,86 @@
 "Comment": "",
 "SortOrder": 865
 },
+"sistermon_blanc": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Sistermon Blanc",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Sistermon Blanc",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10333
+},
+"sistermon_b_awake": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Sistermon B (Awake.)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Sistermon B (Awake.)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10334
+},
+"sistermon_ciel": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Sistermon Ciel",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Sistermon Ciel",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10335
+},
+"sistermon_c_awake": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Sistermon C (Awake.)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Sistermon C (Awake.)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10336
+},
 "sizzlipede": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -36713,6 +42393,66 @@
 "Comment": "",
 "SortOrder": 690
 },
+"skullgreymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "SkullGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "SkullGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10168
+},
+"skullmeramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "SkullMeramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "SkullMeramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10177
+},
+"skullsatamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "SkullSatamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "SkullSatamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10169
+},
 "skuntank": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -36872,6 +42612,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 287
+},
+"slayerdramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Slayerdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Slayerdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10252
 },
 "sliggoo": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -37731,6 +43491,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 816
+},
+"socerimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Socerimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Socerimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10111
+},
+"solarmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Solarmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Solarmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10037
 },
 "solgaleo": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -38648,6 +44448,26 @@
 "Comment": "",
 "SortOrder": 121
 },
+"starmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Starmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Starmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10107
+},
 "staryu": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -38786,6 +44606,26 @@
 "Comment": "",
 "SortOrder": 762
 },
+"stingmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Stingmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Stingmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10108
+},
 "stonjourner": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -38865,6 +44705,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 508
+},
+"strikedramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Strikedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Strikedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10109
 },
 "stufful": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -39084,6 +44944,26 @@
 "Comment": "",
 "SortOrder": 245
 },
+"sukamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Sukamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Sukamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10106
+},
 "sunflora": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -39123,6 +45003,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 192
+},
+"sunflowmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Sunflowmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Sunflowmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10102
 },
 "sunkern": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -39164,6 +45064,26 @@
 "Comment": "",
 "SortOrder": 191
 },
+"superstarmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "SuperStarmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "SuperStarmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10167
+},
 "surskit": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -39203,6 +45123,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 283
+},
+"susanomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Susanomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Susanomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10319
 },
 "swablu": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -39582,6 +45522,26 @@
 "Comment": "",
 "SortOrder": 528
 },
+"syakomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Syakomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Syakomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10035
+},
 "sylveon": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -39774,6 +45734,26 @@
 "Comment": "",
 "SortOrder": 924
 },
+"tanemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Tanemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Tanemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10008
+},
 "tangela": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -39853,6 +45833,46 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 465
+},
+"tankmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Tankmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Tankmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10112
+},
+"taomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Taomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Taomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10172
 },
 "tapu_bulu": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -40332,6 +46352,26 @@
 "Comment": "",
 "SortOrder": 73
 },
+"tentomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Tentomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Tentomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10040
+},
 "tepig": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -40411,6 +46451,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 639
+},
+"terriermon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Terriermon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Terriermon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10039
 },
 "thievul": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -40589,6 +46649,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 811
+},
+"tigervespamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "TigerVespamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "TigerVespamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10256
 },
 "timburr": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -40814,6 +46894,26 @@
 "Comment": "",
 "SortOrder": 564
 },
+"titamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Titamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Titamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10257
+},
 "toedscool": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -40966,6 +47066,26 @@
 "Comment": "",
 "SortOrder": 468
 },
+"togemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Togemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Togemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10118
+},
 "togepi": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -41045,6 +47165,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 176
+},
+"tokomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Tokomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Tokomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10011
 },
 "torchic": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -41544,6 +47684,26 @@
 "Comment": "",
 "SortOrder": 849
 },
+"toyagumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "ToyAgumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "ToyAgumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10041
+},
 "tranquill": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -41703,6 +47863,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 709
+},
+"triceramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Triceramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Triceramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10180
 },
 "tropius": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -41864,6 +48044,46 @@
 "Comment": "",
 "SortOrder": 763
 },
+"tsumemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Tsumemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Tsumemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10010
+},
+"tsunomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Tsunomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Tsunomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10009
+},
 "turtonator": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -41943,6 +48163,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 387
+},
+"turuiemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Turuiemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Turuiemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10117
 },
 "tympole": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -42175,6 +48415,46 @@
 "Comment": "",
 "SortOrder": 248
 },
+"tyrannomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Tyrannomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Tyrannomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10114
+},
+"tyrantkabuterimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "TyrantKabuterimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "TyrantKabuterimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10258
+},
 "tyrantrum": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -42295,6 +48575,26 @@
 "Comment": "",
 "SortOrder": 696
 },
+"ulforceveedramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "UlforceVeedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "UlforceVeedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10220
+},
 "umbreon": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -42374,6 +48674,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 521
+},
+"unimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Unimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Unimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10134
 },
 "unown": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -43015,6 +49335,46 @@
 "Comment": "",
 "SortOrder": 480
 },
+"vademon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Vademon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Vademon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10193
+},
+"valkyrimon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Valkyrimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Valkyrimon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10225
+},
 "vanillish": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -43175,6 +49535,26 @@
 "Comment": "",
 "SortOrder": 134
 },
+"varodurumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Varodurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Varodurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10226
+},
 "varoom": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -43210,6 +49590,66 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 965
+},
+"veedramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Veedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Veedramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10125
+},
+"veemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Veemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Veemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10053
+},
+"vegiemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Vegiemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Vegiemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10129
 },
 "veluza": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -43286,6 +49726,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 543
+},
+"venommyotismon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "VenomMyotismon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "VenomMyotismon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10227
 },
 "venomoth": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -43675,6 +50135,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 738
+},
+"vikemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Vikemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Vikemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10224
 },
 "vileplume": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -44158,6 +50638,26 @@
 "Comment": "",
 "SortOrder": 721
 },
+"volcanomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Volcanomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Volcanomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10196
+},
 "volcarona": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -44505,6 +51005,66 @@
 "Comment": "",
 "SortOrder": 365
 },
+"wanyamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Wanyamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Wanyamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10017
+},
+"wargreymon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "WarGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "WarGreymon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10228
+},
+"wargrowlmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "WarGrowlmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "WarGrowlmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10202
+},
 "wartortle": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -44544,6 +51104,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 8
+},
+"waspmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Waspmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Waspmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10140
 },
 "watchog": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -44798,6 +51378,66 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 110
+},
+"weregarurumon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "WereGarurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "WereGarurumon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10215
+},
+"weregarurumon_blk": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "WereGarurumon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "WereGarurumon (Blk)",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10216
+},
+"whamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Whamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Whamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10194
 },
 "whimsicott": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -45075,6 +51715,26 @@
 "Comment": "",
 "SortOrder": 767
 },
+"wingdramon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Wingdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Wingdramon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10148
+},
 "wingull": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -45114,6 +51774,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 278
+},
+"wisemon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Wisemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Wisemon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10217
 },
 "wishiwashi": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -45172,6 +51852,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 746
+},
+"wizardmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Wizardmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Wizardmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10072
 },
 "wobbuffet": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -45252,6 +51952,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 527
+},
+"woodmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Woodmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Woodmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10074
 },
 "wooloo": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -45426,6 +52146,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 413
+},
+"wormmon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Wormmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Wormmon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10064
 },
 "wo_chien": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -45932,6 +52672,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 469
+},
+"yokomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Yokomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Yokomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10014
 },
 "yungoos": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
@@ -46551,6 +53311,46 @@
 "Comment": "",
 "SortOrder": 570
 },
+"zubaeagermon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Zubaeagermon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Zubaeagermon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10110
+},
+"zubamon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Zubamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Zubamon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10036
+},
 "zubat": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
 "Forms": [
@@ -46590,6 +53390,26 @@
 "Released": true,
 "Comment": "",
 "SortOrder": 41
+},
+"zudomon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Zudomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Zudomon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon Phase 1",
+"SortOrder": 10170
 },
 "zweilous": {
 "$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",

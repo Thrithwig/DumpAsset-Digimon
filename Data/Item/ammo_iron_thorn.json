@@ -3,30 +3,16 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Iron Thorn",
-"LocalTexts": {
-"fr": "Epine de Fer",
-"de": "Eisendorn",
-"it": "Puntacciaio",
-"ko": "철가시",
-"ja": "てつのトゲ",
-"ja-jp": "てつのトゲ",
-"zh-hans": "钢刺"
-}
+"DefaultText": "DEF Restraint Chip C",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A weapon to be hurled. It flies in a straight line to inflict damage on any Pokémon it hits. Critical hits land more easily.",
-"LocalTexts": {
-"fr": "Objet à lancer qui inflige des dégâts et baisse l'Attaque du Pokémon qu'il touche. Taux de coups critiques élevé.",
-"de": "Eine Wurfwaffe. Fliegt in einer graden Linie und fügt Schaden zu. Kritische Trefferchance ist höher.",
-"it": "Strumento da lanciare che vola in linea retta. Infligge danni a qualsiasi Pokémon colpito e la probabilità di sferrare brutti colpi è alta.",
-"ko": "던지는 무기. 직선으로 날아가 맞는 포켓몬에게 데미지를 입힌다. 급소에 맞기 쉽다.",
-"zh-hans": "一种投掷武器。能以直线轨迹抛出，攻击轨迹上的宝可梦。容易击中要害。"
-}
+"DefaultText": "A thrown chip that deals damage and lowers DEF by two stages.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
-"Sprite": "Stick_DarkBlue",
+"Sprite": "Stick_Green",
 "Icon": 1,
 "SortCategory": 2,
 "Price": 2,
@@ -112,24 +98,16 @@
 "SkillStates": [
 {
 "$type": "RogueEssence.Dungeon.BasePowerState, RogueEssence",
-"Power": 70
+"Power": 50
+},
+{
+"$type": "PMDC.Dungeon.AdditionalEffectState, PMDC",
+"EffectChance": 100
 }
 ],
 "BeforeTryActions": [],
 "BeforeActions": [],
-"OnActions": [
-{
-"Key": {
-"str": [
-0
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.BoostCriticalEvent, PMDC",
-"AddCrit": 2
-}
-}
-],
+"OnActions": [],
 "BeforeExplosions": [],
 "BeforeHits": [],
 "OnHits": [
@@ -141,6 +119,26 @@
 },
 "Value": {
 "$type": "PMDC.Dungeon.DamageFormulaEvent, PMDC"
+}
+},
+{
+"Key": {
+"str": [
+0
+]
+},
+"Value": {
+"$type": "PMDC.Dungeon.StatusStackBattleEvent, PMDC",
+"Stack": -2,
+"StatusID": "mod_defense",
+"AffectTarget": true,
+"SelfInflicted": false,
+"SilentCheck": true,
+"Anonymous": false,
+"TriggerMsg": {
+"Key": null
+},
+"Anims": []
 }
 }
 ],
@@ -172,7 +170,7 @@
 "ArcThrow": false,
 "BreakOnThrow": false,
 "ThrowAnim": {
-"AnimIndex": "Thorn_Gray",
+"AnimIndex": "Thorn_Green",
 "FrameTime": 60,
 "StartFrame": -1,
 "EndFrame": -1,

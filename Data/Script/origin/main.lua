@@ -16,3 +16,4 @@ require 'origin.services.upgrade_tools'
 require 'origin.services.menu_tools'
 
 math.randomseed(os.time())
+require 'origin.services.digimon_runtime'

@@ -26,7 +26,7 @@
 "zh-hans": "阿勃梭鲁的专属道具。放在包里时，到达新楼层后会显示地上的道具数。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

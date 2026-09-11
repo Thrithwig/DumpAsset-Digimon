@@ -66238,38 +66238,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -68185,38 +68154,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -69921,38 +69859,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -71233,38 +71140,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -73180,38 +73056,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -74916,38 +74761,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -76228,38 +76042,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -78175,38 +77958,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -79911,38 +79663,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -81223,38 +80944,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -83170,38 +82860,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -84906,38 +84565,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -86218,38 +85846,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -88165,38 +87762,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -89901,38 +89467,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -91213,38 +90748,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -93160,38 +92664,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -94896,38 +94369,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -96208,38 +95650,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -98155,38 +97566,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -99891,38 +99271,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -101203,38 +100552,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -103150,38 +102468,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -104886,38 +104173,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -106198,38 +105454,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -108145,38 +107370,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -109881,38 +109075,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -111193,38 +110356,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -113140,38 +112272,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -114876,38 +113977,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -116188,38 +115258,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -118135,38 +117174,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -119871,38 +118879,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -121183,38 +120160,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -123130,38 +122076,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -124866,38 +123781,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -126178,38 +125062,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -128125,38 +126978,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -129861,38 +128683,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -131173,38 +129964,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -133120,38 +131880,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -134856,38 +133585,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -136168,38 +134866,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -138115,38 +136782,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -139851,38 +138487,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -141163,38 +139768,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -143110,38 +141684,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",
@@ -144846,38 +143389,7 @@
 "$type": "RogueElements.LoopedRand`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
 "Spawner": {
 "$type": "RogueElements.SpawnList`1[[RogueEssence.Dungeon.MapItem, RogueEssence]], RogueElements",
-"$values": [
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_brown",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-},
-{
-"Spawn": {
-"IsMoney": false,
-"Cursed": false,
-"Value": "apricorn_purple",
-"HiddenValue": "",
-"Amount": 0,
-"Price": 0,
-"TileLoc": {
-"X": 0,
-"Y": 0
-}
-},
-"Rate": 10
-}
-]
+"$values": []
 },
 "AmountSpawner": {
 "$type": "RogueElements.RandRange, RogueElements",

@@ -25,7 +25,7 @@
 "zh-hans": "沼王一家的专属道具。放在包里时，当楼层状态为下雨时，不会变为异常状态"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

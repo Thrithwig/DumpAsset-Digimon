@@ -63,6 +63,38 @@
 "Comment": "",
 "SortOrder": 0
 },
+"digi_tropical_exit": {
+"Name": {
+"DefaultText": "Stairs",
+"LocalTexts": {
+"fr": "Escaliers",
+"de": "Treppe",
+"es": "Escaleras",
+"it": "Scale",
+"ko": "계단",
+"zh-hans": "楼梯"
+}
+},
+"Released": true,
+"Comment": "Up",
+"SortOrder": 0
+},
+"digi_tropical_secret": {
+"Name": {
+"DefaultText": "Secret Stairs",
+"LocalTexts": {
+"fr": "Escaliers Secrets",
+"de": "Geheime Treppe",
+"es": "Escaleras Secretas",
+"it": "Scale segrete",
+"ko": "비밀의 계단",
+"zh-hans": "秘密楼梯"
+}
+},
+"Released": true,
+"Comment": "Down",
+"SortOrder": 0
+},
 "none": {
 "Name": {
 "DefaultText": "None",

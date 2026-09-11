@@ -1,0 +1,1286 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.MonsterData, RogueEssence",
+    "Name": {
+      "DefaultText": "Togemon",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Digimon Phase 1",
+    "Title": {
+      "DefaultText": "Champion Digimon",
+      "LocalTexts": {}
+    },
+    "IndexNum": 10118,
+    "EXPTable": "digi_champion",
+    "SkillGroup1": "undiscovered",
+    "SkillGroup2": "undiscovered",
+    "JoinRate": -100000,
+    "PromoteFrom": "",
+    "Promotions": [],
+    "Forms": [
+      {
+        "$type": "PMDC.Data.DigimonFormData, PMDC",
+        "Released": true,
+        "Generation": 6,
+        "GenderlessWeight": 1,
+        "MaleWeight": 0,
+        "FemaleWeight": 0,
+        "BaseHP": 45,
+        "BaseAtk": 49,
+        "BaseDef": 49,
+        "BaseMAtk": 65,
+        "BaseMDef": 65,
+        "BaseSpeed": 45,
+        "ExpYield": 192,
+        "Height": 0.7,
+        "Weight": 6.9,
+        "Personalities": [
+          0
+        ],
+        "TeachSkills": [
+          {
+            "Skill": "digi_acceleration_boost"
+          },
+          {
+            "Skill": "digi_agility_charge"
+          },
+          {
+            "Skill": "digi_anti_bug"
+          },
+          {
+            "Skill": "digi_anti_panic"
+          },
+          {
+            "Skill": "digi_anti_paralysis"
+          },
+          {
+            "Skill": "digi_anti_poison"
+          },
+          {
+            "Skill": "digi_anti_sleep"
+          },
+          {
+            "Skill": "digi_anti_stun"
+          },
+          {
+            "Skill": "digi_antidote"
+          },
+          {
+            "Skill": "digi_attack_break"
+          },
+          {
+            "Skill": "digi_attack_break_field"
+          },
+          {
+            "Skill": "digi_attack_charge"
+          },
+          {
+            "Skill": "digi_attack_charge_field"
+          },
+          {
+            "Skill": "digi_aura"
+          },
+          {
+            "Skill": "digi_awesome_quake_i"
+          },
+          {
+            "Skill": "digi_awesome_quake_ii"
+          },
+          {
+            "Skill": "digi_awesome_quake_iii"
+          },
+          {
+            "Skill": "digi_burst_flame_i"
+          },
+          {
+            "Skill": "digi_burst_flame_ii"
+          },
+          {
+            "Skill": "digi_burst_flame_iii"
+          },
+          {
+            "Skill": "digi_chain_loss"
+          },
+          {
+            "Skill": "digi_chain_max"
+          },
+          {
+            "Skill": "digi_chain_minus"
+          },
+          {
+            "Skill": "digi_chain_plus"
+          },
+          {
+            "Skill": "digi_character_reversal"
+          },
+          {
+            "Skill": "digi_comet_hammer_i"
+          },
+          {
+            "Skill": "digi_comet_hammer_ii"
+          },
+          {
+            "Skill": "digi_comet_hammer_iii"
+          },
+          {
+            "Skill": "digi_crescent_leaf_i"
+          },
+          {
+            "Skill": "digi_crescent_leaf_ii"
+          },
+          {
+            "Skill": "digi_crescent_leaf_iii"
+          },
+          {
+            "Skill": "digi_critical_charge"
+          },
+          {
+            "Skill": "digi_cross_counter"
+          },
+          {
+            "Skill": "digi_destruction"
+          },
+          {
+            "Skill": "digi_destruction_cannon_i"
+          },
+          {
+            "Skill": "digi_destruction_cannon_ii"
+          },
+          {
+            "Skill": "digi_destruction_cannon_iii"
+          },
+          {
+            "Skill": "digi_dispel"
+          },
+          {
+            "Skill": "digi_escape_dash"
+          },
+          {
+            "Skill": "digi_final_aura"
+          },
+          {
+            "Skill": "digi_final_heal"
+          },
+          {
+            "Skill": "digi_gaia_element_i"
+          },
+          {
+            "Skill": "digi_gaia_element_ii"
+          },
+          {
+            "Skill": "digi_gaia_element_iii"
+          },
+          {
+            "Skill": "digi_gale_storm_i"
+          },
+          {
+            "Skill": "digi_gale_storm_ii"
+          },
+          {
+            "Skill": "digi_gale_storm_iii"
+          },
+          {
+            "Skill": "digi_grand_rock_i"
+          },
+          {
+            "Skill": "digi_grand_rock_ii"
+          },
+          {
+            "Skill": "digi_grand_rock_iii"
+          },
+          {
+            "Skill": "digi_guard_break"
+          },
+          {
+            "Skill": "digi_guard_break_field"
+          },
+          {
+            "Skill": "digi_guard_charge"
+          },
+          {
+            "Skill": "digi_guard_charge_field"
+          },
+          {
+            "Skill": "digi_heal"
+          },
+          {
+            "Skill": "digi_heaven_s_thunder_i"
+          },
+          {
+            "Skill": "digi_heaven_s_thunder_ii"
+          },
+          {
+            "Skill": "digi_heaven_s_thunder_iii"
+          },
+          {
+            "Skill": "digi_heavy_strike_i"
+          },
+          {
+            "Skill": "digi_heavy_strike_ii"
+          },
+          {
+            "Skill": "digi_heavy_strike_iii"
+          },
+          {
+            "Skill": "digi_hell_crusher_i"
+          },
+          {
+            "Skill": "digi_hell_crusher_ii"
+          },
+          {
+            "Skill": "digi_hell_crusher_iii"
+          },
+          {
+            "Skill": "digi_hit_charge"
+          },
+          {
+            "Skill": "digi_holy_light_i"
+          },
+          {
+            "Skill": "digi_holy_light_ii"
+          },
+          {
+            "Skill": "digi_holy_light_iii"
+          },
+          {
+            "Skill": "digi_hydro_water_i"
+          },
+          {
+            "Skill": "digi_hydro_water_ii"
+          },
+          {
+            "Skill": "digi_hydro_water_iii"
+          },
+          {
+            "Skill": "digi_ice_archery_i"
+          },
+          {
+            "Skill": "digi_ice_archery_ii"
+          },
+          {
+            "Skill": "digi_ice_archery_iii"
+          },
+          {
+            "Skill": "digi_idle_bubble"
+          },
+          {
+            "Skill": "digi_mach_rush_i"
+          },
+          {
+            "Skill": "digi_mach_rush_ii"
+          },
+          {
+            "Skill": "digi_mach_rush_iii"
+          },
+          {
+            "Skill": "digi_mental_break"
+          },
+          {
+            "Skill": "digi_mental_break_field"
+          },
+          {
+            "Skill": "digi_mental_charge"
+          },
+          {
+            "Skill": "digi_mental_charge_field"
+          },
+          {
+            "Skill": "digi_meteor_fall_i"
+          },
+          {
+            "Skill": "digi_meteor_fall_ii"
+          },
+          {
+            "Skill": "digi_meteor_fall_iii"
+          },
+          {
+            "Skill": "digi_mirror_reflection"
+          },
+          {
+            "Skill": "digi_nanomachine_break_i"
+          },
+          {
+            "Skill": "digi_nanomachine_break_ii"
+          },
+          {
+            "Skill": "digi_nanomachine_break_iii"
+          },
+          {
+            "Skill": "digi_nightmare_i"
+          },
+          {
+            "Skill": "digi_nightmare_ii"
+          },
+          {
+            "Skill": "digi_nightmare_iii"
+          },
+          {
+            "Skill": "digi_ocean_wave_i"
+          },
+          {
+            "Skill": "digi_ocean_wave_ii"
+          },
+          {
+            "Skill": "digi_ocean_wave_iii"
+          },
+          {
+            "Skill": "digi_panic_wisp"
+          },
+          {
+            "Skill": "digi_perfect_revival"
+          },
+          {
+            "Skill": "digi_physical_drain"
+          },
+          {
+            "Skill": "digi_power_energy_i"
+          },
+          {
+            "Skill": "digi_power_energy_ii"
+          },
+          {
+            "Skill": "digi_power_energy_iii"
+          },
+          {
+            "Skill": "digi_restore"
+          },
+          {
+            "Skill": "digi_revive"
+          },
+          {
+            "Skill": "digi_ripping_net"
+          },
+          {
+            "Skill": "digi_rune_forest_i"
+          },
+          {
+            "Skill": "digi_rune_forest_ii"
+          },
+          {
+            "Skill": "digi_rune_forest_iii"
+          },
+          {
+            "Skill": "digi_safety_guard"
+          },
+          {
+            "Skill": "digi_saint_knuckle_i"
+          },
+          {
+            "Skill": "digi_saint_knuckle_ii"
+          },
+          {
+            "Skill": "digi_saint_knuckle_iii"
+          },
+          {
+            "Skill": "digi_shining_laser_i"
+          },
+          {
+            "Skill": "digi_shining_laser_ii"
+          },
+          {
+            "Skill": "digi_shining_laser_iii"
+          },
+          {
+            "Skill": "digi_shock"
+          },
+          {
+            "Skill": "digi_sonic_void_i"
+          },
+          {
+            "Skill": "digi_sonic_void_ii"
+          },
+          {
+            "Skill": "digi_sonic_void_iii"
+          },
+          {
+            "Skill": "digi_speed_break"
+          },
+          {
+            "Skill": "digi_speed_break_field"
+          },
+          {
+            "Skill": "digi_speed_charge"
+          },
+          {
+            "Skill": "digi_speed_charge_field"
+          },
+          {
+            "Skill": "digi_spirit_drain"
+          },
+          {
+            "Skill": "digi_status_barrier"
+          },
+          {
+            "Skill": "digi_support_end"
+          },
+          {
+            "Skill": "digi_texture_blow"
+          },
+          {
+            "Skill": "digi_thunder_fall_i"
+          },
+          {
+            "Skill": "digi_thunder_fall_ii"
+          },
+          {
+            "Skill": "digi_thunder_fall_iii"
+          },
+          {
+            "Skill": "digi_venom_trap"
+          },
+          {
+            "Skill": "digi_wind_claw_i"
+          },
+          {
+            "Skill": "digi_wind_claw_ii"
+          },
+          {
+            "Skill": "digi_wind_claw_iii"
+          },
+          {
+            "Skill": "digi_wolkenapalm_i"
+          },
+          {
+            "Skill": "digi_wolkenapalm_ii"
+          },
+          {
+            "Skill": "digi_wolkenapalm_iii"
+          },
+          {
+            "Skill": "digi_x_aura"
+          },
+          {
+            "Skill": "digi_x_heal"
+          }
+        ],
+        "SharedSkills": [],
+        "SecretSkills": [],
+        "FormName": {
+          "DefaultText": "Togemon",
+          "LocalTexts": {}
+        },
+        "Temporary": false,
+        "PromoteForm": 0,
+        "Element1": "grass",
+        "Element2": "none",
+        "Intrinsic1": "none",
+        "Intrinsic2": "none",
+        "Intrinsic3": "none",
+        "LevelSkills": [
+          {
+            "Level": 1,
+            "Skill": "digi_needle_spray"
+          },
+          {
+            "Level": 10,
+            "Skill": "digi_crescent_leaf_ii"
+          },
+          {
+            "Level": 18,
+            "Skill": "digi_anti_paralysis"
+          },
+          {
+            "Level": 25,
+            "Skill": "digi_ripping_net"
+          }
+        ],
+        "LevelStats": [
+          [
+            90,
+            33,
+            35,
+            27,
+            27,
+            28
+          ],
+          [
+            91,
+            33,
+            36,
+            28,
+            28,
+            28
+          ],
+          [
+            93,
+            34,
+            36,
+            28,
+            28,
+            29
+          ],
+          [
+            94,
+            34,
+            37,
+            29,
+            29,
+            29
+          ],
+          [
+            95,
+            35,
+            37,
+            29,
+            29,
+            30
+          ],
+          [
+            96,
+            35,
+            38,
+            30,
+            30,
+            30
+          ],
+          [
+            98,
+            36,
+            38,
+            30,
+            30,
+            31
+          ],
+          [
+            99,
+            36,
+            39,
+            31,
+            31,
+            31
+          ],
+          [
+            100,
+            37,
+            39,
+            31,
+            31,
+            32
+          ],
+          [
+            102,
+            37,
+            40,
+            32,
+            32,
+            32
+          ],
+          [
+            103,
+            38,
+            40,
+            32,
+            32,
+            32
+          ],
+          [
+            104,
+            38,
+            41,
+            33,
+            33,
+            33
+          ],
+          [
+            105,
+            39,
+            41,
+            33,
+            33,
+            33
+          ],
+          [
+            107,
+            40,
+            42,
+            34,
+            34,
+            34
+          ],
+          [
+            108,
+            40,
+            43,
+            34,
+            34,
+            34
+          ],
+          [
+            109,
+            41,
+            43,
+            35,
+            35,
+            35
+          ],
+          [
+            111,
+            41,
+            44,
+            35,
+            35,
+            35
+          ],
+          [
+            112,
+            42,
+            44,
+            36,
+            36,
+            36
+          ],
+          [
+            113,
+            42,
+            45,
+            36,
+            36,
+            36
+          ],
+          [
+            114,
+            43,
+            45,
+            37,
+            37,
+            37
+          ],
+          [
+            116,
+            43,
+            46,
+            37,
+            37,
+            37
+          ],
+          [
+            117,
+            44,
+            46,
+            38,
+            38,
+            37
+          ],
+          [
+            118,
+            44,
+            47,
+            38,
+            38,
+            38
+          ],
+          [
+            120,
+            45,
+            47,
+            39,
+            39,
+            38
+          ],
+          [
+            121,
+            45,
+            48,
+            39,
+            39,
+            39
+          ],
+          [
+            122,
+            46,
+            49,
+            40,
+            40,
+            39
+          ],
+          [
+            123,
+            47,
+            49,
+            40,
+            40,
+            40
+          ],
+          [
+            125,
+            47,
+            50,
+            41,
+            41,
+            40
+          ],
+          [
+            126,
+            48,
+            50,
+            41,
+            41,
+            41
+          ],
+          [
+            127,
+            48,
+            51,
+            42,
+            42,
+            41
+          ],
+          [
+            129,
+            49,
+            51,
+            42,
+            42,
+            41
+          ],
+          [
+            130,
+            49,
+            52,
+            43,
+            43,
+            42
+          ],
+          [
+            131,
+            50,
+            52,
+            43,
+            43,
+            42
+          ],
+          [
+            132,
+            50,
+            53,
+            44,
+            44,
+            43
+          ],
+          [
+            134,
+            51,
+            53,
+            44,
+            44,
+            43
+          ],
+          [
+            135,
+            51,
+            54,
+            45,
+            45,
+            44
+          ],
+          [
+            136,
+            52,
+            54,
+            45,
+            45,
+            44
+          ],
+          [
+            138,
+            53,
+            55,
+            46,
+            46,
+            45
+          ],
+          [
+            139,
+            53,
+            56,
+            46,
+            46,
+            45
+          ],
+          [
+            140,
+            54,
+            56,
+            47,
+            47,
+            46
+          ],
+          [
+            141,
+            54,
+            57,
+            47,
+            47,
+            46
+          ],
+          [
+            143,
+            55,
+            57,
+            48,
+            48,
+            46
+          ],
+          [
+            144,
+            55,
+            58,
+            48,
+            48,
+            47
+          ],
+          [
+            145,
+            56,
+            58,
+            49,
+            49,
+            47
+          ],
+          [
+            147,
+            56,
+            59,
+            49,
+            49,
+            48
+          ],
+          [
+            148,
+            57,
+            59,
+            50,
+            50,
+            48
+          ],
+          [
+            149,
+            57,
+            60,
+            50,
+            50,
+            49
+          ],
+          [
+            150,
+            58,
+            60,
+            51,
+            51,
+            49
+          ],
+          [
+            152,
+            58,
+            61,
+            51,
+            51,
+            50
+          ],
+          [
+            153,
+            59,
+            62,
+            52,
+            52,
+            50
+          ],
+          [
+            154,
+            60,
+            62,
+            52,
+            52,
+            50
+          ],
+          [
+            156,
+            60,
+            63,
+            53,
+            53,
+            51
+          ],
+          [
+            157,
+            61,
+            63,
+            53,
+            53,
+            51
+          ],
+          [
+            158,
+            61,
+            64,
+            54,
+            54,
+            52
+          ],
+          [
+            160,
+            62,
+            64,
+            54,
+            54,
+            52
+          ],
+          [
+            161,
+            62,
+            65,
+            55,
+            55,
+            53
+          ],
+          [
+            162,
+            63,
+            65,
+            55,
+            55,
+            53
+          ],
+          [
+            163,
+            63,
+            66,
+            56,
+            56,
+            54
+          ],
+          [
+            165,
+            64,
+            66,
+            56,
+            56,
+            54
+          ],
+          [
+            166,
+            65,
+            67,
+            57,
+            57,
+            54
+          ],
+          [
+            167,
+            65,
+            68,
+            57,
+            57,
+            55
+          ],
+          [
+            169,
+            66,
+            68,
+            58,
+            58,
+            55
+          ],
+          [
+            170,
+            66,
+            69,
+            58,
+            58,
+            56
+          ],
+          [
+            171,
+            67,
+            69,
+            59,
+            59,
+            56
+          ],
+          [
+            173,
+            67,
+            70,
+            59,
+            59,
+            57
+          ],
+          [
+            174,
+            68,
+            70,
+            60,
+            60,
+            57
+          ],
+          [
+            175,
+            68,
+            71,
+            60,
+            60,
+            58
+          ],
+          [
+            177,
+            69,
+            71,
+            61,
+            61,
+            58
+          ],
+          [
+            178,
+            69,
+            72,
+            61,
+            61,
+            59
+          ],
+          [
+            179,
+            70,
+            73,
+            62,
+            62,
+            59
+          ],
+          [
+            180,
+            71,
+            73,
+            62,
+            62,
+            59
+          ],
+          [
+            182,
+            71,
+            74,
+            63,
+            63,
+            60
+          ],
+          [
+            183,
+            72,
+            74,
+            63,
+            63,
+            60
+          ],
+          [
+            184,
+            72,
+            75,
+            64,
+            64,
+            61
+          ],
+          [
+            186,
+            73,
+            75,
+            64,
+            64,
+            61
+          ],
+          [
+            187,
+            73,
+            76,
+            65,
+            65,
+            62
+          ],
+          [
+            188,
+            74,
+            76,
+            65,
+            65,
+            62
+          ],
+          [
+            190,
+            74,
+            77,
+            66,
+            66,
+            63
+          ],
+          [
+            191,
+            75,
+            77,
+            66,
+            66,
+            63
+          ],
+          [
+            192,
+            76,
+            78,
+            67,
+            67,
+            63
+          ],
+          [
+            193,
+            76,
+            79,
+            67,
+            67,
+            64
+          ],
+          [
+            195,
+            77,
+            79,
+            68,
+            68,
+            64
+          ],
+          [
+            196,
+            77,
+            80,
+            68,
+            68,
+            65
+          ],
+          [
+            197,
+            78,
+            80,
+            69,
+            69,
+            65
+          ],
+          [
+            199,
+            78,
+            81,
+            69,
+            69,
+            66
+          ],
+          [
+            200,
+            79,
+            81,
+            70,
+            70,
+            66
+          ],
+          [
+            201,
+            79,
+            82,
+            70,
+            70,
+            67
+          ],
+          [
+            203,
+            80,
+            82,
+            71,
+            71,
+            67
+          ],
+          [
+            204,
+            80,
+            83,
+            71,
+            71,
+            68
+          ],
+          [
+            205,
+            81,
+            84,
+            72,
+            72,
+            68
+          ],
+          [
+            207,
+            82,
+            84,
+            72,
+            72,
+            68
+          ],
+          [
+            208,
+            82,
+            85,
+            73,
+            73,
+            69
+          ],
+          [
+            209,
+            83,
+            85,
+            73,
+            73,
+            69
+          ],
+          [
+            210,
+            83,
+            86,
+            74,
+            74,
+            70
+          ],
+          [
+            212,
+            84,
+            86,
+            74,
+            74,
+            70
+          ],
+          [
+            213,
+            84,
+            87,
+            75,
+            75,
+            71
+          ],
+          [
+            214,
+            85,
+            87,
+            75,
+            75,
+            71
+          ],
+          [
+            216,
+            85,
+            88,
+            76,
+            76,
+            72
+          ],
+          [
+            217,
+            86,
+            89,
+            76,
+            76,
+            72
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -3,28 +3,15 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Moon Stone",
-"LocalTexts": {
-"fr": "Pierre Lune",
-"de": "Mondstein",
-"es": "Piedra Lunar",
-"it": "Pietralunare",
-"ko": "달의돌",
-"ja": "つきのいし",
-"ja-jp": "つきのいし",
-"zh-hans": "月之石",
-"zh-hant": "月之石"
-}
+"DefaultText": "Digi-Egg of Destiny",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "An odd stone that gleams like the moon in the evening sky. It allows certain kinds of Pokémon to evolve. If held, it changes the Pokémon's regular attacks and thrown items to Fairy-type.",
-"LocalTexts": {
-"fr": "Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est noire comme la nuit. Change l'attaque régulière et les objets lancés en type Fée si tenue..",
-"zh-hans": "能让某些特定宝可梦进化的神奇石头。像夜空一样乌黑。携带后，普通攻击与投掷出的道具都会变为妖精属性。"
-}
+"DefaultText": "Unlocks compatible digivolutions at the Base Camp terminal while in the bag or equipped. Not consumed.",
+"LocalTexts": {}
 },
 "Released": true,
-"Comment": "",
+"Comment": "Cyber Sleuth equivalent. Reuses an existing evolution-item drop ID; removes its Pokemon held attack modifier.",
 "Sprite": "Stone_Black",
 "Icon": -1,
 "SortCategory": 14,
@@ -204,38 +191,7 @@
 "OnRefresh": [],
 "BeforeTryActions": [],
 "BeforeActions": [],
-"OnActions": [
-{
-"Key": {
-"str": [
--1
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.RegularAttackNeededEvent, PMDC",
-"BaseEvent": {
-"$type": "PMDC.Dungeon.ChangeMoveElementEvent, PMDC",
-"ElementFrom": "none",
-"ElementTo": "fairy"
-}
-}
-},
-{
-"Key": {
-"str": [
--1
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.ThrownItemNeededEvent, PMDC",
-"BaseEvent": {
-"$type": "PMDC.Dungeon.ChangeMoveElementEvent, PMDC",
-"ElementFrom": "none",
-"ElementTo": "fairy"
-}
-}
-}
-],
+"OnActions": [],
 "BeforeHittings": [],
 "BeforeBeingHits": [],
 "AfterHittings": [],

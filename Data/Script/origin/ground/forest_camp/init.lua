@@ -15,7 +15,7 @@ forest_camp.junction.south =
 -- north junction
 forest_camp.junction.north =
 {
-  dungeons = { 'faded_trail', 'bramble_woods', 'trickster_woods', 'overgrown_wilds', 'moonlit_courtyard', 'ambush_forest', 'tiny_tunnel', 'energy_garden', 'sickly_hollow'},
+  dungeons = { 'faded_trail', 'bramble_woods', 'trickster_woods', 'overgrown_wilds', 'moonlit_courtyard', 'ambush_forest', 'tiny_tunnel', 'sickly_hollow', 'secret_garden'},
   groundmaps ={{Flag=SV.cliff_camp.ExpositionComplete,Zone='guildmaster_island',ID=4,Entry=0},
   {Flag=SV.canyon_camp.ExpositionComplete,Zone='guildmaster_island',ID=5,Entry=0},
   {Flag=SV.rest_stop.ExpositionComplete,Zone='guildmaster_island',ID=6,Entry=0},

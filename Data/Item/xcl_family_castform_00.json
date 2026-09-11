@@ -27,7 +27,7 @@
 "zh-hans": "飘浮泡泡的专属道具。放在包里时，当楼层状态为晴朗时，不会变为异常状态"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

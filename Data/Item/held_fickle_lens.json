@@ -3,16 +3,12 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Fickle Lens",
-"LocalTexts": {
-"zh-hans": "分心镜"
-}
+"DefaultText": "Master Guard",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A held item that boosts the Pokémon's Attack Range, but prevents it from using the same move successively. This item sticks when held.",
-"LocalTexts": {
-"zh-hans": "虽然携带后能提高宝可梦的攻击范围，但无法连续使出相同的招式。此道具携带后会被粘着。"
-}
+"DefaultText": "Reduces incoming damage by 5%.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
@@ -178,18 +174,7 @@
 "ModifyHPs": [],
 "RestoreHPs": []
 },
-"OnEquips": [
-{
-"Key": {
-"str": [
-1
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.AutoCurseItemEvent, PMDC"
-}
-}
-],
+"OnEquips": [],
 "OnPickups": [],
 "BeforeStatusAdds": [],
 "BeforeStatusAddings": [],
@@ -203,7 +188,12 @@
 "OnMapTurnEnds": [],
 "OnWalks": [],
 "OnDeaths": [],
-"OnRefresh": [
+"OnRefresh": [],
+"BeforeTryActions": [],
+"BeforeActions": [],
+"OnActions": [],
+"BeforeHittings": [],
+"BeforeBeingHits": [
 {
 "Key": {
 "str": [
@@ -211,30 +201,12 @@
 ]
 },
 "Value": {
-"$type": "PMDC.Dungeon.MoveLockEvent, PMDC",
-"LockOthers": false,
-"LastSlotStatusID": "last_used_move_slot"
+"$type": "PMDC.Dungeon.MultiplyDamageEvent, PMDC",
+"Numerator": 19,
+"Denominator": 20
 }
 }
 ],
-"BeforeTryActions": [],
-"BeforeActions": [],
-"OnActions": [
-{
-"Key": {
-"str": [
--1
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.AddRangeEvent, PMDC",
-"Range": 1,
-"Anims": []
-}
-}
-],
-"BeforeHittings": [],
-"BeforeBeingHits": [],
 "AfterHittings": [],
 "AfterBeingHits": [],
 "OnHitTiles": [],

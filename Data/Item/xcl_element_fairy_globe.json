@@ -25,7 +25,7 @@
 "zh-hans": "妖精属性宝可梦的专属道具。放在包里时，会根据队员数减少毒属性攻击对妖精属性队员的伤害。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

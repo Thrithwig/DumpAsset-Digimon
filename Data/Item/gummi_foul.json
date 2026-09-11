@@ -3,26 +3,12 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Foul Gummi",
-"LocalTexts": {
-"de": "Verdorbenes Gummi",
-"it": "Gommadisgustosa",
-"ko": "불행의구미",
-"ja": "ふこうのグミ",
-"ja-jp": "ふこうのグミ",
-"zh-hans": "异味软糖"
-}
+"DefaultText": "Clever Carrot",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A food item that somewhat fills the Pokémon's belly. However, it will also reduce the Pokémon's level by 1.",
-"LocalTexts": {
-"fr": "Aliment remplissant légèrement l'estomac du Pokémon. Cependant, il réduit le niveau du Pokémon de 1.",
-"de": "Nahrungsmittel, dass den Magen des Pokémons einigermaßen füllt. Es reduziert das Level jedoch um 1.",
-"it": "Una gelatina che riempie un po' la pancia, ma che fa diminuire di un livello il Pokémon.",
-"ja": "たべると　すこしおなかがかいふくするが、　レベルが1さがってしまう。",
-"ja-jp": "食べると　少しおなかが回復するが、　レベルが1下がってしまう。",
-"zh-hans": "一种食物，食用后回复少量满腹度，但食用者的等级会降低1。"
-}
+"DefaultText": "Training food. Adds a training point or 5 CAM/ABI, fills 5 Belly, and grants your personality bonus. View your personality at the Tree of Life.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
@@ -119,24 +105,9 @@
 ]
 },
 "Value": {
-"$type": "PMDC.Dungeon.RestoreBellyEvent, PMDC",
-"BoostAnims": [],
-"Heal": 25,
-"Msg": false,
-"AddMaxBelly": 0,
-"NeedFullBelly": false
-}
-},
-{
-"Key": {
-"str": [
-0
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.LevelChangeEvent, PMDC",
-"Level": -1,
-"AffectTarget": true
+"$type": "RogueEssence.Dungeon.BattleScriptEvent, RogueEssence",
+"Script": "DigimonTrainingFood",
+"ArgTable": "{[\"stat\"]=\"MAtkBonus\"}"
 }
 }
 ],

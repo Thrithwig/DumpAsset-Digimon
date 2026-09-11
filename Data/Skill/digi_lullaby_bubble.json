@@ -1,0 +1,184 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.SkillData, RogueEssence",
+    "Name": {
+      "DefaultText": "Lullaby Bubble",
+      "LocalTexts": {}
+    },
+    "Desc": {
+      "DefaultText": "Magic Water attack. Power 28. Fires up to 4 tiles, stopping at walls and the first foe; passes allies safely. Phase 1: source secondary effects are not applied.",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Cyber Sleuth source: Magic attack, 55 Water damage to one foe. 10% chance of putting target to sleep.",
+    "IndexNum": 12276,
+    "BaseCharges": 12,
+    "Strikes": 1,
+    "HitboxAction": {
+      "$type": "RogueEssence.Dungeon.ProjectileAction, RogueEssence",
+      "Anim": {
+        "AnimIndex": "Wave_Circle_Blue",
+        "FrameTime": 3,
+        "StartFrame": -1,
+        "EndFrame": -1,
+        "AnimDir": -1,
+        "Alpha": 255,
+        "AnimFlip": 0
+      },
+      "Emitter": {
+        "$type": "RogueEssence.Content.EmptyAttachEmitter, RogueEssence"
+      },
+      "StreamEmitter": {
+        "$type": "RogueEssence.Content.EmptyShootingEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "Rays": 0,
+      "Speed": 10,
+      "Boomerang": false,
+      "ItemSprite": "",
+      "CharAnimData": {
+        "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
+        "ActionType": 7
+      },
+      "HitTiles": true,
+      "Range": 4,
+      "StopAtHit": true,
+      "StopAtWall": true,
+      "TargetAlignments": 4,
+      "TileEmitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "PreActions": [
+        {
+          "Delay": 0,
+          "AbsoluteDelay": false,
+          "Sound": "DUN_Wonder_Tile",
+          "Emitter": {
+            "$type": "RogueEssence.Content.SingleEmitter, RogueEssence",
+            "LocHeight": 0,
+            "finished": false,
+            "Offset": 0,
+            "Anim": {
+              "$type": "RogueEssence.Content.StaticAnim, RogueEssence",
+              "Anim": {
+                "AnimIndex": "Circle_Small_Blue_In",
+                "FrameTime": 1,
+                "StartFrame": -1,
+                "EndFrame": -1,
+                "AnimDir": -1,
+                "Alpha": 255,
+                "AnimFlip": 0
+              },
+              "TotalTime": 0,
+              "Cycles": 1,
+              "FrameOffset": 0
+            },
+            "Layer": 2,
+            "UseDest": false
+          },
+          "ScreenMovement": {
+            "MinShake": 0,
+            "MaxShake": 0,
+            "MaxShakeTime": 0
+          }
+        }
+      ],
+      "ActionFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "_UNK_DUN_Water_Echo_2",
+        "Emitter": {
+          "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+          "LocHeight": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      },
+      "LagBehindTime": 0
+    },
+    "Explosion": {
+      "TargetAlignments": 4,
+      "HitTiles": false,
+      "Range": 0,
+      "Speed": 0,
+      "TileEmitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "Emitter": {
+        "$type": "RogueEssence.Content.EmptyCircleSquareEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "IntroFX": [],
+      "ExplodeFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "",
+        "Emitter": {
+          "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+          "LocHeight": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      }
+    },
+    "Data": {
+      "Element": "water",
+      "Category": 2,
+      "HitRate": 100,
+      "SkillStates": [
+        {
+          "$type": "RogueEssence.Dungeon.BasePowerState, RogueEssence",
+          "Power": 28
+        }
+      ],
+      "BeforeTryActions": [],
+      "BeforeActions": [],
+      "OnActions": [],
+      "BeforeExplosions": [],
+      "BeforeHits": [],
+      "OnHits": [
+        {
+          "Key": {
+            "str": [
+              -1
+            ]
+          },
+          "Value": {
+            "$type": "PMDC.Dungeon.DamageFormulaEvent, PMDC"
+          }
+        }
+      ],
+      "OnHitTiles": [],
+      "AfterActions": [],
+      "ElementEffects": [],
+      "IntroFX": [],
+      "HitFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "",
+        "Emitter": {
+          "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+          "LocHeight": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      },
+      "HitCharAction": {
+        "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
+        "ActionType": 0
+      }
+    }
+  }
+}

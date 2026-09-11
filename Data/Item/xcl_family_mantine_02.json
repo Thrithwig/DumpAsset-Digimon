@@ -28,7 +28,7 @@
 "zh-hans": "小球飞鱼一家的专属道具。放在包里时，到达新楼层后，会自动回复一个招式的PP。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

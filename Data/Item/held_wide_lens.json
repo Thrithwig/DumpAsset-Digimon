@@ -3,28 +3,15 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Wide Lens",
-"LocalTexts": {
-"fr": "Loupe",
-"de": "Großlinse",
-"es": "Lupa",
-"it": "Grandelente",
-"ko": "광각렌즈",
-"ja": "こうかくレンズ",
-"ja-jp": "こうかくレンズ",
-"zh-hans": "广角镜",
-"zh-hant": "廣角鏡"
-}
+"DefaultText": "HIT Attach C",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A magnifying lens that boosts the Pokémon's Accuracy.",
-"LocalTexts": {
-"fr": "Une loupe qui booste la précision du Pokémon.",
-"zh-hans": "能放大观看物体的镜片。携带后，命中率就会提高。"
-}
+"DefaultText": "A magnifying lens that boosts the Digimon's Accuracy.",
+"LocalTexts": {}
 },
 "Released": true,
-"Comment": "",
+"Comment": "Cyber Sleuth equivalent. Closest stat-equipment role; native percentage or critical-stage effect retained instead of source fixed stat points.",
 "Sprite": "Specs_LightBlue",
 "Icon": -1,
 "SortCategory": 1,

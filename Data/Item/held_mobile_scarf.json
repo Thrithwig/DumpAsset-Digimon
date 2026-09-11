@@ -3,30 +3,12 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Mobile Scarf",
-"LocalTexts": {
-"fr": "Passmuraille",
-"de": "Mobilschal",
-"es": "Pañuelo Móvil",
-"it": "Velomobile",
-"ko": "통과스카프",
-"ja": "つうかスカーフ",
-"ja-jp": "つうかスカーフ",
-"zh-hans": "畅通围巾"
-}
+"DefaultText": "Master Guard",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A held item that enables the Pokémon to move through walls.",
-"LocalTexts": {
-"fr": "Objet à tenir qui permet au Pokémon de se déplacer à travers les murs.",
-"de": "Dieser Schal erlaubt das Pokémon durch Wände zu gehen.",
-"es": "Un objeto a equipar que permite al Pokémon atravesar paredes.",
-"it": "Uno strumento da dare a un Pokémon. Permette di muoversi attraverso i muri.",
-"ko": "지니게 하면 벽을 통과할 수 있게 된다.",
-"ja": "かべぬけができる（仮テキスト）",
-"ja-jp": "かべぬけができる（仮テキスト）",
-"zh-hans": "一种携带道具。携带者能够穿墙。"
-}
+"DefaultText": "Reduces incoming damage by 5%.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
@@ -206,7 +188,12 @@
 "OnMapTurnEnds": [],
 "OnWalks": [],
 "OnDeaths": [],
-"OnRefresh": [
+"OnRefresh": [],
+"BeforeTryActions": [],
+"BeforeActions": [],
+"OnActions": [],
+"BeforeHittings": [],
+"BeforeBeingHits": [
 {
 "Key": {
 "str": [
@@ -214,16 +201,12 @@
 ]
 },
 "Value": {
-"$type": "PMDC.Dungeon.AddMobilityEvent, PMDC",
-"Mobility": 8
+"$type": "PMDC.Dungeon.MultiplyDamageEvent, PMDC",
+"Numerator": 19,
+"Denominator": 20
 }
 }
 ],
-"BeforeTryActions": [],
-"BeforeActions": [],
-"OnActions": [],
-"BeforeHittings": [],
-"BeforeBeingHits": [],
 "AfterHittings": [],
 "AfterBeingHits": [],
 "OnHitTiles": [],

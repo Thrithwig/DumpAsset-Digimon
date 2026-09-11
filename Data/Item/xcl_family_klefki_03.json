@@ -25,7 +25,7 @@
 "zh-hans": "钥圈儿的专属道具。放在包里时，当HP低下，可以更容易躲避攻击。"
 }
 },
-"Released": true,
+"Released": false,
 "Comment": "",
 "Sprite": "Box_Yellow",
 "Icon": 10,

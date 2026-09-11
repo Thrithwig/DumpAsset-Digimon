@@ -3,36 +3,15 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Iron",
-"LocalTexts": {
-"fr": "Fer",
-"de": "Eisen",
-"es": "Hierro",
-"pt": "Ferro",
-"it": "Ferro",
-"ko": "사포닌",
-"ja": "ブロムヘキシン",
-"ja-jp": "ブロムヘキシン",
-"zh-hans": "防御增强剂",
-"zh-hant": "防禦增強劑"
-}
+"DefaultText": "Aegis Apple",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A drink that permanently raises the Pokémon's Defense.",
-"LocalTexts": {
-"fr": "Une boisson très nutritive qui augmente la Défense de base d’un Pokémon.",
-"de": "Ein gehaltvolles Getränk, das den Verteidigungs-Basiswert eines Pokémon dauerhaft erhöht.",
-"es": "Nutritiva bebida que potencia la Defensa de base de un Pokémon.",
-"it": "Una bevanda che aumenta permanentemente la Difesa del Pokémon.",
-"ko": "마시는 포켓몬의 방어를 영구적으로 올린다.",
-"ja": "ポケモンの　えいようドリンク。 ポケモン　１ひきの　ぼうぎょを　あげる。",
-"ja-jp": "ポケモンの　栄養ドリンク。 ポケモン　１匹の　防御を　あげる。",
-"zh-hans": "宝可梦的营养饮料。能提高1只宝可梦的防御的基础点数。",
-"zh-hant": "寶可夢的營養飲料。 能提高１隻寶可夢的 防禦的基礎點數。"
-}
+"DefaultText": "Permanently increases Defense by 4, up to the engine training cap.",
+"LocalTexts": {}
 },
 "Released": true,
-"Comment": "",
+"Comment": "Cyber Sleuth equivalent. Training food usable in dungeons before the farm minigame; INT is split across Special Attack and Special Defense.",
 "Sprite": "Medicine_Yellow",
 "Icon": 7,
 "SortCategory": 9,
@@ -130,21 +109,6 @@
 "BoostedStat": 2,
 "Change": 4,
 "ForceDiff": false
-}
-},
-{
-"Key": {
-"str": [
-0
-]
-},
-"Value": {
-"$type": "PMDC.Dungeon.RestoreBellyEvent, PMDC",
-"BoostAnims": [],
-"Heal": 3,
-"Msg": false,
-"AddMaxBelly": 0,
-"NeedFullBelly": false
 }
 }
 ],

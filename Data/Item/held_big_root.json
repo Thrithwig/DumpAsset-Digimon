@@ -3,29 +3,12 @@
 "Object": {
 "$type": "RogueEssence.Data.ItemData, RogueEssence",
 "Name": {
-"DefaultText": "Big Root",
-"LocalTexts": {
-"fr": "Grosse Racine",
-"de": "Großwurzel",
-"es": "Raíz Grande",
-"it": "Granradice",
-"ko": "큰뿌리",
-"ja": "おおきなねっこ",
-"ja-jp": "おおきなねっこ",
-"zh-hans": "大根茎",
-"zh-hant": "大根莖"
-}
+"DefaultText": "Master Guard",
+"LocalTexts": {}
 },
 "Desc": {
-"DefaultText": "A held item that increases HP recovery.",
-"LocalTexts": {
-"fr": "Objet à tenir qui améliore la récupération des PV du porteur.",
-"de": "Ein Item zum Tragen. Verstärkt KP-stehlende Attacken.",
-"es": "Un objeto a equipar que aumenta la recuperación de PS.",
-"it": "Uno strumento da dare a un Pokémon. Aumenta il ripristino dei PS.",
-"ko": "지니게 하면 모든 종류의 HP회복이 증가한다.",
-"zh-hans": "硕大的根茎。携带后，能够增加自身HP的回复量。"
-}
+"DefaultText": "Reduces incoming damage by 5%.",
+"LocalTexts": {}
 },
 "Released": true,
 "Comment": "",
@@ -210,15 +193,7 @@
 "BeforeActions": [],
 "OnActions": [],
 "BeforeHittings": [],
-"BeforeBeingHits": [],
-"AfterHittings": [],
-"AfterBeingHits": [],
-"OnHitTiles": [],
-"AfterActions": [],
-"UserElementEffects": [],
-"TargetElementEffects": [],
-"ModifyHPs": [],
-"RestoreHPs": [
+"BeforeBeingHits": [
 {
 "Key": {
 "str": [
@@ -226,11 +201,19 @@
 ]
 },
 "Value": {
-"$type": "PMDC.Dungeon.HealMultEvent, PMDC",
-"Numerator": 3,
-"Denominator": 2
+"$type": "PMDC.Dungeon.MultiplyDamageEvent, PMDC",
+"Numerator": 19,
+"Denominator": 20
 }
 }
-]
+],
+"AfterHittings": [],
+"AfterBeingHits": [],
+"OnHitTiles": [],
+"AfterActions": [],
+"UserElementEffects": [],
+"TargetElementEffects": [],
+"ModifyHPs": [],
+"RestoreHPs": []
 }
 }
