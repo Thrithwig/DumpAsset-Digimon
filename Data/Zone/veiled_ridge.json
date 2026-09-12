@@ -1,4 +1,4 @@
-﻿{
+{
   "Version": "0.8.12.0",
   "Object": {
     "$type": "RogueEssence.Data.ZoneData, RogueEssence",
@@ -21964,7 +21964,7 @@
                       "digi_gale_storm_i",
                       "digi_guard_break"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_zudomon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22004,7 +22004,7 @@
                       "digi_shining_laser_i",
                       "digi_dispel"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_shakkoumon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22044,7 +22044,7 @@
                       "digi_destruction",
                       "digi_attack_break"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_arcadiamon_ultimate",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22083,7 +22083,7 @@
                       "digi_pandemonium_lost",
                       "digi_nightmare_iii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_barbamon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22122,7 +22122,7 @@
                       "digi_mourning_dance",
                       "digi_texture_blow"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_ravemon_bm",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22161,7 +22161,7 @@
                       "digi_fire_tornado",
                       "digi_shining_laser_ii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_magnadramon",
                     "Tactic": "thief",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22201,7 +22201,7 @@
                       "digi_hyper_infinity_cannon",
                       "digi_mach_rush_ii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_chaosdramon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22240,7 +22240,7 @@
                       "digi_destruction_crush",
                       "digi_heaven_s_thunder_iii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_groundlocomon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22279,7 +22279,7 @@
                       "digi_thorn_whip",
                       "digi_rune_forest_ii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_rosemon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22319,7 +22319,7 @@
                       "digi_destruction_cannon_ii",
                       "digi_destruction"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_infermon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22358,7 +22358,7 @@
                       "digi_eternal_nightmare",
                       "digi_destruction_cannon_iii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_belphemon_sm",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -33147,7 +33147,7 @@
                       "digi_antidote",
                       "digi_texture_blow"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_blackkingnumemon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -33187,7 +33187,7 @@
                       "digi_antidote",
                       "digi_texture_blow"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_blackkingnumemon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -33264,7 +33264,7 @@
                       "digi_spiral_masquerade__crusadermon",
                       "digi_destruction_cannon_iii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_crusadermon",
                     "Tactic": "thief",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -33303,7 +33303,7 @@
                       "digi_legendary_dragon_blade",
                       "digi_thunder_fall_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_hisyaryumon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -33342,7 +33342,7 @@
                       "digi_flashy_boss_punch",
                       "digi_awesome_quake_ii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_bancholeomon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -33381,7 +33381,7 @@
                       "digi_geogrey_sword",
                       "digi_saint_knuckle_iii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_shinegreymon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -33457,7 +33457,7 @@
                       "digi_trump_sword",
                       "digi_destruction"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_piedmon",
                     "Tactic": "thief",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -33497,7 +33497,7 @@
                       "digi_idle_bubble",
                       "digi_mental_break"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_megaseadramon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -33574,7 +33574,7 @@
                       "digi_antidote",
                       "digi_texture_blow"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_blackkingnumemon",
                     "Tactic": "thief",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -33675,7 +33675,7 @@
                       "digi_speed_break_field",
                       "digi_shining_laser_iii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_leopardmon_lm",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -34580,7 +34580,7 @@
                               "digi_wind_claw_iii",
                               "digi_shining_laser_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gryphonmon",
                             "Tactic": "wander_normal",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -34617,7 +34617,7 @@
                               "digi_gale_storm_i",
                               "digi_saint_knuckle_iii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_kendogarurumon",
                             "Tactic": "wander_normal",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -34653,7 +34653,7 @@
                               "digi_destruction_cannon_iii",
                               "digi_destruction"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_diaboromon",
                             "Tactic": "wander_normal",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -34689,7 +34689,7 @@
                               "digi_saint_knuckle_iii",
                               "digi_attack_break_field"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_miragegaogamon_bm",
                             "Tactic": "wander_normal",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -34725,7 +34725,7 @@
                               "digi_saint_knuckle_iii",
                               "digi_acceleration_boost"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_justimon",
                             "Tactic": "wander_normal",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -34762,7 +34762,7 @@
                               "digi_escape_dash",
                               "digi_comet_hammer_iii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_mamemon",
                             "Tactic": "wander_normal",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -34798,7 +34798,7 @@
                               "digi_nightmare_iii",
                               "digi_hell_crusher_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_kuzuhamon",
                             "Tactic": "wander_normal",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -35305,7 +35305,7 @@
                                       "digi_celestial_blade__ravemon",
                                       "digi_sonic_void_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_ravemon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -35340,7 +35340,7 @@
                                       "digi_dimension_scissor",
                                       "digi_physical_drain"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_grankuwagamon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -35376,7 +35376,7 @@
                                       "digi_rune_forest_i",
                                       "digi_speed_break"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_megakabuterimon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -35411,7 +35411,7 @@
                                       "digi_ocean_love",
                                       "digi_hydro_water_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_marineangemon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -35446,7 +35446,7 @@
                                       "digi_smile_warhead",
                                       "digi_chain_minus"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_princemamemon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -35515,7 +35515,7 @@
                                       "digi_agility_charge",
                                       "digi_hydro_water_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_panjyamon",
                                     "Tactic": "wander_smart",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -35618,7 +35618,7 @@
                                               "digi_thunder_fall_i",
                                               "digi_wind_claw_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_dinobeemon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -35685,7 +35685,7 @@
                                               "digi_x_heal",
                                               "digi_hydro_water_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_whamon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -35751,7 +35751,7 @@
                                               "digi_heavy_strike_iii",
                                               "digi_attack_charge_field"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_imperialdramon_dm",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -35817,7 +35817,7 @@
                                               "digi_holy_light_iii",
                                               "digi_final_heal"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_valkyrimon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -35884,7 +35884,7 @@
                                               "digi_shining_laser_ii",
                                               "digi_saint_knuckle_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_kentaurosmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -35951,7 +35951,7 @@
                                               "digi_rune_forest_i",
                                               "digi_destruction"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_digitamamon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -36571,7 +36571,7 @@
                                     "digi_nightmare_iii",
                                     "digi_panic_wisp"
                                   ],
-                                  "Intrinsic": "none",
+                                  "Intrinsic": "digi_grandracmon",
                                   "Tactic": "wander_smart",
                                   "SpawnConditions": [],
                                   "SpawnFeatures": [
@@ -37061,7 +37061,7 @@
                                       "digi_starlight_velocity",
                                       "digi_saint_knuckle_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_magnagarurumon_sv",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -37097,7 +37097,7 @@
                                       "digi_rune_forest_i",
                                       "digi_physical_drain"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_cherrymon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -37133,7 +37133,7 @@
                                       "digi_chain_plus",
                                       "digi_guard_break"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_wargrowlmon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -37168,7 +37168,7 @@
                                       "digi_strike_of_the_seven_stars",
                                       "digi_holy_light_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_seraphimon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -37203,7 +37203,7 @@
                                       "digi_platinum_junk",
                                       "digi_escape_dash"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_platinumnumemon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -37272,7 +37272,7 @@
                                       "digi_physical_drain",
                                       "digi_rune_forest_ii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_cherrymon",
                                     "Tactic": "wander_smart",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -37374,7 +37374,7 @@
                                               "digi_restore",
                                               "digi_shining_laser_ii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_sakuyamon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -37440,7 +37440,7 @@
                                               "digi_sonic_void_iii",
                                               "digi_aura"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_ravemon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -37506,7 +37506,7 @@
                                               "digi_hydro_water_iii",
                                               "digi_ocean_wave_ii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_marineangemon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -37573,7 +37573,7 @@
                                               "digi_speed_charge",
                                               "digi_wind_claw_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_aeroveedramon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -37640,7 +37640,7 @@
                                               "digi_mental_break",
                                               "digi_burst_flame_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_bluemeramon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -37707,7 +37707,7 @@
                                               "digi_anti_panic",
                                               "digi_heavy_strike_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_knightmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -38327,7 +38327,7 @@
                                     "digi_meteor_fall_ii",
                                     "digi_wolkenapalm_iii"
                                   ],
-                                  "Intrinsic": "none",
+                                  "Intrinsic": "digi_wargreymon",
                                   "Tactic": "wander_smart",
                                   "SpawnConditions": [],
                                   "SpawnFeatures": [
@@ -38817,7 +38817,7 @@
                                       "digi_atomic_ray",
                                       "digi_thunder_fall_ii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_hiandromon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -38853,7 +38853,7 @@
                                       "digi_panic_wisp",
                                       "digi_ocean_wave_ii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_dragomon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -38889,7 +38889,7 @@
                                       "digi_panic_wisp",
                                       "digi_wolkenapalm_ii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_megadramon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -38925,7 +38925,7 @@
                                       "digi_awesome_quake_i",
                                       "digi_critical_charge"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_metalgreymon_blue",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -38960,7 +38960,7 @@
                                       "digi_platinum_junk",
                                       "digi_escape_dash"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_platinumnumemon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -39029,7 +39029,7 @@
                                       "digi_thunder_fall_ii",
                                       "digi_ice_archery_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_metalgarurumon_blk",
                                     "Tactic": "wander_smart",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -39131,7 +39131,7 @@
                                               "digi_mach_rush_ii",
                                               "digi_wolkenapalm_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_pilevolcamon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -39198,7 +39198,7 @@
                                               "digi_texture_blow",
                                               "digi_chain_minus"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_blackkingnumemon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -39264,7 +39264,7 @@
                                               "digi_awesome_quake_ii",
                                               "digi_attack_charge_field"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_kingetemon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -39330,7 +39330,7 @@
                                               "digi_critical_charge",
                                               "digi_acceleration_boost"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_darkdramon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -39397,7 +39397,7 @@
                                               "digi_hit_charge",
                                               "digi_nanomachine_break_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_metalmamemon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -39463,7 +39463,7 @@
                                               "digi_nanomachine_break_iii",
                                               "digi_cross_counter"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_boltmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -40083,7 +40083,7 @@
                                     "digi_nightmare_iii",
                                     "digi_panic_wisp"
                                   ],
-                                  "Intrinsic": "none",
+                                  "Intrinsic": "digi_grandracmon",
                                   "Tactic": "wander_smart",
                                   "SpawnConditions": [],
                                   "SpawnFeatures": [
@@ -40570,7 +40570,7 @@
                                       "digi_ice_wolf_claw",
                                       "digi_thunder_fall_ii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_metalgarurumon_blk",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -40605,7 +40605,7 @@
                                       "digi_flame_inferno",
                                       "digi_nightmare_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_creepymon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -40641,7 +40641,7 @@
                                       "digi_shock",
                                       "digi_wolkenapalm_ii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_gigadramon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -40677,7 +40677,7 @@
                                       "digi_ocean_wave_i",
                                       "digi_hydro_water_ii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_crescemon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -40713,7 +40713,7 @@
                                       "digi_ripping_net",
                                       "digi_physical_drain"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_datamon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -40782,7 +40782,7 @@
                                       "digi_mental_charge",
                                       "digi_nightmare_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_taomon",
                                     "Tactic": "wander_smart",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -40885,7 +40885,7 @@
                                               "digi_attack_charge",
                                               "digi_meteor_fall_i"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_metalgreymon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -40952,7 +40952,7 @@
                                               "digi_hit_charge",
                                               "digi_nanomachine_break_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_metalmamemon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -41018,7 +41018,7 @@
                                               "digi_nanomachine_break_iii",
                                               "digi_cross_counter"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_boltmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -41085,7 +41085,7 @@
                                               "digi_dispel",
                                               "digi_holy_light_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_shakkoumon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -41152,7 +41152,7 @@
                                               "digi_saint_knuckle_ii",
                                               "digi_heavy_strike_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_duramon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -41219,7 +41219,7 @@
                                               "digi_thunder_fall_i",
                                               "digi_wind_claw_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_dinobeemon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -41838,7 +41838,7 @@
                                     "digi_heavy_strike_iii",
                                     "digi_support_end"
                                   ],
-                                  "Intrinsic": "none",
+                                  "Intrinsic": "digi_durandamon",
                                   "Tactic": "wander_smart",
                                   "SpawnConditions": [],
                                   "SpawnFeatures": [
@@ -42329,7 +42329,7 @@
                                       "digi_shining_laser_i",
                                       "digi_anti_poison"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_chirinmon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -42364,7 +42364,7 @@
                                       "digi_aurora_undulation",
                                       "digi_holy_light_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_varodurumon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -42400,7 +42400,7 @@
                                       "digi_judecca_prison",
                                       "digi_destruction_cannon_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_chaosgallantmon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -42435,7 +42435,7 @@
                                       "digi_pandemonium_lost",
                                       "digi_nightmare_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_barbamon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -42471,7 +42471,7 @@
                                       "digi_acceleration_boost",
                                       "digi_destruction"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_skullgreymon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -42539,7 +42539,7 @@
                                       "digi_nightmare_iii",
                                       "digi_spirit_drain"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_kerpymon_blk",
                                     "Tactic": "wander_smart",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -42642,7 +42642,7 @@
                                               "digi_anti_stun",
                                               "digi_wind_claw_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_machgaogamon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -42708,7 +42708,7 @@
                                               "digi_wind_claw_iii",
                                               "digi_acceleration_boost"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_saberleomon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -42775,7 +42775,7 @@
                                               "digi_shining_laser_ii",
                                               "digi_saint_knuckle_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_kentaurosmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -42841,7 +42841,7 @@
                                               "digi_shining_laser_ii",
                                               "digi_hell_crusher_ii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_lucemon_fm",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -42908,7 +42908,7 @@
                                               "digi_shining_laser_i",
                                               "digi_speed_charge"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_hippogryphonmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -42975,7 +42975,7 @@
                                               "digi_ice_archery_iii",
                                               "digi_aura"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_metalgarurumon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -43594,7 +43594,7 @@
                                     "digi_wind_claw_iii",
                                     "digi_shining_laser_ii"
                                   ],
-                                  "Intrinsic": "none",
+                                  "Intrinsic": "digi_gryphonmon",
                                   "Tactic": "wander_smart",
                                   "SpawnConditions": [],
                                   "SpawnFeatures": [
@@ -44085,7 +44085,7 @@
                                       "digi_shining_laser_i",
                                       "digi_dispel"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_shakkoumon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -44121,7 +44121,7 @@
                                       "digi_mach_rush_i",
                                       "digi_heal"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_pandamon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -44157,7 +44157,7 @@
                                       "digi_awesome_quake_i",
                                       "digi_meteor_fall_i"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_weregarurumon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -44193,7 +44193,7 @@
                                       "digi_rune_forest_i",
                                       "digi_speed_break"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_megakabuterimon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -44228,7 +44228,7 @@
                                       "digi_starlight_velocity",
                                       "digi_saint_knuckle_iii"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_magnagarurumon_sv",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -44297,7 +44297,7 @@
                                       "digi_mach_rush_ii",
                                       "digi_acceleration_boost"
                                     ],
-                                    "Intrinsic": "none",
+                                    "Intrinsic": "digi_chaosdramon",
                                     "Tactic": "wander_smart",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -44400,7 +44400,7 @@
                                               "digi_thunder_fall_i",
                                               "digi_heavy_strike_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_paildramon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -44466,7 +44466,7 @@
                                               "digi_hell_crusher_ii",
                                               "digi_spirit_drain"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_lilithmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -44532,7 +44532,7 @@
                                               "digi_nanomachine_break_iii",
                                               "digi_cross_counter"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_boltmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -44599,7 +44599,7 @@
                                               "digi_ocean_wave_ii",
                                               "digi_hydro_water_ii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_dragomon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -44666,7 +44666,7 @@
                                               "digi_agility_charge",
                                               "digi_hydro_water_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_panjyamon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -44733,7 +44733,7 @@
                                               "digi_gale_storm_i",
                                               "digi_saint_knuckle_iii"
                                             ],
-                                            "Intrinsic": "none",
+                                            "Intrinsic": "digi_kendogarurumon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -45353,7 +45353,7 @@
                                     "digi_thunder_fall_ii",
                                     "digi_ice_archery_iii"
                                   ],
-                                  "Intrinsic": "none",
+                                  "Intrinsic": "digi_metalgarurumon_blk",
                                   "Tactic": "wander_smart",
                                   "SpawnConditions": [],
                                   "SpawnFeatures": [

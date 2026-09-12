@@ -1,0 +1,111 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.IntrinsicData, RogueEssence",
+    "Name": {
+      "DefaultText": "Midnight Ring",
+      "LocalTexts": {}
+    },
+    "Desc": {
+      "DefaultText": "The user's Lightning Paw and Nightmare II have 10% higher accuracy (multiplicative). The user's HP restoration is increased by 10%.",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+    "IndexNum": 15128,
+    "ProximityEvent": {
+      "Radius": -1,
+      "TargetAlignments": 0,
+      "BeforeExplosions": [],
+      "OnEquips": [],
+      "OnPickups": [],
+      "BeforeStatusAdds": [],
+      "BeforeStatusAddings": [],
+      "OnStatusAdds": [],
+      "OnStatusRemoves": [],
+      "OnMapStatusAdds": [],
+      "OnMapStatusRemoves": [],
+      "OnMapStarts": [],
+      "OnTurnStarts": [],
+      "OnTurnEnds": [],
+      "OnMapTurnEnds": [],
+      "OnWalks": [],
+      "OnDeaths": [],
+      "OnRefresh": [],
+      "BeforeTryActions": [],
+      "BeforeActions": [],
+      "OnActions": [],
+      "BeforeHittings": [],
+      "BeforeBeingHits": [],
+      "AfterHittings": [],
+      "AfterBeingHits": [],
+      "OnHitTiles": [],
+      "AfterActions": [],
+      "UserElementEffects": [],
+      "TargetElementEffects": [],
+      "ModifyHPs": [],
+      "RestoreHPs": []
+    },
+    "OnEquips": [],
+    "OnPickups": [],
+    "BeforeStatusAdds": [],
+    "BeforeStatusAddings": [],
+    "OnStatusAdds": [],
+    "OnStatusRemoves": [],
+    "OnMapStatusAdds": [],
+    "OnMapStatusRemoves": [],
+    "OnMapStarts": [],
+    "OnTurnStarts": [],
+    "OnTurnEnds": [],
+    "OnMapTurnEnds": [],
+    "OnWalks": [],
+    "OnDeaths": [],
+    "OnRefresh": [],
+    "BeforeTryActions": [],
+    "BeforeActions": [],
+    "OnActions": [
+      {
+        "Key": {
+          "str": [
+            0
+          ]
+        },
+        "Value": {
+          "$type": "PMDC.Dungeon.SpecificSkillNeededEvent, PMDC",
+          "AcceptedMoves": [
+            "digi_lightning_paw",
+            "digi_nightmare_ii"
+          ],
+          "BaseEvent": {
+            "$type": "PMDC.Dungeon.MultiplyAccuracyEvent, PMDC",
+            "Numerator": 110,
+            "Denominator": 100
+          }
+        }
+      }
+    ],
+    "BeforeHittings": [],
+    "BeforeBeingHits": [],
+    "AfterHittings": [],
+    "AfterBeingHits": [],
+    "OnHitTiles": [],
+    "AfterActions": [],
+    "UserElementEffects": [],
+    "TargetElementEffects": [],
+    "ModifyHPs": [],
+    "RestoreHPs": [
+      {
+        "Key": {
+          "str": [
+            0
+          ]
+        },
+        "Value": {
+          "$type": "PMDC.Dungeon.HealMultEvent, PMDC",
+          "Numerator": 110,
+          "Denominator": 100
+        }
+      }
+    ]
+  }
+}

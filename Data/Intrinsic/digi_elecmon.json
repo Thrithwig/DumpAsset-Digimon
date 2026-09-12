@@ -1,0 +1,114 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.IntrinsicData, RogueEssence",
+    "Name": {
+      "DefaultText": "Static Exchange",
+      "LocalTexts": {}
+    },
+    "Desc": {
+      "DefaultText": "The user's Thunder Cloud and Heaven's Thunder I have 10% higher accuracy (multiplicative). Nearby allies' Electric attacks deal 5% more damage.",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+    "IndexNum": 15023,
+    "ProximityEvent": {
+      "Radius": 2,
+      "TargetAlignments": 2,
+      "BeforeExplosions": [],
+      "OnEquips": [],
+      "OnPickups": [],
+      "BeforeStatusAdds": [],
+      "BeforeStatusAddings": [],
+      "OnStatusAdds": [],
+      "OnStatusRemoves": [],
+      "OnMapStatusAdds": [],
+      "OnMapStatusRemoves": [],
+      "OnMapStarts": [],
+      "OnTurnStarts": [],
+      "OnTurnEnds": [],
+      "OnMapTurnEnds": [],
+      "OnWalks": [],
+      "OnDeaths": [],
+      "OnRefresh": [],
+      "BeforeTryActions": [],
+      "BeforeActions": [],
+      "OnActions": [
+        {
+          "Key": {
+            "str": [
+              0
+            ]
+          },
+          "Value": {
+            "$type": "PMDC.Dungeon.MultiplyElementEvent, PMDC",
+            "Numerator": 105,
+            "Denominator": 100,
+            "Anims": [],
+            "MultElement": "electric",
+            "Msg": false
+          }
+        }
+      ],
+      "BeforeHittings": [],
+      "BeforeBeingHits": [],
+      "AfterHittings": [],
+      "AfterBeingHits": [],
+      "OnHitTiles": [],
+      "AfterActions": [],
+      "UserElementEffects": [],
+      "TargetElementEffects": [],
+      "ModifyHPs": [],
+      "RestoreHPs": []
+    },
+    "OnEquips": [],
+    "OnPickups": [],
+    "BeforeStatusAdds": [],
+    "BeforeStatusAddings": [],
+    "OnStatusAdds": [],
+    "OnStatusRemoves": [],
+    "OnMapStatusAdds": [],
+    "OnMapStatusRemoves": [],
+    "OnMapStarts": [],
+    "OnTurnStarts": [],
+    "OnTurnEnds": [],
+    "OnMapTurnEnds": [],
+    "OnWalks": [],
+    "OnDeaths": [],
+    "OnRefresh": [],
+    "BeforeTryActions": [],
+    "BeforeActions": [],
+    "OnActions": [
+      {
+        "Key": {
+          "str": [
+            0
+          ]
+        },
+        "Value": {
+          "$type": "PMDC.Dungeon.SpecificSkillNeededEvent, PMDC",
+          "AcceptedMoves": [
+            "digi_thunder_cloud",
+            "digi_heaven_s_thunder_i"
+          ],
+          "BaseEvent": {
+            "$type": "PMDC.Dungeon.MultiplyAccuracyEvent, PMDC",
+            "Numerator": 110,
+            "Denominator": 100
+          }
+        }
+      }
+    ],
+    "BeforeHittings": [],
+    "BeforeBeingHits": [],
+    "AfterHittings": [],
+    "AfterBeingHits": [],
+    "OnHitTiles": [],
+    "AfterActions": [],
+    "UserElementEffects": [],
+    "TargetElementEffects": [],
+    "ModifyHPs": [],
+    "RestoreHPs": []
+  }
+}

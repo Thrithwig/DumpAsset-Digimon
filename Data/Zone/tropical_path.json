@@ -1,4 +1,4 @@
-﻿{
+{
   "Version": "0.8.12.0",
   "Object": {
     "$type": "RogueEssence.Data.ZoneData, RogueEssence",
@@ -2482,7 +2482,7 @@
                             "SpecifiedSkills": [
                               "digi_bubbles"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_koromon",
                             "Tactic": "wander_dumb",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -2698,7 +2698,7 @@
                     "SpecifiedSkills": [
                       "digi_bubble_blow"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_botamon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -2732,7 +2732,7 @@
                     "SpecifiedSkills": [
                       "digi_air_bubbles"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_bukamon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -2766,7 +2766,7 @@
                     "SpecifiedSkills": [
                       "digi_bubbles"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_koromon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -2800,7 +2800,7 @@
                     "SpecifiedSkills": [
                       "digi_elastic_bubbles"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_motimon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -2834,7 +2834,7 @@
                     "SpecifiedSkills": [
                       "digi_fox_tail"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_nyaromon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -2868,7 +2868,7 @@
                     "SpecifiedSkills": [
                       "digi_adhesive_bubble_blow"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_pabumon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -2902,7 +2902,7 @@
                     "SpecifiedSkills": [
                       "digi_super_bubble_blow"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_poyomon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -2936,7 +2936,7 @@
                     "SpecifiedSkills": [
                       "digi_bubble_blow"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_punimon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -2970,7 +2970,7 @@
                     "SpecifiedSkills": [
                       "digi_adhesive_bubble_blow"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_tanemon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -3004,7 +3004,7 @@
                     "SpecifiedSkills": [
                       "digi_bite"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_tokomon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -3038,7 +3038,7 @@
                     "SpecifiedSkills": [
                       "digi_bubbles"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_tsunomon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -3072,7 +3072,7 @@
                     "SpecifiedSkills": [
                       "digi_soap_flower"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_yokomon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -3137,7 +3137,7 @@
                               "Max": 12
                             },
                             "SpecifiedSkills": [],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_punimon",
                             "Tactic": "slow_patrol",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -3188,7 +3188,7 @@
                               "Max": 14
                             },
                             "SpecifiedSkills": [],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_kabuterimon",
                             "Tactic": "slow_wander",
                             "SpawnConditions": [],
                             "SpawnFeatures": [

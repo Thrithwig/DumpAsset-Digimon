@@ -1,0 +1,114 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.IntrinsicData, RogueEssence",
+    "Name": {
+      "DefaultText": "Cross Formation",
+      "LocalTexts": {}
+    },
+    "Desc": {
+      "DefaultText": "The user's Vee Laser and Heavy Strike II deal 10% more damage. The user takes 5% less physical attack damage.",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+    "IndexNum": 15076,
+    "ProximityEvent": {
+      "Radius": -1,
+      "TargetAlignments": 0,
+      "BeforeExplosions": [],
+      "OnEquips": [],
+      "OnPickups": [],
+      "BeforeStatusAdds": [],
+      "BeforeStatusAddings": [],
+      "OnStatusAdds": [],
+      "OnStatusRemoves": [],
+      "OnMapStatusAdds": [],
+      "OnMapStatusRemoves": [],
+      "OnMapStarts": [],
+      "OnTurnStarts": [],
+      "OnTurnEnds": [],
+      "OnMapTurnEnds": [],
+      "OnWalks": [],
+      "OnDeaths": [],
+      "OnRefresh": [],
+      "BeforeTryActions": [],
+      "BeforeActions": [],
+      "OnActions": [],
+      "BeforeHittings": [],
+      "BeforeBeingHits": [],
+      "AfterHittings": [],
+      "AfterBeingHits": [],
+      "OnHitTiles": [],
+      "AfterActions": [],
+      "UserElementEffects": [],
+      "TargetElementEffects": [],
+      "ModifyHPs": [],
+      "RestoreHPs": []
+    },
+    "OnEquips": [],
+    "OnPickups": [],
+    "BeforeStatusAdds": [],
+    "BeforeStatusAddings": [],
+    "OnStatusAdds": [],
+    "OnStatusRemoves": [],
+    "OnMapStatusAdds": [],
+    "OnMapStatusRemoves": [],
+    "OnMapStarts": [],
+    "OnTurnStarts": [],
+    "OnTurnEnds": [],
+    "OnMapTurnEnds": [],
+    "OnWalks": [],
+    "OnDeaths": [],
+    "OnRefresh": [],
+    "BeforeTryActions": [],
+    "BeforeActions": [],
+    "OnActions": [
+      {
+        "Key": {
+          "str": [
+            0
+          ]
+        },
+        "Value": {
+          "$type": "PMDC.Dungeon.SpecificSkillNeededEvent, PMDC",
+          "AcceptedMoves": [
+            "digi_vee_laser",
+            "digi_heavy_strike_ii"
+          ],
+          "BaseEvent": {
+            "$type": "PMDC.Dungeon.MultiplyDamageEvent, PMDC",
+            "Numerator": 110,
+            "Denominator": 100,
+            "Anims": []
+          }
+        }
+      }
+    ],
+    "BeforeHittings": [],
+    "BeforeBeingHits": [
+      {
+        "Key": {
+          "str": [
+            0
+          ]
+        },
+        "Value": {
+          "$type": "PMDC.Dungeon.MultiplyCategoryEvent, PMDC",
+          "Numerator": 95,
+          "Denominator": 100,
+          "Anims": [],
+          "Category": 1
+        }
+      }
+    ],
+    "AfterHittings": [],
+    "AfterBeingHits": [],
+    "OnHitTiles": [],
+    "AfterActions": [],
+    "UserElementEffects": [],
+    "TargetElementEffects": [],
+    "ModifyHPs": [],
+    "RestoreHPs": []
+  }
+}

@@ -3,6 +3,7 @@ local Ledger = require 'origin.digimon.scan_ledger'
 local Catalog = require 'origin.digimon.catalog'
 local Runtime = require 'origin.digimon.runtime_catalog'
 local Progress = require 'origin.digimon.progression'
+local Passives = require 'origin.digimon.passive_abilities'
 local Service = Class('DigimonRuntime', BaseService)
 
 function Service:NewGame()
@@ -12,6 +13,7 @@ function Service:NewGame()
   SV.base_camp.IntroComplete = true
   SV.base_camp.ExpositionComplete = true
   require('origin.digimon.dungeon_access').ensure()
+  Passives.team()
   for _,char in ipairs(GAME:GetPlayerPartyTable()) do
     if Runtime.species[char.BaseForm.Species] then
       char.Level=5;char.EXP=0;char.HP=char.MaxHP;Progress.progress(char)
@@ -32,6 +34,7 @@ end
 
 function Service:Ground(name,map)
   require('origin.digimon.dungeon_access').ensure()
+  if Ledger.valid(SV.Digimon) then Passives.team() end
   local camps={base_camp=true,base_camp_2=true,forest_camp=true,cliff_camp=true,
     canyon_camp=true,rest_stop=true,final_stop=true,guild_hut=true,post_office=true,
     guildmaster_summit=true}
@@ -50,6 +53,7 @@ end
 
 function Service:Floor(name,map)
   if not Ledger.valid(SV.Digimon) then return end
+  Passives.team()
   if SV.Digimon.floor_identity~=map.RewardFloorIdentity then
     Ledger.begin_floor(SV.Digimon)
     SV.Digimon.floor_identity=map.RewardFloorIdentity
@@ -62,6 +66,7 @@ function Service:Floor(name,map)
         local char=team.Players[j]
         if map:GetCharFaction(char)==RogueEssence.Dungeon.Faction.Foe then
           cast(char,_ZONE.CurrentZoneID..':'..tostring(map.RewardFloorIdentity)..':'..tostring(i)..':'..tostring(j))
+          Passives.sync(char)
           if char.LuaDataTable then char.LuaDataTable.DigimonNatural=true end
         end
       end

@@ -465,10 +465,14 @@
         "PromoteForm": 0,
         "Element1": "normal",
         "Element2": "none",
-        "Intrinsic1": "none",
+        "Intrinsic1": "digi_monodramon",
         "Intrinsic2": "none",
         "Intrinsic3": "none",
         "LevelSkills": [
+          {
+            "Level": 1,
+            "Skill": "digi_starter_neutral_physical"
+          },
           {
             "Level": 1,
             "Skill": "digi_knuckle_beater"

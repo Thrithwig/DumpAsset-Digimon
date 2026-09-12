@@ -465,10 +465,14 @@
         "PromoteForm": 0,
         "Element1": "flying",
         "Element2": "none",
-        "Intrinsic1": "none",
+        "Intrinsic1": "digi_falcomon",
         "Intrinsic2": "none",
         "Intrinsic3": "none",
         "LevelSkills": [
+          {
+            "Level": 1,
+            "Skill": "digi_starter_wind_physical"
+          },
           {
             "Level": 1,
             "Skill": "digi_ninja_blade"

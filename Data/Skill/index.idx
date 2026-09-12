@@ -14658,6 +14658,326 @@
 "Comment": "Cyber Sleuth source: Physical attack, 130 Light damage to one foe. Increases SPD by 10%.",
 "SortOrder": 12423
 },
+"digi_starter_dark_magic": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "dark",
+"Category": 2,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in 4-Tile Shot",
+"Description": {
+"DefaultText": "Magic Dark attack. Power 20. Fires up to 4 tiles, stopping at walls and the first foe; passes allies safely.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Shade Orb",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13000
+},
+"digi_starter_dark_physical": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "dark",
+"Category": 1,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in Front",
+"Description": {
+"DefaultText": "Physical Dark attack. Power 20. Strikes the adjacent foe in front.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Shade Claw",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13001
+},
+"digi_starter_earth_magic": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "ground",
+"Category": 2,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Ally/Foe in 6-Tile Shot",
+"Description": {
+"DefaultText": "Magic Earth attack. Power 20. Fires up to 6 tiles, stopping at walls and the first friend or foe.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Pebble Shot",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13002
+},
+"digi_starter_earth_physical": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "ground",
+"Category": 1,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in Front",
+"Description": {
+"DefaultText": "Physical Earth attack. Power 20. Strikes the adjacent foe in front.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Pebble Strike",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13003
+},
+"digi_starter_electric_magic": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "electric",
+"Category": 2,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in 4-Tile Shot",
+"Description": {
+"DefaultText": "Magic Electric attack. Power 20. Fires up to 4 tiles, stopping at walls and the first foe; passes allies safely.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Static Spark",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13004
+},
+"digi_starter_electric_physical": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "electric",
+"Category": 1,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in Front",
+"Description": {
+"DefaultText": "Physical Electric attack. Power 20. Strikes the adjacent foe in front.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Static Strike",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13005
+},
+"digi_starter_fire_physical": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "fire",
+"Category": 1,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in Front",
+"Description": {
+"DefaultText": "Physical Fire attack. Power 20. Strikes the adjacent foe in front.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Ember Claw",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13006
+},
+"digi_starter_light_magic": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "fairy",
+"Category": 2,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in 4-Tile Shot",
+"Description": {
+"DefaultText": "Magic Light attack. Power 20. Fires up to 4 tiles, stopping at walls and the first foe; passes allies safely.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Gleam Orb",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13007
+},
+"digi_starter_neutral_magic": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "normal",
+"Category": 2,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in 4-Tile Shot",
+"Description": {
+"DefaultText": "Magic Neutral attack. Power 20. Fires up to 4 tiles, stopping at walls and the first foe; passes allies safely.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Data Pulse",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13008
+},
+"digi_starter_neutral_physical": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "normal",
+"Category": 1,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in Front",
+"Description": {
+"DefaultText": "Physical Neutral attack. Power 20. Strikes the adjacent foe in front.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Data Jab",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13009
+},
+"digi_starter_plant_magic": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "grass",
+"Category": 2,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in 4-Tile Shot",
+"Description": {
+"DefaultText": "Magic Plant attack. Power 20. Fires up to 4 tiles, stopping at walls and the first foe; passes allies safely.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Sprout Orb",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13010
+},
+"digi_starter_plant_physical": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "grass",
+"Category": 1,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in Front",
+"Description": {
+"DefaultText": "Physical Plant attack. Power 20. Strikes the adjacent foe in front.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Sprout Slash",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13011
+},
+"digi_starter_water_magic": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "water",
+"Category": 2,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in 4-Tile Shot",
+"Description": {
+"DefaultText": "Magic Water attack. Power 20. Fires up to 4 tiles, stopping at walls and the first foe; passes allies safely.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Aqua Drop",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13012
+},
+"digi_starter_water_physical": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "water",
+"Category": 1,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in Front",
+"Description": {
+"DefaultText": "Physical Water attack. Power 20. Strikes the adjacent foe in front.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Aqua Strike",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13013
+},
+"digi_starter_wind_magic": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "flying",
+"Category": 2,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in 4-Tile Shot",
+"Description": {
+"DefaultText": "Magic Wind attack. Power 20. Fires up to 4 tiles, stopping at walls and the first foe; passes allies safely.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Breeze Orb",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13014
+},
+"digi_starter_wind_physical": {
+"$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
+"Element": "flying",
+"Category": 1,
+"BasePower": 20,
+"BaseCharges": 20,
+"HitRate": 100,
+"RangeDescription": "Foe in Front",
+"Description": {
+"DefaultText": "Physical Wind attack. Power 20. Strikes the adjacent foe in front.",
+"LocalTexts": {}
+},
+"Name": {
+"DefaultText": "Breeze Cut",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+"SortOrder": 13015
+},
 "digi_status_barrier": {
 "$type": "RogueEssence.Data.SkillDataSummary, RogueEssence",
 "Element": "normal",

@@ -1,4 +1,4 @@
-﻿{
+{
   "Version": "0.8.12.0",
   "Object": {
     "$type": "RogueEssence.Data.ZoneData, RogueEssence",
@@ -2394,7 +2394,7 @@
                     "SpecifiedSkills": [
                       "digi_blinding_ray"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_kudamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2423,7 +2423,7 @@
                     "SpecifiedSkills": [
                       "digi_glare_eye"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_kuramon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2452,7 +2452,7 @@
                     "SpecifiedSkills": [
                       "digi_seed_blast"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_lalamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2481,7 +2481,7 @@
                     "SpecifiedSkills": [
                       "digi_blazing_ice"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_lopmon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2510,7 +2510,7 @@
                     "SpecifiedSkills": [
                       "digi_glare_eye"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_kuramon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2540,7 +2540,7 @@
                       "digi_seed_blast",
                       "digi_venom_trap"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_lalamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2570,7 +2570,7 @@
                       "digi_blazing_ice",
                       "digi_grand_rock_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_lopmon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2599,7 +2599,7 @@
                     "SpecifiedSkills": [
                       "digi_grand_cross"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_lucemon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2629,7 +2629,7 @@
                       "digi_seed_blast",
                       "digi_venom_trap"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_lalamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2659,7 +2659,7 @@
                       "digi_blazing_ice",
                       "digi_grand_rock_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_lopmon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2688,7 +2688,7 @@
                     "SpecifiedSkills": [
                       "digi_grand_cross"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_lucemon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2718,7 +2718,7 @@
                       "digi_tearing_shot",
                       "digi_heal"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_lunamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []

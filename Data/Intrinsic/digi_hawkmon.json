@@ -1,0 +1,115 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.IntrinsicData, RogueEssence",
+    "Name": {
+      "DefaultText": "Feather Scout",
+      "LocalTexts": {}
+    },
+    "Desc": {
+      "DefaultText": "The user's Feather Slash and Wind Claw I deal 10% more damage. Nearby allies' Wind attacks deal 5% more damage.",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+    "IndexNum": 15056,
+    "ProximityEvent": {
+      "Radius": 2,
+      "TargetAlignments": 2,
+      "BeforeExplosions": [],
+      "OnEquips": [],
+      "OnPickups": [],
+      "BeforeStatusAdds": [],
+      "BeforeStatusAddings": [],
+      "OnStatusAdds": [],
+      "OnStatusRemoves": [],
+      "OnMapStatusAdds": [],
+      "OnMapStatusRemoves": [],
+      "OnMapStarts": [],
+      "OnTurnStarts": [],
+      "OnTurnEnds": [],
+      "OnMapTurnEnds": [],
+      "OnWalks": [],
+      "OnDeaths": [],
+      "OnRefresh": [],
+      "BeforeTryActions": [],
+      "BeforeActions": [],
+      "OnActions": [
+        {
+          "Key": {
+            "str": [
+              0
+            ]
+          },
+          "Value": {
+            "$type": "PMDC.Dungeon.MultiplyElementEvent, PMDC",
+            "Numerator": 105,
+            "Denominator": 100,
+            "Anims": [],
+            "MultElement": "flying",
+            "Msg": false
+          }
+        }
+      ],
+      "BeforeHittings": [],
+      "BeforeBeingHits": [],
+      "AfterHittings": [],
+      "AfterBeingHits": [],
+      "OnHitTiles": [],
+      "AfterActions": [],
+      "UserElementEffects": [],
+      "TargetElementEffects": [],
+      "ModifyHPs": [],
+      "RestoreHPs": []
+    },
+    "OnEquips": [],
+    "OnPickups": [],
+    "BeforeStatusAdds": [],
+    "BeforeStatusAddings": [],
+    "OnStatusAdds": [],
+    "OnStatusRemoves": [],
+    "OnMapStatusAdds": [],
+    "OnMapStatusRemoves": [],
+    "OnMapStarts": [],
+    "OnTurnStarts": [],
+    "OnTurnEnds": [],
+    "OnMapTurnEnds": [],
+    "OnWalks": [],
+    "OnDeaths": [],
+    "OnRefresh": [],
+    "BeforeTryActions": [],
+    "BeforeActions": [],
+    "OnActions": [
+      {
+        "Key": {
+          "str": [
+            0
+          ]
+        },
+        "Value": {
+          "$type": "PMDC.Dungeon.SpecificSkillNeededEvent, PMDC",
+          "AcceptedMoves": [
+            "digi_feather_slash",
+            "digi_wind_claw_i"
+          ],
+          "BaseEvent": {
+            "$type": "PMDC.Dungeon.MultiplyDamageEvent, PMDC",
+            "Numerator": 110,
+            "Denominator": 100,
+            "Anims": []
+          }
+        }
+      }
+    ],
+    "BeforeHittings": [],
+    "BeforeBeingHits": [],
+    "AfterHittings": [],
+    "AfterBeingHits": [],
+    "OnHitTiles": [],
+    "AfterActions": [],
+    "UserElementEffects": [],
+    "TargetElementEffects": [],
+    "ModifyHPs": [],
+    "RestoreHPs": []
+  }
+}

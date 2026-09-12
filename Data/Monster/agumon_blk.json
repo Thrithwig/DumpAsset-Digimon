@@ -465,10 +465,14 @@
         "PromoteForm": 0,
         "Element1": "fire",
         "Element2": "none",
-        "Intrinsic1": "none",
+        "Intrinsic1": "digi_agumon_blk",
         "Intrinsic2": "none",
         "Intrinsic3": "none",
         "LevelSkills": [
+          {
+            "Level": 1,
+            "Skill": "digi_starter_fire_physical"
+          },
           {
             "Level": 1,
             "Skill": "digi_spitfire_blast"

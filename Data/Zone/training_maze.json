@@ -1,4 +1,4 @@
-﻿{
+{
   "Version": "0.8.12.0",
   "Object": {
     "$type": "RogueEssence.Data.ZoneData, RogueEssence",
@@ -56720,7 +56720,7 @@
                             "SpecifiedSkills": [
                               "digi_gear_stringer"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_fanbeemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -56758,7 +56758,7 @@
                             "SpecifiedSkills": [
                               "digi_symphony_crusher"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gekomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -56796,7 +56796,7 @@
                             "SpecifiedSkills": [
                               "digi_terrier_tornado"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_terriermon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -56834,7 +56834,7 @@
                             "SpecifiedSkills": [
                               "digi_turbo_stinger"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_waspmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -56872,7 +56872,7 @@
                             "SpecifiedSkills": [
                               "digi_zwei_sieger"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lobomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -56910,7 +56910,7 @@
                             "SpecifiedSkills": [
                               "digi_green_flare_breath"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_coredramon_green",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -56948,7 +56948,7 @@
                             "SpecifiedSkills": [
                               "digi_feather_slash"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_hawkmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -56986,7 +56986,7 @@
                             "SpecifiedSkills": [
                               "digi_turbo_stinger"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_waspmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57024,7 +57024,7 @@
                             "SpecifiedSkills": [
                               "digi_diamond_shell"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_armadillomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57062,7 +57062,7 @@
                             "SpecifiedSkills": [
                               "digi_diamond_storm"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_renamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57100,7 +57100,7 @@
                             "SpecifiedSkills": [
                               "digi_blue_blaster"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gabumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57138,7 +57138,7 @@
                             "SpecifiedSkills": [
                               "digi_rare_metal_poop"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_platinumsukamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57176,7 +57176,7 @@
                             "SpecifiedSkills": [
                               "digi_iceball_bomb"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_icemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57214,7 +57214,7 @@
                             "SpecifiedSkills": [
                               "digi_iceball_bomb"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_icemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57252,7 +57252,7 @@
                             "SpecifiedSkills": [
                               "digi_hyper_heat"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_cyclonemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57290,7 +57290,7 @@
                             "SpecifiedSkills": [
                               "digi_puppy_howl"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_salamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57328,7 +57328,7 @@
                             "SpecifiedSkills": [
                               "digi_fossil_bite"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_coelamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57366,7 +57366,7 @@
                             "SpecifiedSkills": [
                               "digi_electric_stun_blast"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gazimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57404,7 +57404,7 @@
                             "SpecifiedSkills": [
                               "digi_spinning_needle"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_airdramon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57442,7 +57442,7 @@
                             "SpecifiedSkills": [
                               "digi_frozen_claw"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_icedevimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57480,7 +57480,7 @@
                             "SpecifiedSkills": [
                               "digi_pyro_punch"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_agunimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57518,7 +57518,7 @@
                             "SpecifiedSkills": [
                               "digi_metal_cannon"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_dorumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57556,7 +57556,7 @@
                             "SpecifiedSkills": [
                               "digi_ice_blast"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_seadramon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57594,7 +57594,7 @@
                             "SpecifiedSkills": [
                               "digi_metal_cannon"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_dorumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57632,7 +57632,7 @@
                             "SpecifiedSkills": [
                               "digi_mature_poop"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_shellnumemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57670,7 +57670,7 @@
                             "SpecifiedSkills": [
                               "digi_thunder_cloud"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_wizardmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57708,7 +57708,7 @@
                             "SpecifiedSkills": [
                               "digi_tearing_shot"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lunamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57746,7 +57746,7 @@
                             "SpecifiedSkills": [
                               "digi_baby_breath"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_dracomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57785,7 +57785,7 @@
                               "digi_poison_bubbles",
                               "digi_nightmare_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_pagumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57823,7 +57823,7 @@
                             "SpecifiedSkills": [
                               "digi_sub_zero_ice_punch"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_frigimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57861,7 +57861,7 @@
                             "SpecifiedSkills": [
                               "digi_vantheon"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_zubaeagermon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57899,7 +57899,7 @@
                             "SpecifiedSkills": [
                               "digi_pepper_breath"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_agumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57937,7 +57937,7 @@
                             "SpecifiedSkills": [
                               "digi_air_shot"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_patamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -57975,7 +57975,7 @@
                             "SpecifiedSkills": [
                               "digi_mega_flame"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_greymon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -58013,7 +58013,7 @@
                             "SpecifiedSkills": [
                               "digi_hyper_heat"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_cyclonemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -58051,7 +58051,7 @@
                             "SpecifiedSkills": [
                               "digi_lullaby_bubble"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_otamamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -58089,7 +58089,7 @@
                             "SpecifiedSkills": [
                               "digi_spiral_twister"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_biyomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -58127,7 +58127,7 @@
                             "SpecifiedSkills": [
                               "digi_rock_fist"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gotsumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -58165,7 +58165,7 @@
                             "SpecifiedSkills": [
                               "digi_lightning_paw"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gatomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -58203,7 +58203,7 @@
                             "SpecifiedSkills": [
                               "digi_fire_breath"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_tyrannomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -58241,7 +58241,7 @@
                             "SpecifiedSkills": [
                               "digi_feather_slash"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_hawkmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -58280,7 +58280,7 @@
                               "digi_data_drain",
                               "digi_physical_drain"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_arcadiamon_in_tr",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -58318,7 +58318,7 @@
                             "SpecifiedSkills": [
                               "digi_summon"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_impmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115036,7 +115036,7 @@
                               "digi_sub_zero_ice_punch",
                               "digi_ice_archery_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_frigimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115075,7 +115075,7 @@
                               "digi_fif_cross",
                               "digi_attack_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_baohuckmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115114,7 +115114,7 @@
                               "digi_turbo_stinger",
                               "digi_nanomachine_break_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_waspmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115153,7 +115153,7 @@
                               "digi_tail_hammer",
                               "digi_grand_rock_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_ankylomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115192,7 +115192,7 @@
                               "digi_seed_blast",
                               "digi_venom_trap"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lalamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115231,7 +115231,7 @@
                               "digi_electric_stun_blast",
                               "digi_destruction_cannon_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gazimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115270,7 +115270,7 @@
                               "digi_soap_flower",
                               "digi_crescent_leaf_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_yokomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115309,7 +115309,7 @@
                               "digi_scissor_claw",
                               "digi_crescent_leaf_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_kuwagamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115348,7 +115348,7 @@
                               "digi_summon",
                               "digi_nightmare_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_impmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115387,7 +115387,7 @@
                               "digi_fox_tail",
                               "digi_saint_knuckle_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_nyaromon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115426,7 +115426,7 @@
                               "digi_thunder_cloud",
                               "digi_heaven_s_thunder_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_elecmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115465,7 +115465,7 @@
                               "digi_zwei_sieger",
                               "digi_speed_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lobomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115504,7 +115504,7 @@
                               "digi_spiral_blow",
                               "digi_sonic_void_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gaogamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115543,7 +115543,7 @@
                               "digi_chrono_breaker",
                               "digi_heaven_s_thunder_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_clockmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115582,7 +115582,7 @@
                               "digi_great_weight",
                               "digi_comet_hammer_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_mudfrigimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115621,7 +115621,7 @@
                               "digi_vantheon",
                               "digi_mach_rush_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_zubaeagermon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115660,7 +115660,7 @@
                               "digi_sticky_net",
                               "digi_venom_trap"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_wormmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115699,7 +115699,7 @@
                               "digi_adhesive_bubble_blow",
                               "digi_gaia_element_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_tanemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115738,7 +115738,7 @@
                               "digi_razor_wind",
                               "digi_saint_knuckle_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_reppamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115777,7 +115777,7 @@
                               "digi_exhaust_flame",
                               "digi_wolkenapalm_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_growlmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115817,7 +115817,7 @@
                               "digi_protect_wave",
                               "digi_heal"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_sistermon_blanc",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115856,7 +115856,7 @@
                               "digi_little_horn",
                               "digi_grand_rock_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gabumon_blk",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115895,7 +115895,7 @@
                               "digi_zwei_sieger",
                               "digi_speed_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lobomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115934,7 +115934,7 @@
                               "digi_electro_shocker",
                               "digi_crescent_leaf_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_kabuterimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -115973,7 +115973,7 @@
                               "digi_mega_burst",
                               "digi_wolkenapalm_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_geogreymon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116012,7 +116012,7 @@
                               "digi_fifth_rush",
                               "digi_heal"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_hackmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116051,7 +116051,7 @@
                               "digi_super_stinky_jet",
                               "digi_gaia_element_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_vegiemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116090,7 +116090,7 @@
                               "digi_vantheon",
                               "digi_mach_rush_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_zubaeagermon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116129,7 +116129,7 @@
                               "digi_thunder_cloud",
                               "digi_heaven_s_thunder_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_elecmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116168,7 +116168,7 @@
                               "digi_symphony_crusher",
                               "digi_hydro_water_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gekomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116207,7 +116207,7 @@
                               "digi_crazy_giggle",
                               "digi_destruction_cannon_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_keramon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116246,7 +116246,7 @@
                               "digi_adhesive_bubble_blow",
                               "digi_gaia_element_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_tanemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116285,7 +116285,7 @@
                               "digi_crimson_curse",
                               "digi_awesome_quake_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_golemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116324,7 +116324,7 @@
                               "digi_iceball_bomb",
                               "digi_ice_archery_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_icemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116363,7 +116363,7 @@
                               "digi_data_drain",
                               "digi_physical_drain"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_arcadiamon_in_tr",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116401,7 +116401,7 @@
                             "SpecifiedSkills": [
                               "digi_grand_cross"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lucemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116440,7 +116440,7 @@
                               "digi_cog_crusher",
                               "digi_nanomachine_break_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_hagurumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116479,7 +116479,7 @@
                               "digi_tearing_shot",
                               "digi_heal"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lunamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116518,7 +116518,7 @@
                               "digi_needle_spray",
                               "digi_crescent_leaf_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_togemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116557,7 +116557,7 @@
                               "digi_electro_shocker",
                               "digi_crescent_leaf_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_kabuterimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116596,7 +116596,7 @@
                               "digi_blazing_ice",
                               "digi_grand_rock_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lopmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116635,7 +116635,7 @@
                               "digi_demi_darts",
                               "digi_panic_wisp"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_demidevimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -116674,7 +116674,7 @@
                               "digi_vee_laser",
                               "digi_heavy_strike_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_exveemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173393,7 +173393,7 @@
                               "digi_revive",
                               "digi_holy_light_iii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lucemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173434,7 +173434,7 @@
                               "digi_heavy_strike_ii",
                               "digi_cross_counter"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_geogreymon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173475,7 +173475,7 @@
                               "digi_attack_break",
                               "digi_anti_sleep"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gekomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173516,7 +173516,7 @@
                               "digi_critical_charge",
                               "digi_destruction_cannon_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_ogremon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173557,7 +173557,7 @@
                               "digi_heavy_strike_ii",
                               "digi_meteor_fall_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_baohuckmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173597,7 +173597,7 @@
                               "digi_destruction_cannon_i",
                               "digi_destruction"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_dracmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173638,7 +173638,7 @@
                               "digi_saint_knuckle_ii",
                               "digi_heavy_strike_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lobomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173678,7 +173678,7 @@
                               "digi_gaia_element_i",
                               "digi_anti_panic"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_renamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173718,7 +173718,7 @@
                               "digi_panic_wisp",
                               "digi_attack_break"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_demidevimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173759,7 +173759,7 @@
                               "digi_hit_charge",
                               "digi_shock"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_tankmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173799,7 +173799,7 @@
                               "digi_ice_archery_i",
                               "digi_anti_sleep"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_syakomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173839,7 +173839,7 @@
                               "digi_saint_knuckle_i",
                               "digi_holy_light_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_kudamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173880,7 +173880,7 @@
                               "digi_comet_hammer_ii",
                               "digi_chain_plus"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_growlmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173921,7 +173921,7 @@
                               "digi_ocean_wave_i",
                               "digi_heal"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_ikkakumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -173962,7 +173962,7 @@
                               "digi_mental_break",
                               "digi_character_reversal"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_platinumsukamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174002,7 +174002,7 @@
                               "digi_wind_claw_i",
                               "digi_sonic_void_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_hawkmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174043,7 +174043,7 @@
                               "digi_anti_panic",
                               "digi_mirror_reflection"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_seadramon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174083,7 +174083,7 @@
                               "digi_ice_archery_i",
                               "digi_anti_sleep"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_syakomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174124,7 +174124,7 @@
                               "digi_anti_panic",
                               "digi_mirror_reflection"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_seadramon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174165,7 +174165,7 @@
                               "digi_agility_charge",
                               "digi_physical_drain"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_bakemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174206,7 +174206,7 @@
                               "digi_acceleration_boost",
                               "digi_awesome_quake_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_monochromon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174247,7 +174247,7 @@
                               "digi_guard_charge",
                               "digi_speed_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_dorugamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174288,7 +174288,7 @@
                               "digi_critical_charge",
                               "digi_mach_rush_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_turuiemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174329,7 +174329,7 @@
                               "digi_gale_storm_i",
                               "digi_ice_archery_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gaogamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174370,7 +174370,7 @@
                               "digi_heavy_strike_ii",
                               "digi_critical_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_zubaeagermon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174411,7 +174411,7 @@
                               "digi_rune_forest_i",
                               "digi_aura"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_hudiemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174452,7 +174452,7 @@
                               "digi_attack_break",
                               "digi_anti_sleep"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gekomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174493,7 +174493,7 @@
                               "digi_panic_wisp",
                               "digi_mental_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_kyubimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174533,7 +174533,7 @@
                               "digi_revive",
                               "digi_holy_light_iii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lucemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174573,7 +174573,7 @@
                               "digi_ice_archery_i",
                               "digi_anti_paralysis"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_betamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174614,7 +174614,7 @@
                               "digi_acceleration_boost",
                               "digi_awesome_quake_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_monochromon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174654,7 +174654,7 @@
                               "digi_crescent_leaf_i",
                               "digi_anti_poison"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_palmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174694,7 +174694,7 @@
                               "digi_sonic_void_i",
                               "digi_mental_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_patamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174735,7 +174735,7 @@
                               "digi_wolkenapalm_ii",
                               "digi_burst_flame_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_meramon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174776,7 +174776,7 @@
                               "digi_gale_storm_i",
                               "digi_ice_archery_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gaogamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174816,7 +174816,7 @@
                               "digi_heavy_strike_i",
                               "digi_attack_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_monodramon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174857,7 +174857,7 @@
                               "digi_guard_charge",
                               "digi_speed_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_dorugamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174898,7 +174898,7 @@
                               "digi_comet_hammer_ii",
                               "digi_ocean_wave_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_icemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174939,7 +174939,7 @@
                               "digi_guard_break",
                               "digi_guard_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_shellnumemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -174980,7 +174980,7 @@
                               "digi_anti_panic",
                               "digi_mirror_reflection"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_seadramon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -175021,7 +175021,7 @@
                               "digi_awesome_quake_i",
                               "digi_cross_counter"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_cyclonemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -175062,7 +175062,7 @@
                               "digi_meteor_fall_i",
                               "digi_hit_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_greymon_blue",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -175101,7 +175101,7 @@
                               "digi_soap_flower",
                               "digi_crescent_leaf_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_yokomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -231821,7 +231821,7 @@
                               "digi_mental_charge",
                               "digi_thunder_fall_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_guardromon_gold",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -231860,7 +231860,7 @@
                               "digi_poison_bubbles",
                               "digi_nightmare_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_pagumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -231900,7 +231900,7 @@
                               "digi_heavy_strike_i",
                               "digi_escape_dash"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_chuumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -231941,7 +231941,7 @@
                               "digi_nightmare_ii",
                               "digi_physical_drain"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_sangloupmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -231982,7 +231982,7 @@
                               "digi_holy_light_ii",
                               "digi_x_heal"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_sunflowmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232023,7 +232023,7 @@
                               "digi_attack_break",
                               "digi_shock"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_nanimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232063,7 +232063,7 @@
                               "digi_venom_trap",
                               "digi_crescent_leaf_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_mushroomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232103,7 +232103,7 @@
                               "digi_heal",
                               "digi_speed_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_terriermon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232144,7 +232144,7 @@
                               "digi_speed_break",
                               "digi_ice_archery_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_numemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232183,7 +232183,7 @@
                               "digi_bite",
                               "digi_heavy_strike_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_tokomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232222,7 +232222,7 @@
                               "digi_bubbles",
                               "digi_wolkenapalm_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_koromon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232262,7 +232262,7 @@
                               "digi_destruction_cannon_i",
                               "digi_panic_wisp"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gazimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232302,7 +232302,7 @@
                               "digi_grand_rock_i",
                               "digi_anti_panic"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gabumon_blk",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232342,7 +232342,7 @@
                               "digi_nanomachine_break_i",
                               "digi_heaven_s_thunder_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_hagurumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232383,7 +232383,7 @@
                               "digi_heavy_strike_ii",
                               "digi_acceleration_boost"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_greymon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232424,7 +232424,7 @@
                               "digi_destruction_cannon_i",
                               "digi_hell_crusher_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_sistermon_ciel",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232464,7 +232464,7 @@
                               "digi_wolkenapalm_i",
                               "digi_attack_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_guilmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232504,7 +232504,7 @@
                               "digi_sonic_void_i",
                               "digi_mental_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_patamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232545,7 +232545,7 @@
                               "digi_heal",
                               "digi_idle_bubble"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_clockmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232584,7 +232584,7 @@
                               "digi_data_drain",
                               "digi_physical_drain"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_arcadiamon_in_tr",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232624,7 +232624,7 @@
                               "digi_venom_trap",
                               "digi_crescent_leaf_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_mushroomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232663,7 +232663,7 @@
                               "digi_smile_fang",
                               "digi_wind_claw_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_wanyamon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232704,7 +232704,7 @@
                               "digi_holy_light_iii",
                               "digi_revive"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_sistermon_b_awake",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232745,7 +232745,7 @@
                               "digi_saint_knuckle_ii",
                               "digi_power_energy_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_starmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232786,7 +232786,7 @@
                               "digi_hit_charge",
                               "digi_shock"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_tankmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232827,7 +232827,7 @@
                               "digi_comet_hammer_ii",
                               "digi_meteor_fall_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_golemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232868,7 +232868,7 @@
                               "digi_attack_break",
                               "digi_shock"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_nanimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232908,7 +232908,7 @@
                               "digi_guard_charge",
                               "digi_comet_hammer_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gotsumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232949,7 +232949,7 @@
                               "digi_nanomachine_break_ii",
                               "digi_guard_break"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_kurisarimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -232988,7 +232988,7 @@
                               "digi_data_drain",
                               "digi_physical_drain"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_arcadiamon_in_tr",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233029,7 +233029,7 @@
                               "digi_gale_storm_i",
                               "digi_wind_claw_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_stingmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233069,7 +233069,7 @@
                               "digi_grand_rock_i",
                               "digi_anti_panic"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gabumon_blk",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233110,7 +233110,7 @@
                               "digi_comet_hammer_ii",
                               "digi_meteor_fall_i"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_golemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233150,7 +233150,7 @@
                               "digi_destruction_cannon_i",
                               "digi_guard_break"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_keramon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233191,7 +233191,7 @@
                               "digi_hit_charge",
                               "digi_ripping_net"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_waspmon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233231,7 +233231,7 @@
                               "digi_nanomachine_break_i",
                               "digi_chain_plus"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_fanbeemon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233272,7 +233272,7 @@
                               "digi_attack_break",
                               "digi_anti_sleep"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gekomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233313,7 +233313,7 @@
                               "digi_shock",
                               "digi_critical_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_coredramon_green",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233354,7 +233354,7 @@
                               "digi_power_energy_ii",
                               "digi_cross_counter"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_lekismon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233395,7 +233395,7 @@
                               "digi_grand_rock_ii",
                               "digi_power_energy_ii"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_blackgatomon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233436,7 +233436,7 @@
                               "digi_comet_hammer_ii",
                               "digi_shock"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_raptordramon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233476,7 +233476,7 @@
                               "digi_destruction_cannon_i",
                               "digi_panic_wisp"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_gazimon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -233516,7 +233516,7 @@
                               "digi_heavy_strike_i",
                               "digi_attack_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_agumon",
                             "Tactic": "tit_for_tat",
                             "SpawnConditions": [],
                             "SpawnFeatures": [

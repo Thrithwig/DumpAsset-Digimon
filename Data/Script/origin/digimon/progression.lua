@@ -151,7 +151,12 @@ function M.show()
   local edge=edges[UI:ChoiceResult()];if not edge then return end
   local ready, preview=M.preview(char,edge)
   if require('origin.digimon.evolution_preview').show(char,edge,ready,preview) then
-    local _,message=M.change(char,edge);UI:WaitShowDialogue(message)
+    local changed,message=M.change(char,edge);UI:WaitShowDialogue(message)
+    local stage=Runtime.species[edge.to].stage
+    if changed and (stage=='Baby' or stage=='In-Training' or stage=='Rookie' or edge.to=='shoutmon') then
+      -- Native learn prompts preserve player choice when all slots are occupied.
+      GAME:CheckLevelSkills(char,0)
+    end
   end
 end
 

@@ -1,0 +1,205 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.SkillData, RogueEssence",
+    "Name": {
+      "DefaultText": "Aqua Strike",
+      "LocalTexts": {}
+    },
+    "Desc": {
+      "DefaultText": "Physical Water attack. Power 20. Strikes the adjacent foe in front.",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Original PMDO Digimon starter adaptation; not a source Cyber Sleuth move.",
+    "IndexNum": 13013,
+    "BaseCharges": 20,
+    "Strikes": 1,
+    "HitboxAction": {
+      "$type": "RogueEssence.Dungeon.AttackAction, RogueEssence",
+      "HitTiles": true,
+      "BurstTiles": 0,
+      "Emitter": {
+        "$type": "RogueEssence.Content.SingleEmitter, RogueEssence",
+        "LocHeight": 0,
+        "finished": false,
+        "Offset": 0,
+        "Anim": {
+          "$type": "RogueEssence.Content.StaticAnim, RogueEssence",
+          "Anim": {
+            "AnimIndex": "Print_Fist",
+            "FrameTime": 12,
+            "StartFrame": -1,
+            "EndFrame": -1,
+            "AnimDir": -1,
+            "Alpha": 255,
+            "AnimFlip": 0
+          },
+          "TotalTime": 0,
+          "Cycles": 1,
+          "FrameOffset": 0
+        },
+        "Layer": 2,
+        "UseDest": false
+      },
+      "WideAngle": 0,
+      "CharAnimData": {
+        "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
+        "ActionType": 11
+      },
+      "TargetAlignments": 4,
+      "TileEmitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "PreActions": [],
+      "ActionFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "DUN_Punch",
+        "Emitter": {
+          "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+          "LocHeight": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      },
+      "LagBehindTime": 5
+    },
+    "Explosion": {
+      "TargetAlignments": 4,
+      "HitTiles": false,
+      "Range": 0,
+      "Speed": 0,
+      "TileEmitter": {
+        "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "Emitter": {
+        "$type": "RogueEssence.Content.EmptyCircleSquareEmitter, RogueEssence",
+        "LocHeight": 0
+      },
+      "IntroFX": [],
+      "ExplodeFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "",
+        "Emitter": {
+          "$type": "RogueEssence.Content.EmptyFiniteEmitter, RogueEssence",
+          "LocHeight": 0
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      }
+    },
+    "Data": {
+      "Element": "water",
+      "Category": 1,
+      "HitRate": 100,
+      "SkillStates": [
+        {
+          "$type": "RogueEssence.Dungeon.BasePowerState, RogueEssence",
+          "Power": 20
+        }
+      ],
+      "BeforeTryActions": [],
+      "BeforeActions": [],
+      "OnActions": [],
+      "BeforeExplosions": [],
+      "BeforeHits": [],
+      "OnHits": [
+        {
+          "Key": {
+            "str": [
+              -1
+            ]
+          },
+          "Value": {
+            "$type": "PMDC.Dungeon.DamageFormulaEvent, PMDC"
+          }
+        }
+      ],
+      "OnHitTiles": [],
+      "AfterActions": [],
+      "ElementEffects": [],
+      "IntroFX": [],
+      "HitFX": {
+        "Delay": 0,
+        "AbsoluteDelay": false,
+        "Sound": "DUN_Ice_Beam_2",
+        "Emitter": {
+          "$type": "RogueEssence.Content.FiniteReleaseEmitter, RogueEssence",
+          "LocHeight": 0,
+          "Anims": [
+            {
+              "$type": "RogueEssence.Content.ParticleAnim, RogueEssence",
+              "Anim": {
+                "AnimIndex": "Ice_Pieces",
+                "FrameTime": 6,
+                "StartFrame": 0,
+                "EndFrame": 0,
+                "AnimDir": -1,
+                "Alpha": 255,
+                "AnimFlip": 0
+              },
+              "TotalTime": 0,
+              "Cycles": 1,
+              "FrameOffset": 0
+            },
+            {
+              "$type": "RogueEssence.Content.ParticleAnim, RogueEssence",
+              "Anim": {
+                "AnimIndex": "Ice_Pieces",
+                "FrameTime": 12,
+                "StartFrame": 1,
+                "EndFrame": 1,
+                "AnimDir": -1,
+                "Alpha": 255,
+                "AnimFlip": 0
+              },
+              "TotalTime": 0,
+              "Cycles": 1,
+              "FrameOffset": 0
+            },
+            {
+              "$type": "RogueEssence.Content.ParticleAnim, RogueEssence",
+              "Anim": {
+                "AnimIndex": "Ice_Pieces",
+                "FrameTime": 12,
+                "StartFrame": 1,
+                "EndFrame": 1,
+                "AnimDir": -1,
+                "Alpha": 255,
+                "AnimFlip": 0
+              },
+              "TotalTime": 0,
+              "Cycles": 1,
+              "FrameOffset": 0
+            }
+          ],
+          "Speed": 60,
+          "Bursts": 4,
+          "ParticlesPerBurst": 4,
+          "BurstTime": 2,
+          "StartDistance": 4,
+          "Layer": 2
+        },
+        "ScreenMovement": {
+          "MinShake": 0,
+          "MaxShake": 0,
+          "MaxShakeTime": 0
+        }
+      },
+      "HitCharAction": {
+        "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
+        "ActionType": 0
+      }
+    }
+  }
+}

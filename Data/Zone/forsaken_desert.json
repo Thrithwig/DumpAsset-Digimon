@@ -1,4 +1,4 @@
-﻿{
+{
   "Version": "0.8.12.0",
   "Object": {
     "$type": "RogueEssence.Data.ZoneData, RogueEssence",
@@ -7029,7 +7029,7 @@
                               "digi_panic_wisp",
                               "digi_mental_charge"
                             ],
-                            "Intrinsic": "none",
+                            "Intrinsic": "digi_kyubimon",
                             "Tactic": "wait_only",
                             "SpawnConditions": [],
                             "SpawnFeatures": [
@@ -12502,7 +12502,7 @@
                       "digi_lunatic_dance",
                       "digi_ocean_wave_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_crescemon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12541,7 +12541,7 @@
                       "digi_dragon_impulse",
                       "digi_chain_plus"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_aeroveedramon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12582,7 +12582,7 @@
                       "digi_awesome_quake_i",
                       "digi_cross_counter"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_cyclonemon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12622,7 +12622,7 @@
                       "digi_escape_dash",
                       "digi_hit_charge"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_metalmamemon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12661,7 +12661,7 @@
                       "digi_night_raid",
                       "digi_hell_crusher_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_myotismon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12702,7 +12702,7 @@
                       "digi_guard_charge",
                       "digi_speed_charge"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_dorugamon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12741,7 +12741,7 @@
                       "digi_nightmare_syndrome",
                       "digi_mach_rush_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_digitamamon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12781,7 +12781,7 @@
                       "digi_destruction_cannon_ii",
                       "digi_heavy_strike_ii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_arcadiamon_champion",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12822,7 +12822,7 @@
                       "digi_awesome_quake_i",
                       "digi_cross_counter"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_cyclonemon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12863,7 +12863,7 @@
                       "digi_attack_charge",
                       "digi_speed_charge"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_ginryumon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12903,7 +12903,7 @@
                       "digi_ripping_net",
                       "digi_physical_drain"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_datamon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12942,7 +12942,7 @@
                       "digi_nail_bone",
                       "digi_character_reversal"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_skullsatamon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -12982,7 +12982,7 @@
                       "digi_wolkenapalm_iii",
                       "digi_meteor_fall_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_agunimon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -13023,7 +13023,7 @@
                       "digi_crescent_leaf_ii",
                       "digi_power_energy_ii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_woodmon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -13062,7 +13062,7 @@
                       "digi_earth_shattering_stomp",
                       "digi_hell_crusher_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_matadormon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -13103,7 +13103,7 @@
                       "digi_attack_break",
                       "digi_anti_sleep"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_gekomon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [
                       {
@@ -13149,7 +13149,7 @@
                       "digi_venom_trap",
                       "digi_attack_break"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_cyberdramon",
                     "Tactic": "wait_and_see",
                     "SpawnConditions": [
                       {

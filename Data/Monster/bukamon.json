@@ -465,10 +465,14 @@
         "PromoteForm": 0,
         "Element1": "water",
         "Element2": "none",
-        "Intrinsic1": "none",
+        "Intrinsic1": "digi_bukamon",
         "Intrinsic2": "none",
         "Intrinsic3": "none",
         "LevelSkills": [
+          {
+            "Level": 1,
+            "Skill": "digi_starter_water_magic"
+          },
           {
             "Level": 1,
             "Skill": "digi_air_bubbles"

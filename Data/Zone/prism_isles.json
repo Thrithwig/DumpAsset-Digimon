@@ -1,4 +1,4 @@
-﻿{
+{
   "Version": "0.8.12.0",
   "Object": {
     "$type": "RogueEssence.Data.ZoneData, RogueEssence",
@@ -2395,7 +2395,7 @@
                       "digi_summon",
                       "digi_nightmare_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_impmon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2425,7 +2425,7 @@
                       "digi_electro_shocker",
                       "digi_crescent_leaf_ii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_kabuterimon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2455,7 +2455,7 @@
                       "digi_crazy_giggle",
                       "digi_destruction_cannon_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_keramon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2485,7 +2485,7 @@
                       "digi_bubbles",
                       "digi_wolkenapalm_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_koromon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2515,7 +2515,7 @@
                       "digi_electro_shocker",
                       "digi_crescent_leaf_ii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_kabuterimon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2545,7 +2545,7 @@
                       "digi_crazy_giggle",
                       "digi_destruction_cannon_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_keramon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2575,7 +2575,7 @@
                       "digi_bubbles",
                       "digi_wolkenapalm_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_koromon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2605,7 +2605,7 @@
                       "digi_blinding_ray",
                       "digi_saint_knuckle_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_kudamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2636,7 +2636,7 @@
                       "digi_destruction_cannon_i",
                       "digi_guard_break"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_keramon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2666,7 +2666,7 @@
                       "digi_bubbles",
                       "digi_wolkenapalm_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_koromon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2697,7 +2697,7 @@
                       "digi_saint_knuckle_i",
                       "digi_holy_light_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_kudamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2727,7 +2727,7 @@
                       "digi_data_crusher",
                       "digi_destruction_cannon_ii"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_kurisarimon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []

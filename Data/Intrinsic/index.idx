@@ -978,6 +978,3075 @@
 "Comment": "",
 "SortOrder": 190
 },
+"digi_aeroveedramon": {
+"Name": {
+"DefaultText": "Skyline Relay",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15150
+},
+"digi_agumon": {
+"Name": {
+"DefaultText": "Kindled Courage",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15018
+},
+"digi_agumon_blk": {
+"Name": {
+"DefaultText": "Smoldering Temper",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15019
+},
+"digi_agunimon": {
+"Name": {
+"DefaultText": "Burning Discipline",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15068
+},
+"digi_airdramon": {
+"Name": {
+"DefaultText": "Crosswind Guidance",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15075
+},
+"digi_alphamon": {
+"Name": {
+"DefaultText": "First Knight's Reprieve",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15219
+},
+"digi_alphamon_nx": {
+"Name": {
+"DefaultText": "Pocket Knight",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15337
+},
+"digi_alphamon_ouryuken": {
+"Name": {
+"DefaultText": "Ouryuken Verdict",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15312
+},
+"digi_andromon": {
+"Name": {
+"DefaultText": "Emergency Protocol",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15144
+},
+"digi_angemon": {
+"Name": {
+"DefaultText": "Holy Intercession",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15077
+},
+"digi_angewomon": {
+"Name": {
+"DefaultText": "Celestial Consolation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15152
+},
+"digi_ankylomon": {
+"Name": {
+"DefaultText": "Shielded Path",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15070
+},
+"digi_antylamon": {
+"Name": {
+"DefaultText": "Balanced Hands",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15143
+},
+"digi_apocalymon": {
+"Name": {
+"DefaultText": "Archive of Loss",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15332
+},
+"digi_aquilamon": {
+"Name": {
+"DefaultText": "Thermal Lift",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15067
+},
+"digi_arcadiamon_champion": {
+"Name": {
+"DefaultText": "Growing Hunger",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15069
+},
+"digi_arcadiamon_in_tr": {
+"Name": {
+"DefaultText": "Hungry Kernel",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15006
+},
+"digi_arcadiamon_mega": {
+"Name": {
+"DefaultText": "Assimilation Crown",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15218
+},
+"digi_arcadiamon_rookie": {
+"Name": {
+"DefaultText": "Data Leech",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15020
+},
+"digi_arcadiamon_ultimate": {
+"Name": {
+"DefaultText": "Adaptive Consumption",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15142
+},
+"digi_arcadiamon_ultra": {
+"Name": {
+"DefaultText": "Final Assimilation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15311
+},
+"digi_armadillomon": {
+"Name": {
+"DefaultText": "Burrow Guard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15021
+},
+"digi_armageddemon": {
+"Name": {
+"DefaultText": "Swarm Collapse",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15310
+},
+"digi_bakemon": {
+"Name": {
+"DefaultText": "Passing Fright",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15124
+},
+"digi_bancholeomon": {
+"Name": {
+"DefaultText": "Unbreakable Mentor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15272
+},
+"digi_baohuckmon": {
+"Name": {
+"DefaultText": "Blade Apprenticeship",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15123
+},
+"digi_barbamon": {
+"Name": {
+"DefaultText": "Hoarded Power",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15271
+},
+"digi_beelzemon": {
+"Name": {
+"DefaultText": "Lone Gunman",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15281
+},
+"digi_beelzemon_bm": {
+"Name": {
+"DefaultText": "Last-Cartridge Resolve",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15282
+},
+"digi_belphemon_rm": {
+"Name": {
+"DefaultText": "Awakened Cataclysm",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15321
+},
+"digi_belphemon_sm": {
+"Name": {
+"DefaultText": "Sleeping Dread",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15283
+},
+"digi_betamon": {
+"Name": {
+"DefaultText": "Conductive Hide",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15055
+},
+"digi_birdramon": {
+"Name": {
+"DefaultText": "Firelift Escort",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15122
+},
+"digi_biyomon": {
+"Name": {
+"DefaultText": "Wingbeat Relay",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15050
+},
+"digi_blackgatomon": {
+"Name": {
+"DefaultText": "Midnight Ring",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15128
+},
+"digi_blackkingnumemon": {
+"Name": {
+"DefaultText": "Sludge Sovereign",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15191
+},
+"digi_blackwargreymon": {
+"Name": {
+"DefaultText": "Solitary Conviction",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15276
+},
+"digi_bluemeramon": {
+"Name": {
+"DefaultText": "Blue Heat Exchange",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15192
+},
+"digi_boltmon": {
+"Name": {
+"DefaultText": "Stitched Resolve",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15286
+},
+"digi_botamon": {
+"Name": {
+"DefaultText": "Soot Shelter",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15004
+},
+"digi_breakdramon": {
+"Name": {
+"DefaultText": "Demolition Drive",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15278
+},
+"digi_bukamon": {
+"Name": {
+"DefaultText": "Shoreline Friend",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15015
+},
+"digi_burninggreymon": {
+"Name": {
+"DefaultText": "Wildfire Mantle",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15149
+},
+"digi_cannonbeemon": {
+"Name": {
+"DefaultText": "Artillery Spotter",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15158
+},
+"digi_catchmamemon": {
+"Name": {
+"DefaultText": "Magnetic Catch",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15157
+},
+"digi_chaosdramon": {
+"Name": {
+"DefaultText": "Pressure Reactor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15233
+},
+"digi_chaosgallantmon": {
+"Name": {
+"DefaultText": "Dark Oath",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15232
+},
+"digi_chaosmon": {
+"Name": {
+"DefaultText": "Unstable Union",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15317
+},
+"digi_chaosmon_va": {
+"Name": {
+"DefaultText": "Valdur Sanctuary",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15318
+},
+"digi_cherrymon": {
+"Name": {
+"DefaultText": "Old-Growth Counsel",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15165
+},
+"digi_chirinmon": {
+"Name": {
+"DefaultText": "Gentle Passage",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15174
+},
+"digi_chuumon": {
+"Name": {
+"DefaultText": "Scavenger's Nose",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15038
+},
+"digi_clockmon": {
+"Name": {
+"DefaultText": "Measured Seconds",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15092
+},
+"digi_coelamon": {
+"Name": {
+"DefaultText": "Ancient Scales",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15104
+},
+"digi_coredramon_blue": {
+"Name": {
+"DefaultText": "Blue Core Lift",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15096
+},
+"digi_coredramon_green": {
+"Name": {
+"DefaultText": "Green Core Weight",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15097
+},
+"digi_craniamon": {
+"Name": {
+"DefaultText": "Black-Armor Covenant",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15241
+},
+"digi_creepymon": {
+"Name": {
+"DefaultText": "Infernal Patience",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15261
+},
+"digi_crescemon": {
+"Name": {
+"DefaultText": "Waxing Crescent",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15162
+},
+"digi_crowmon": {
+"Name": {
+"DefaultText": "Three-Eyed Vigil",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15208
+},
+"digi_crusadermon": {
+"Name": {
+"DefaultText": "Knightly Command",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15306
+},
+"digi_crusadermon_nx": {
+"Name": {
+"DefaultText": "Ribbon Escort",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15338
+},
+"digi_cyberdramon": {
+"Name": {
+"DefaultText": "Threat Suppression",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15163
+},
+"digi_cyclonemon": {
+"Name": {
+"DefaultText": "Single-Eye Focus",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15100
+},
+"digi_darkdramon": {
+"Name": {
+"DefaultText": "D-Brigade Hunt",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15255
+},
+"digi_datamon": {
+"Name": {
+"DefaultText": "Diagnostic Packet",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15183
+},
+"digi_demidevimon": {
+"Name": {
+"DefaultText": "Needle Mischief",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15049
+},
+"digi_devimon": {
+"Name": {
+"DefaultText": "Grasping Shadow",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15116
+},
+"digi_diaboromon": {
+"Name": {
+"DefaultText": "Distributed Threat",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15260
+},
+"digi_dianamon": {
+"Name": {
+"DefaultText": "Moonlit Stillness",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15259
+},
+"digi_digitamamon": {
+"Name": {
+"DefaultText": "Eggshell Reserve",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15176
+},
+"digi_dinobeemon": {
+"Name": {
+"DefaultText": "Winged Ambush",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15175
+},
+"digi_dorugamon": {
+"Name": {
+"DefaultText": "Metallic Instinct",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15119
+},
+"digi_dorugoramon": {
+"Name": {
+"DefaultText": "Terminal Instinct",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15267
+},
+"digi_dorugreymon": {
+"Name": {
+"DefaultText": "Iron Heart",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15181
+},
+"digi_dorumon": {
+"Name": {
+"DefaultText": "Prototype Senses",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15044
+},
+"digi_dracmon": {
+"Name": {
+"DefaultText": "Hypnotic Wink",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15042
+},
+"digi_dracomon": {
+"Name": {
+"DefaultText": "Dragon's Spark",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15043
+},
+"digi_dragomon": {
+"Name": {
+"DefaultText": "Deepwater Dread",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15173
+},
+"digi_duramon": {
+"Name": {
+"DefaultText": "Forged Partnership",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15178
+},
+"digi_durandamon": {
+"Name": {
+"DefaultText": "Perfected Edge",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15264
+},
+"digi_dynasmon": {
+"Name": {
+"DefaultText": "Dragon Resonance",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15263
+},
+"digi_ebemon": {
+"Name": {
+"DefaultText": "Alien Countermeasure",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15221
+},
+"digi_elecmon": {
+"Name": {
+"DefaultText": "Static Exchange",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15023
+},
+"digi_etemon": {
+"Name": {
+"DefaultText": "Disruptive Performance",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15151
+},
+"digi_examon": {
+"Name": {
+"DefaultText": "Dragon Emperor's Reach",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15314
+},
+"digi_exveemon": {
+"Name": {
+"DefaultText": "Cross Formation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15076
+},
+"digi_falcomon": {
+"Name": {
+"DefaultText": "Silent Approach",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15051
+},
+"digi_fanbeemon": {
+"Name": {
+"DefaultText": "Worker Signal",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15052
+},
+"digi_flamedramon": {
+"Name": {
+"DefaultText": "Armor Ignition",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15323
+},
+"digi_frigimon": {
+"Name": {
+"DefaultText": "Snowball Cushion",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15133
+},
+"digi_gabumon": {
+"Name": {
+"DefaultText": "Warm Pelt",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15027
+},
+"digi_gabumon_blk": {
+"Name": {
+"DefaultText": "Night Pelt",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15028
+},
+"digi_gaiomon": {
+"Name": {
+"DefaultText": "Bladed Reprisal",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15230
+},
+"digi_gallantmon": {
+"Name": {
+"DefaultText": "Crimson Aegis",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15262
+},
+"digi_gallantmon_cm": {
+"Name": {
+"DefaultText": "Crimson Judgment",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15320
+},
+"digi_gallantmon_nx": {
+"Name": {
+"DefaultText": "Pocket Aegis",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15341
+},
+"digi_gankoomon": {
+"Name": {
+"DefaultText": "Mentor's Stand",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15234
+},
+"digi_gaogamon": {
+"Name": {
+"DefaultText": "Pursuit Gale",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15081
+},
+"digi_gaomon": {
+"Name": {
+"DefaultText": "Boxer's Rhythm",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15025
+},
+"digi_gargomon": {
+"Name": {
+"DefaultText": "Controlled Burst",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15084
+},
+"digi_garudamon": {
+"Name": {
+"DefaultText": "Crimson Watch",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15154
+},
+"digi_garurumon": {
+"Name": {
+"DefaultText": "Packfire Trail",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15085
+},
+"digi_garurumon_blk": {
+"Name": {
+"DefaultText": "Blackflame Pursuit",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15086
+},
+"digi_gatomon": {
+"Name": {
+"DefaultText": "Guardian Ring",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15115
+},
+"digi_gazimon": {
+"Name": {
+"DefaultText": "Spiteful Spark",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15026
+},
+"digi_gekomon": {
+"Name": {
+"DefaultText": "Echoing Chorus",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15094
+},
+"digi_geogreymon": {
+"Name": {
+"DefaultText": "Grounded Blaze",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15105
+},
+"digi_geremon": {
+"Name": {
+"DefaultText": "Slippery Circuit",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15095
+},
+"digi_gigadramon": {
+"Name": {
+"DefaultText": "Airspace Denial",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15156
+},
+"digi_ginryumon": {
+"Name": {
+"DefaultText": "Ascending Guard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15329
+},
+"digi_goblimon": {
+"Name": {
+"DefaultText": "Club Scrapper",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15033
+},
+"digi_goldnumemon": {
+"Name": {
+"DefaultText": "Gilded Refuge",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15098
+},
+"digi_goldramon": {
+"Name": {
+"DefaultText": "Golden Dragon Ward",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15244
+},
+"digi_golemon": {
+"Name": {
+"DefaultText": "Stonebound Bulwark",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15099
+},
+"digi_gomamon": {
+"Name": {
+"DefaultText": "Rescue Current",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15034
+},
+"digi_gotsumon": {
+"Name": {
+"DefaultText": "Stone Stance",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15032
+},
+"digi_grademon": {
+"Name": {
+"DefaultText": "Twin-Blade Tempo",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15161
+},
+"digi_grandracmon": {
+"Name": {
+"DefaultText": "Crimson Invitation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15238
+},
+"digi_grankuwagamon": {
+"Name": {
+"DefaultText": "Grand Pincer",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15237
+},
+"digi_grapleomon": {
+"Name": {
+"DefaultText": "Turbine Combination",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15160
+},
+"digi_greymon": {
+"Name": {
+"DefaultText": "Dinosaur Vanguard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15090
+},
+"digi_greymon_blue": {
+"Name": {
+"DefaultText": "Blueflame Pressure",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15091
+},
+"digi_groundlocomon": {
+"Name": {
+"DefaultText": "Railway Momentum",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15239
+},
+"digi_groundramon": {
+"Name": {
+"DefaultText": "Buried Pressure",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15159
+},
+"digi_growlmon": {
+"Name": {
+"DefaultText": "Crimson Momentum",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15088
+},
+"digi_gryphonmon": {
+"Name": {
+"DefaultText": "Mythic Crosswind",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15240
+},
+"digi_guardromon": {
+"Name": {
+"DefaultText": "Defense Order",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15079
+},
+"digi_guardromon_gold": {
+"Name": {
+"DefaultText": "Golden Grounding",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15080
+},
+"digi_guilmon": {
+"Name": {
+"DefaultText": "Instinctive Pursuit",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15029
+},
+"digi_hackmon": {
+"Name": {
+"DefaultText": "Apprentice Resolve",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15047
+},
+"digi_hagurumon": {
+"Name": {
+"DefaultText": "Gear Synchrony",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15045
+},
+"digi_hawkmon": {
+"Name": {
+"DefaultText": "Feather Scout",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15056
+},
+"digi_herculeskabuterimon": {
+"Name": {
+"DefaultText": "Thunder-Carapace Unity",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15280
+},
+"digi_hiandromon": {
+"Name": {
+"DefaultText": "Redundant Systems",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15269
+},
+"digi_hippogryphonmon": {
+"Name": {
+"DefaultText": "Highland Escort",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15189
+},
+"digi_hisyaryumon": {
+"Name": {
+"DefaultText": "Skyblade Preparation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15330
+},
+"digi_hououmon": {
+"Name": {
+"DefaultText": "Phoenix Shelter",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15284
+},
+"digi_hudiemon": {
+"Name": {
+"DefaultText": "Butterfly Renewal",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15126
+},
+"digi_icedevimon": {
+"Name": {
+"DefaultText": "Frost Malice",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15065
+},
+"digi_icemon": {
+"Name": {
+"DefaultText": "Ice Facets",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15066
+},
+"digi_ikkakumon": {
+"Name": {
+"DefaultText": "Harpoon Anchor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15071
+},
+"digi_imperialdramon_dm": {
+"Name": {
+"DefaultText": "Dragon Fortress",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15222
+},
+"digi_imperialdramon_fm": {
+"Name": {
+"DefaultText": "Fighter's Opening",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15223
+},
+"digi_imperialdramon_pm": {
+"Name": {
+"DefaultText": "Paladin Reset",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15313
+},
+"digi_impmon": {
+"Name": {
+"DefaultText": "Cheap Trick",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15022
+},
+"digi_infermon": {
+"Name": {
+"DefaultText": "Network Intrusion",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15146
+},
+"digi_jesmon": {
+"Name": {
+"DefaultText": "Threefold Watch",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15247
+},
+"digi_justimon": {
+"Name": {
+"DefaultText": "Justice Cycle",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15250
+},
+"digi_kabuterimon": {
+"Name": {
+"DefaultText": "Carapace Command",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15082
+},
+"digi_kaisergreymon": {
+"Name": {
+"DefaultText": "Emperor's Flame",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15231
+},
+"digi_kendogarurumon": {
+"Name": {
+"DefaultText": "Light-Speed Guard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15155
+},
+"digi_kentaurosmon": {
+"Name": {
+"DefaultText": "Six-Legged Escort",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15251
+},
+"digi_keramon": {
+"Name": {
+"DefaultText": "Packet Snacker",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15031
+},
+"digi_kerpymon_blk": {
+"Name": {
+"DefaultText": "Thunderous Malice",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15242
+},
+"digi_kerpymon_good": {
+"Name": {
+"DefaultText": "Gentle Thunder",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15243
+},
+"digi_kingetemon": {
+"Name": {
+"DefaultText": "Royal Showmanship",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15235
+},
+"digi_knightmon": {
+"Name": {
+"DefaultText": "Sworn Shield",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15182
+},
+"digi_koromon": {
+"Name": {
+"DefaultText": "Ember Bud",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15007
+},
+"digi_kudamon": {
+"Name": {
+"DefaultText": "Sacred Scarf",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15030
+},
+"digi_kuramon": {
+"Name": {
+"DefaultText": "Curious Eye",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15001
+},
+"digi_kurisarimon": {
+"Name": {
+"DefaultText": "Tangled Network",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15089
+},
+"digi_kuwagamon": {
+"Name": {
+"DefaultText": "Pincer Lock",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15093
+},
+"digi_kuzuhamon": {
+"Name": {
+"DefaultText": "Dusk Purification",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15236
+},
+"digi_kyubimon": {
+"Name": {
+"DefaultText": "Ninefold Ward",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15087
+},
+"digi_ladydevimon": {
+"Name": {
+"DefaultText": "Night's Bargain",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15214
+},
+"digi_lalamon": {
+"Name": {
+"DefaultText": "Soothing Seed",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15059
+},
+"digi_lekismon": {
+"Name": {
+"DefaultText": "Moonstep Feint",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15138
+},
+"digi_leomon": {
+"Name": {
+"DefaultText": "Lion's Challenge",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15137
+},
+"digi_leopardmon": {
+"Name": {
+"DefaultText": "Tactical Partition",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15265
+},
+"digi_leopardmon_lm": {
+"Name": {
+"DefaultText": "Leopard's Circuit",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15266
+},
+"digi_leopardmon_nx": {
+"Name": {
+"DefaultText": "Pocket Strategist",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15339
+},
+"digi_leviamon": {
+"Name": {
+"DefaultText": "Abyssal Envy",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15302
+},
+"digi_lilamon": {
+"Name": {
+"DefaultText": "Lilac Renewal",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15210
+},
+"digi_lilithmon": {
+"Name": {
+"DefaultText": "Tempting Hex",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15303
+},
+"digi_lillymon": {
+"Name": {
+"DefaultText": "Flowering Cover",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15212
+},
+"digi_lobomon": {
+"Name": {
+"DefaultText": "Luminous Footwork",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15073
+},
+"digi_lopmon": {
+"Name": {
+"DefaultText": "Twin-Ear Shelter",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15063
+},
+"digi_lotosmon": {
+"Name": {
+"DefaultText": "Lotus Serenity",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15309
+},
+"digi_lucemon": {
+"Name": {
+"DefaultText": "Precocious Radiance",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15060
+},
+"digi_lucemon_fm": {
+"Name": {
+"DefaultText": "Fallen Balance",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15213
+},
+"digi_lucemon_sm": {
+"Name": {
+"DefaultText": "Sealed Ruin",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15322
+},
+"digi_lunamon": {
+"Name": {
+"DefaultText": "Moonlit Bubble",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15061
+},
+"digi_machgaogamon": {
+"Name": {
+"DefaultText": "Jetstream Guard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15198
+},
+"digi_machinedramon": {
+"Name": {
+"DefaultText": "Infinite Cannon Discipline",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15294
+},
+"digi_magnaangemon": {
+"Name": {
+"DefaultText": "Gatekeeper's Mercy",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15195
+},
+"digi_magnadramon": {
+"Name": {
+"DefaultText": "Dragon's Compassion",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15285
+},
+"digi_magnagarurumon": {
+"Name": {
+"DefaultText": "Arsenal Calibration",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15287
+},
+"digi_magnagarurumon_sv": {
+"Name": {
+"DefaultText": "Stripped-Armor Mobility",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15288
+},
+"digi_magnamon": {
+"Name": {
+"DefaultText": "Miracle Armor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15324
+},
+"digi_mamemon": {
+"Name": {
+"DefaultText": "Small-Target Tactics",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15199
+},
+"digi_marineangemon": {
+"Name": {
+"DefaultText": "Oceanic Kindness",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15290
+},
+"digi_mastemon": {
+"Name": {
+"DefaultText": "Twilight Accord",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15289
+},
+"digi_matadormon": {
+"Name": {
+"DefaultText": "Blood Dance",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15197
+},
+"digi_megadramon": {
+"Name": {
+"DefaultText": "Bombardment Wake",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15201
+},
+"digi_megagargomon": {
+"Name": {
+"DefaultText": "Suppression Grid",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15254
+},
+"digi_megakabuterimon": {
+"Name": {
+"DefaultText": "Horned Bastion",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15141
+},
+"digi_megaseadramon": {
+"Name": {
+"DefaultText": "Thunderhead Current",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15200
+},
+"digi_megidramon": {
+"Name": {
+"DefaultText": "Catastrophic Furnace",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15295
+},
+"digi_meramon": {
+"Name": {
+"DefaultText": "Living Ember",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15131
+},
+"digi_merukimon": {
+"Name": {
+"DefaultText": "Messenger's Challenge",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15300
+},
+"digi_metaletemon": {
+"Name": {
+"DefaultText": "Chrome Showstopper",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15296
+},
+"digi_metalgarurumon": {
+"Name": {
+"DefaultText": "Cryogenic Tracking",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15297
+},
+"digi_metalgarurumon_blk": {
+"Name": {
+"DefaultText": "Black Arsenal",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15298
+},
+"digi_metalgreymon": {
+"Name": {
+"DefaultText": "Metal Vanguard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15203
+},
+"digi_metalgreymon_blue": {
+"Name": {
+"DefaultText": "Blue Reactor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15204
+},
+"digi_metalmamemon": {
+"Name": {
+"DefaultText": "Magnetic Escort",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15206
+},
+"digi_metalseadramon": {
+"Name": {
+"DefaultText": "Alloy Current",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15299
+},
+"digi_metaltyrannomon": {
+"Name": {
+"DefaultText": "Target-Lock Engine",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15205
+},
+"digi_meteormon": {
+"Name": {
+"DefaultText": "Meteor Temper",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15145
+},
+"digi_minervamon": {
+"Name": {
+"DefaultText": "Playful Greatblade",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15291
+},
+"digi_miragegaogamon": {
+"Name": {
+"DefaultText": "Mirage Counterline",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15292
+},
+"digi_miragegaogamon_bm": {
+"Name": {
+"DefaultText": "Burst Afterimage",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15293
+},
+"digi_monochromon": {
+"Name": {
+"DefaultText": "Horned Roadblock",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15132
+},
+"digi_monodramon": {
+"Name": {
+"DefaultText": "Breaking Claw",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15058
+},
+"digi_monzaemon": {
+"Name": {
+"DefaultText": "Comforting Embrace",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15207
+},
+"digi_motimon": {
+"Name": {
+"DefaultText": "Elastic Body",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15016
+},
+"digi_mudfrigimon": {
+"Name": {
+"DefaultText": "Soft Earth Cover",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15113
+},
+"digi_mushroomon": {
+"Name": {
+"DefaultText": "Spore Patience",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15057
+},
+"digi_myotismon": {
+"Name": {
+"DefaultText": "Crimson Hospitality",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15147
+},
+"digi_nanimon": {
+"Name": {
+"DefaultText": "Unshaken Swagger",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15120
+},
+"digi_neptunemon": {
+"Name": {
+"DefaultText": "Oceanic Authority",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15268
+},
+"digi_numemon": {
+"Name": {
+"DefaultText": "Sludge Resilience",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15121
+},
+"digi_nyaromon": {
+"Name": {
+"DefaultText": "Gentle Tail",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15012
+},
+"digi_ogremon": {
+"Name": {
+"DefaultText": "Bonebreaker Grit",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15078
+},
+"digi_okuwamon": {
+"Name": {
+"DefaultText": "Severing Grip",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15153
+},
+"digi_omnimon": {
+"Name": {
+"DefaultText": "Omega Alternation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15315
+},
+"digi_omnimon_nx": {
+"Name": {
+"DefaultText": "Miniature Arsenal",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15340
+},
+"digi_omnimon_zwart": {
+"Name": {
+"DefaultText": "Zwart Alternation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15316
+},
+"digi_omnishoutmon": {
+"Name": {
+"DefaultText": "Overdrive Chorus",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15327
+},
+"digi_ophanimon": {
+"Name": {
+"DefaultText": "Ophanim Blessing",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15229
+},
+"digi_otamamon": {
+"Name": {
+"DefaultText": "Pond Chorus",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15024
+},
+"digi_ouryumon": {
+"Name": {
+"DefaultText": "Dragon-Blade Oath",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15331
+},
+"digi_pabumon": {
+"Name": {
+"DefaultText": "Adhesive Nursery",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15002
+},
+"digi_pagumon": {
+"Name": {
+"DefaultText": "Troublesome Puff",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15013
+},
+"digi_paildramon": {
+"Name": {
+"DefaultText": "Crossfire Discipline",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15184
+},
+"digi_palmon": {
+"Name": {
+"DefaultText": "Restorative Fragrance",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15048
+},
+"digi_pandamon": {
+"Name": {
+"DefaultText": "Unruffled Master",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15186
+},
+"digi_panjyamon": {
+"Name": {
+"DefaultText": "Cold-Blooded Courage",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15185
+},
+"digi_patamon": {
+"Name": {
+"DefaultText": "Updraft Hope",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15046
+},
+"digi_peckmon": {
+"Name": {
+"DefaultText": "Running Courier",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15130
+},
+"digi_phantomon": {
+"Name": {
+"DefaultText": "Reaper's Measure",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15190
+},
+"digi_piedmon": {
+"Name": {
+"DefaultText": "Four-Sword Misdirection",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15273
+},
+"digi_pilevolcamon": {
+"Name": {
+"DefaultText": "Pile-Driver Heat",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15270
+},
+"digi_piximon": {
+"Name": {
+"DefaultText": "Pocket Miracle",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15188
+},
+"digi_platinumnumemon": {
+"Name": {
+"DefaultText": "Platinum Tutor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15275
+},
+"digi_platinumsukamon": {
+"Name": {
+"DefaultText": "Platinum Apprentice",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15127
+},
+"digi_plesiomon": {
+"Name": {
+"DefaultText": "Ancient Lullaby",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15279
+},
+"digi_poyomon": {
+"Name": {
+"DefaultText": "Floating Comfort",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15005
+},
+"digi_princemamemon": {
+"Name": {
+"DefaultText": "Royal Provision",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15277
+},
+"digi_pumpkinmon": {
+"Name": {
+"DefaultText": "Lantern Hospitality",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15187
+},
+"digi_punimon": {
+"Name": {
+"DefaultText": "Soft Landing",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15003
+},
+"digi_puppetmon": {
+"Name": {
+"DefaultText": "Puppet Strings",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15274
+},
+"digi_rapidmon": {
+"Name": {
+"DefaultText": "Rapid Assessment",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15211
+},
+"digi_rapidmon_armor": {
+"Name": {
+"DefaultText": "Golden Triangle",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15325
+},
+"digi_raptordramon": {
+"Name": {
+"DefaultText": "Targeting Talon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15135
+},
+"digi_raremon": {
+"Name": {
+"DefaultText": "Decaying Bulk",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15136
+},
+"digi_ravemon": {
+"Name": {
+"DefaultText": "Raven's Blindside",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15304
+},
+"digi_ravemon_bm": {
+"Name": {
+"DefaultText": "Storm of Feathers",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15305
+},
+"digi_renamon": {
+"Name": {
+"DefaultText": "Measured Steps",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15062
+},
+"digi_reppamon": {
+"Name": {
+"DefaultText": "Windward Charm",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15139
+},
+"digi_rizegreymon": {
+"Name": {
+"DefaultText": "Revolver Rhythm",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15209
+},
+"digi_rosemon": {
+"Name": {
+"DefaultText": "Roseward Grace",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15307
+},
+"digi_rosemon_bm": {
+"Name": {
+"DefaultText": "Burst Blossom",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15308
+},
+"digi_rusttyranomon": {
+"Name": {
+"DefaultText": "Corroded Reactor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15301
+},
+"digi_ryudamon": {
+"Name": {
+"DefaultText": "Apprentice Armor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15328
+},
+"digi_saberleomon": {
+"Name": {
+"DefaultText": "Saber Pursuit",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15245
+},
+"digi_sakuyamon": {
+"Name": {
+"DefaultText": "Ritual Circle",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15246
+},
+"digi_salamon": {
+"Name": {
+"DefaultText": "Faithful Guard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15054
+},
+"digi_sangloupmon": {
+"Name": {
+"DefaultText": "Blood Moon Hunt",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15101
+},
+"digi_saviorhuckmon": {
+"Name": {
+"DefaultText": "Rescue Blade",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15171
+},
+"digi_seadramon": {
+"Name": {
+"DefaultText": "Coiling Current",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15103
+},
+"digi_seraphimon": {
+"Name": {
+"DefaultText": "Sevenfold Mercy",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15253
+},
+"digi_shakkoumon": {
+"Name": {
+"DefaultText": "Clay Sanctuary",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15164
+},
+"digi_shellnumemon": {
+"Name": {
+"DefaultText": "Spiral Shelter",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15083
+},
+"digi_shinegreymon": {
+"Name": {
+"DefaultText": "Radiant Momentum",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15248
+},
+"digi_shinegreymon_bm": {
+"Name": {
+"DefaultText": "Burst Exhaust",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15249
+},
+"digi_shogungekomon": {
+"Name": {
+"DefaultText": "Royal Refrain",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15179
+},
+"digi_shoutmon": {
+"Name": {
+"DefaultText": "Rallying Voice",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15326
+},
+"digi_silphymon": {
+"Name": {
+"DefaultText": "Twin-Sensor Tracking",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15166
+},
+"digi_sistermon_blanc": {
+"Name": {
+"DefaultText": "Novice Benediction",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15333
+},
+"digi_sistermon_b_awake": {
+"Name": {
+"DefaultText": "Awakened Benediction",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15334
+},
+"digi_sistermon_ciel": {
+"Name": {
+"DefaultText": "Ciel's Cover",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15335
+},
+"digi_sistermon_c_awake": {
+"Name": {
+"DefaultText": "Awakened Cover",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15336
+},
+"digi_skullgreymon": {
+"Name": {
+"DefaultText": "Reckless Remains",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15168
+},
+"digi_skullmeramon": {
+"Name": {
+"DefaultText": "Chain Heat",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15177
+},
+"digi_skullsatamon": {
+"Name": {
+"DefaultText": "Grave Seal",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15169
+},
+"digi_slayerdramon": {
+"Name": {
+"DefaultText": "Dragon Duelist",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15252
+},
+"digi_socerimon": {
+"Name": {
+"DefaultText": "Snowmelt Remedy",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15111
+},
+"digi_solarmon": {
+"Name": {
+"DefaultText": "Solar Reserve",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15037
+},
+"digi_starmon": {
+"Name": {
+"DefaultText": "Star Spotlight",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15107
+},
+"digi_stingmon": {
+"Name": {
+"DefaultText": "Assassin's Angle",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15108
+},
+"digi_strikedramon": {
+"Name": {
+"DefaultText": "Street Protector",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15109
+},
+"digi_sukamon": {
+"Name": {
+"DefaultText": "Foul Footing",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15106
+},
+"digi_sunflowmon": {
+"Name": {
+"DefaultText": "Sunward Bloom",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15102
+},
+"digi_superstarmon": {
+"Name": {
+"DefaultText": "Stellar Encore",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15167
+},
+"digi_susanomon": {
+"Name": {
+"DefaultText": "Ten-Spirit Harmony",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15319
+},
+"digi_syakomon": {
+"Name": {
+"DefaultText": "Shell Snap",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15035
+},
+"digi_tanemon": {
+"Name": {
+"DefaultText": "Rooted Nursery",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15008
+},
+"digi_tankmon": {
+"Name": {
+"DefaultText": "Set Firing Line",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15112
+},
+"digi_taomon": {
+"Name": {
+"DefaultText": "Talisman Rotation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15172
+},
+"digi_tentomon": {
+"Name": {
+"DefaultText": "Static Shell",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15040
+},
+"digi_terriermon": {
+"Name": {
+"DefaultText": "Calm Ears",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15039
+},
+"digi_tigervespamon": {
+"Name": {
+"DefaultText": "Royal Hive Signal",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15256
+},
+"digi_titamon": {
+"Name": {
+"DefaultText": "Soulblade Weight",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15257
+},
+"digi_togemon": {
+"Name": {
+"DefaultText": "Needle Reprisal",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15118
+},
+"digi_tokomon": {
+"Name": {
+"DefaultText": "Little Encouragement",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15011
+},
+"digi_toyagumon": {
+"Name": {
+"DefaultText": "Rebuild Blocks",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15041
+},
+"digi_triceramon": {
+"Name": {
+"DefaultText": "Three-Horn Formation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15180
+},
+"digi_tsumemon": {
+"Name": {
+"DefaultText": "Restless Claws",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15010
+},
+"digi_tsunomon": {
+"Name": {
+"DefaultText": "Horn Brace",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15009
+},
+"digi_turuiemon": {
+"Name": {
+"DefaultText": "Patient Counter",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15117
+},
+"digi_tyrannomon": {
+"Name": {
+"DefaultText": "Primitive Roar",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15114
+},
+"digi_tyrantkabuterimon": {
+"Name": {
+"DefaultText": "Tyrant's Carapace",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15258
+},
+"digi_ulforceveedramon": {
+"Name": {
+"DefaultText": "Veedra Recovery",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15220
+},
+"digi_unimon": {
+"Name": {
+"DefaultText": "Pure Air",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15134
+},
+"digi_vademon": {
+"Name": {
+"DefaultText": "Alien Observation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15193
+},
+"digi_valkyrimon": {
+"Name": {
+"DefaultText": "Valkyrie's Passage",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15225
+},
+"digi_varodurumon": {
+"Name": {
+"DefaultText": "Six-Wing Sanctuary",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15226
+},
+"digi_veedramon": {
+"Name": {
+"DefaultText": "Azure Acceleration",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15125
+},
+"digi_veemon": {
+"Name": {
+"DefaultText": "Headfirst Spirit",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15053
+},
+"digi_vegiemon": {
+"Name": {
+"DefaultText": "Vine Tax",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15129
+},
+"digi_venommyotismon": {
+"Name": {
+"DefaultText": "Venomous Dominion",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15227
+},
+"digi_vikemon": {
+"Name": {
+"DefaultText": "Northern Bulwark",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15224
+},
+"digi_volcanomon": {
+"Name": {
+"DefaultText": "Volcanic Rhythm",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15196
+},
+"digi_wanyamon": {
+"Name": {
+"DefaultText": "Whisker Alert",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15017
+},
+"digi_wargreymon": {
+"Name": {
+"DefaultText": "Brave Shield",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15228
+},
+"digi_wargrowlmon": {
+"Name": {
+"DefaultText": "Reactor Discipline",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15202
+},
+"digi_waspmon": {
+"Name": {
+"DefaultText": "Patrol Beacon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15140
+},
+"digi_weregarurumon": {
+"Name": {
+"DefaultText": "Pack Counter",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15215
+},
+"digi_weregarurumon_blk": {
+"Name": {
+"DefaultText": "Midnight Brawler",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15216
+},
+"digi_whamon": {
+"Name": {
+"DefaultText": "Tidal Refuge",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15194
+},
+"digi_wingdramon": {
+"Name": {
+"DefaultText": "High-Altitude Strike",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15148
+},
+"digi_wisemon": {
+"Name": {
+"DefaultText": "Recorded Spell",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15217
+},
+"digi_wizardmon": {
+"Name": {
+"DefaultText": "Prepared Incantation",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15072
+},
+"digi_woodmon": {
+"Name": {
+"DefaultText": "Bark Siphon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15074
+},
+"digi_wormmon": {
+"Name": {
+"DefaultText": "Binding Thread",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15064
+},
+"digi_yokomon": {
+"Name": {
+"DefaultText": "Flower Bed",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15014
+},
+"digi_zubaeagermon": {
+"Name": {
+"DefaultText": "Tempered Edge",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15110
+},
+"digi_zubamon": {
+"Name": {
+"DefaultText": "Partner Blade",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15036
+},
+"digi_zudomon": {
+"Name": {
+"DefaultText": "Hammerhead Shelter",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+"SortOrder": 15170
+},
 "disguise": {
 "Name": {
 "DefaultText": "Disguise",

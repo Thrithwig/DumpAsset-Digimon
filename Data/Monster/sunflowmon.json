@@ -465,7 +465,7 @@
         "PromoteForm": 0,
         "Element1": "grass",
         "Element2": "none",
-        "Intrinsic1": "none",
+        "Intrinsic1": "digi_sunflowmon",
         "Intrinsic2": "none",
         "Intrinsic3": "none",
         "LevelSkills": [

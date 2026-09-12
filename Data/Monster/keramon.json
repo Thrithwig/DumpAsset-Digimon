@@ -465,10 +465,14 @@
         "PromoteForm": 0,
         "Element1": "dark",
         "Element2": "none",
-        "Intrinsic1": "none",
+        "Intrinsic1": "digi_keramon",
         "Intrinsic2": "none",
         "Intrinsic3": "none",
         "LevelSkills": [
+          {
+            "Level": 1,
+            "Skill": "digi_starter_dark_physical"
+          },
           {
             "Level": 1,
             "Skill": "digi_crazy_giggle"

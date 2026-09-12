@@ -1,4 +1,4 @@
-﻿{
+{
   "Version": "0.8.12.0",
   "Object": {
     "$type": "RogueEssence.Data.ZoneData, RogueEssence",
@@ -2398,7 +2398,7 @@
                     "SpecifiedSkills": [
                       "digi_bubble_blow"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_punimon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2427,7 +2427,7 @@
                     "SpecifiedSkills": [
                       "digi_diamond_storm"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_renamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2456,7 +2456,7 @@
                     "SpecifiedSkills": [
                       "digi_katana_attack"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_ryudamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2485,7 +2485,7 @@
                     "SpecifiedSkills": [
                       "digi_puppy_howl"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_salamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2515,7 +2515,7 @@
                       "digi_diamond_storm",
                       "digi_gaia_element_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_renamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2545,7 +2545,7 @@
                       "digi_katana_attack",
                       "digi_heavy_strike_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_ryudamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2575,7 +2575,7 @@
                       "digi_puppy_howl",
                       "digi_holy_light_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_salamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2605,7 +2605,7 @@
                       "digi_divine_pierce_awake",
                       "digi_protect_wave_awake"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_sistermon_b_awake",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2635,7 +2635,7 @@
                       "digi_katana_attack",
                       "digi_heavy_strike_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_ryudamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2665,7 +2665,7 @@
                       "digi_puppy_howl",
                       "digi_holy_light_i"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_salamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2695,7 +2695,7 @@
                       "digi_divine_pierce_awake",
                       "digi_protect_wave_awake"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_sistermon_b_awake",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2726,7 +2726,7 @@
                       "digi_protect_wave",
                       "digi_heal"
                     ],
-                    "Intrinsic": "none",
+                    "Intrinsic": "digi_sistermon_blanc",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []

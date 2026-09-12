@@ -1,0 +1,134 @@
+{
+  "Version": "0.8.12.0",
+  "Object": {
+    "$type": "RogueEssence.Data.IntrinsicData, RogueEssence",
+    "Name": {
+      "DefaultText": "Recorded Spell",
+      "LocalTexts": {}
+    },
+    "Desc": {
+      "DefaultText": "The user's Pandora Dialogue and Hell Crusher I deal 10% more damage. After directly defeating an enemy, restore 1 PP to every equipped move, up to its maximum.",
+      "LocalTexts": {}
+    },
+    "Released": true,
+    "Comment": "Digimon playtest passive; source: DataAsset/Digimon/passive_abilities.json",
+    "IndexNum": 15217,
+    "ProximityEvent": {
+      "Radius": -1,
+      "TargetAlignments": 0,
+      "BeforeExplosions": [],
+      "OnEquips": [],
+      "OnPickups": [],
+      "BeforeStatusAdds": [],
+      "BeforeStatusAddings": [],
+      "OnStatusAdds": [],
+      "OnStatusRemoves": [],
+      "OnMapStatusAdds": [],
+      "OnMapStatusRemoves": [],
+      "OnMapStarts": [],
+      "OnTurnStarts": [],
+      "OnTurnEnds": [],
+      "OnMapTurnEnds": [],
+      "OnWalks": [],
+      "OnDeaths": [],
+      "OnRefresh": [],
+      "BeforeTryActions": [],
+      "BeforeActions": [],
+      "OnActions": [],
+      "BeforeHittings": [],
+      "BeforeBeingHits": [],
+      "AfterHittings": [],
+      "AfterBeingHits": [],
+      "OnHitTiles": [],
+      "AfterActions": [],
+      "UserElementEffects": [],
+      "TargetElementEffects": [],
+      "ModifyHPs": [],
+      "RestoreHPs": []
+    },
+    "OnEquips": [],
+    "OnPickups": [],
+    "BeforeStatusAdds": [],
+    "BeforeStatusAddings": [],
+    "OnStatusAdds": [],
+    "OnStatusRemoves": [],
+    "OnMapStatusAdds": [],
+    "OnMapStatusRemoves": [],
+    "OnMapStarts": [],
+    "OnTurnStarts": [],
+    "OnTurnEnds": [],
+    "OnMapTurnEnds": [],
+    "OnWalks": [],
+    "OnDeaths": [],
+    "OnRefresh": [],
+    "BeforeTryActions": [],
+    "BeforeActions": [],
+    "OnActions": [
+      {
+        "Key": {
+          "str": [
+            0
+          ]
+        },
+        "Value": {
+          "$type": "PMDC.Dungeon.SpecificSkillNeededEvent, PMDC",
+          "AcceptedMoves": [
+            "digi_pandora_dialogue",
+            "digi_hell_crusher_i"
+          ],
+          "BaseEvent": {
+            "$type": "PMDC.Dungeon.MultiplyDamageEvent, PMDC",
+            "Numerator": 110,
+            "Denominator": 100,
+            "Anims": []
+          }
+        }
+      }
+    ],
+    "BeforeHittings": [],
+    "BeforeBeingHits": [],
+    "AfterHittings": [
+      {
+        "Key": {
+          "str": [
+            0
+          ]
+        },
+        "Value": {
+          "$type": "PMDC.Dungeon.TargetNeededEvent, PMDC",
+          "Target": 4,
+          "BaseEvents": [
+            {
+              "$type": "PMDC.Dungeon.TargetDeadNeededEvent, PMDC",
+              "BaseEvents": [
+                {
+                  "$type": "PMDC.Dungeon.OnHitEvent, PMDC",
+                  "RequireDamage": true,
+                  "RequireContact": false,
+                  "Chance": 100,
+                  "BaseEvents": [
+                    {
+                      "$type": "PMDC.Dungeon.BattlelessEvent, PMDC",
+                      "AffectTarget": false,
+                      "BaseEvent": {
+                        "$type": "PMDC.Dungeon.DeepBreathEvent, PMDC",
+                        "RestoreAll": true
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "AfterBeingHits": [],
+    "OnHitTiles": [],
+    "AfterActions": [],
+    "UserElementEffects": [],
+    "TargetElementEffects": [],
+    "ModifyHPs": [],
+    "RestoreHPs": []
+  }
+}
