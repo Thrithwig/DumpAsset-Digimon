@@ -110,19 +110,72 @@ function Terminal.show_restoration(state, adapter)
   end
 end
 
+-- Assign the stat each Digimon trains while it sits in reserve. Progress accrues per
+-- dungeon floor the active party enters; see origin.digimon.farm.
+function Terminal.show_training()
+  local Farm = require 'origin.digimon.farm'
+  local Runtime = require 'origin.digimon.runtime_catalog'
+  local Progress = require 'origin.digimon.progression'
+  while true do
+    local characters, labels = {}, {}
+    for _, team in ipairs({ GAME:GetPlayerPartyTable(), GAME:GetPlayerAssemblyTable() }) do
+      for _, char in ipairs(team) do
+        if Runtime.species[char.BaseForm.Species] then
+          local row = Progress.progress(char)
+          local regimen = row.regimen and Farm.regimen(row.regimen)
+          table.insert(characters, char)
+          table.insert(labels, char:GetDisplayName(true) .. " Lv." .. char.Level .. "  " .. (regimen and regimen.name or "Resting"))
+        end
+      end
+    end
+    if #characters == 0 then UI:WaitShowDialogue("There are no Digimon to train yet."); return end
+    table.insert(labels, "Back")
+    UI:BeginMultiPageMenu(16, 16, 280, "Training", labels, 8, 1, #labels)
+    UI:WaitForChoice()
+    local char = characters[UI:ChoiceResult()]
+    if not char then return end
+    local row = Progress.progress(char)
+    local name = char:GetDisplayName(true)
+    if row.skill_check_level and GAME.CheckLevelSkills then
+      -- Levels gained in reserve offer their new skills here, not mid-dungeon.
+      local from = row.skill_check_level
+      row.skill_check_level = nil
+      GAME:CheckLevelSkills(char, from)
+    end
+    local names = {}
+    for _, regimen in ipairs(Farm.regimens) do
+      table.insert(names, regimen.name .. (row.regimen == regimen.id and " (current)" or ""))
+    end
+    table.insert(names, "Rest")
+    table.insert(names, "Back")
+    UI:BeginMultiPageMenu(16, 16, 280, name .. " trains...", names, 8, 1, #names)
+    UI:WaitForChoice()
+    local pick = UI:ChoiceResult()
+    if Farm.regimens[pick] then
+      Farm.set_regimen(char, Farm.regimens[pick].id)
+      UI:WaitShowDialogue(name .. " will train " .. Farm.regimens[pick].name ..
+          " while in reserve. Every floor your team explores counts.")
+    elseif pick == #Farm.regimens + 1 then
+      Farm.set_regimen(char, nil)
+      UI:WaitShowDialogue(name .. " will rest.")
+    end
+  end
+end
+
 -- The shared signpost retains its existing team-change animation/respawn callback.
 function Terminal.show(assembly_action, adapter)
   adapter = adapter or Terminal.engine_adapter()
   while true do
     local result = choice("What would you like to do?",
-        { "Adventuring Team", "Scan Data", "Restore Digimon", "Leave" }, 4)
+        { "Adventuring Team", "Scan Data", "Restore Digimon", "Training", "Leave" }, 5)
     if result == 1 then
       assembly_action()
-    elseif result == 2 or result == 3 then
+    elseif result == 2 or result == 3 or result == 4 then
       if not Ledger.valid(SV.Digimon) then
-        UI:WaitShowDialogue("Scan Data and restoration require a fresh save. Adventuring Team is still available.")
+        UI:WaitShowDialogue("Scan Data, restoration and training require a fresh save. Adventuring Team is still available.")
       elseif result == 2 then Terminal.show_ledger(SV.Digimon)
-      else Terminal.show_restoration(SV.Digimon, adapter) end
+      elseif result == 3 then Terminal.show_restoration(SV.Digimon, adapter)
+      else Terminal.show_training() end
     else return end
   end
 end

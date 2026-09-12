@@ -11,6 +11,11 @@ function M.personality(character)
   end
   return row.personality,row
 end
+-- The stat bonus field this character's personality favours, or nil for Builder/Searcher.
+function M.favored_field(character)
+  local personality=M.personality(character)
+  for i,name in ipairs(M.personalities) do if name==personality then return fields[i] end end
+end
 function M.food(character, stat)
   if not SV.Digimon then return end
   local personality,row=M.personality(character)

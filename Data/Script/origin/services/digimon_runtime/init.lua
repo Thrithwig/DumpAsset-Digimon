@@ -57,6 +57,9 @@ function Service:Floor(name,map)
   if SV.Digimon.floor_identity~=map.RewardFloorIdentity then
     Ledger.begin_floor(SV.Digimon)
     SV.Digimon.floor_identity=map.RewardFloorIdentity
+    -- Reserve training and catch-up advance once per new floor, never on a reload.
+    local ok,err=pcall(require('origin.digimon.farm').floor)
+    if not ok and PrintInfo then PrintInfo('Digimon reserve training failed: '..tostring(err)) end
   end
   -- Convert fixed-map and event encounters too; procedural tables are converted in data.
   if map.MapTeams then
