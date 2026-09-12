@@ -16136,7 +16136,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "leomon",
+                      "Species": "nanimon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -16146,12 +16146,12 @@
                       "Max": 29
                     },
                     "SpecifiedSkills": [
-                      "digi_fist_of_the_beast_king",
+                      "digi_poop_dunk",
                       "digi_comet_hammer_ii",
-                      "digi_attack_charge",
-                      "digi_saint_knuckle_ii"
+                      "digi_attack_break",
+                      "digi_shock"
                     ],
-                    "Intrinsic": "digi_leomon",
+                    "Intrinsic": "digi_nanimon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -16177,7 +16177,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "megaseadramon",
+                      "Species": "tyrannomon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -16187,11 +16187,12 @@
                       "Max": 30
                     },
                     "SpecifiedSkills": [
-                      "digi_lightning_javelin",
-                      "digi_idle_bubble",
-                      "digi_mental_break"
+                      "digi_fire_breath",
+                      "digi_acceleration_boost",
+                      "digi_wolkenapalm_ii",
+                      "digi_heavy_strike_ii"
                     ],
-                    "Intrinsic": "digi_megaseadramon",
+                    "Intrinsic": "digi_tyrannomon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [
                       {
@@ -16223,7 +16224,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "bluemeramon",
+                      "Species": "stingmon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -16233,11 +16234,12 @@
                       "Max": 30
                     },
                     "SpecifiedSkills": [
-                      "digi_cold_flame",
-                      "digi_meteor_fall_i",
-                      "digi_mental_break"
+                      "digi_spiking_strike",
+                      "digi_crescent_leaf_ii",
+                      "digi_gale_storm_i",
+                      "digi_wind_claw_ii"
                     ],
-                    "Intrinsic": "digi_bluemeramon",
+                    "Intrinsic": "digi_stingmon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [
                       {
@@ -16269,7 +16271,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "piximon",
+                      "Species": "garurumon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -16279,11 +16281,12 @@
                       "Max": 26
                     },
                     "SpecifiedSkills": [
-                      "digi_pit_bomb",
-                      "digi_shining_laser_i",
-                      "digi_ocean_wave_i"
+                      "digi_fox_fire",
+                      "digi_speed_charge",
+                      "digi_grand_rock_ii",
+                      "digi_escape_dash"
                     ],
-                    "Intrinsic": "digi_piximon",
+                    "Intrinsic": "digi_garurumon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -16309,7 +16312,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "vademon",
+                      "Species": "sukamon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -16319,11 +16322,12 @@
                       "Max": 28
                     },
                     "SpecifiedSkills": [
-                      "digi_unidentified_flying_kiss",
-                      "digi_venom_trap",
-                      "digi_hell_crusher_i"
+                      "digi_poop",
+                      "digi_panic_wisp",
+                      "digi_mental_break",
+                      "digi_nightmare_ii"
                     ],
-                    "Intrinsic": "digi_vademon",
+                    "Intrinsic": "digi_sukamon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -16349,7 +16353,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "socerimon",
+                      "Species": "garurumon_blk",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -16359,12 +16363,12 @@
                       "Max": 26
                     },
                     "SpecifiedSkills": [
-                      "digi_crystal_cloud",
-                      "digi_hydro_water_ii",
-                      "digi_mirror_reflection",
-                      "digi_x_heal"
+                      "digi_freeze_fang",
+                      "digi_speed_charge",
+                      "digi_grand_rock_ii",
+                      "digi_agility_charge"
                     ],
-                    "Intrinsic": "digi_socerimon",
+                    "Intrinsic": "digi_garurumon_blk",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -16390,7 +16394,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "socerimon",
+                      "Species": "ryudamon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -16400,12 +16404,12 @@
                       "Max": 26
                     },
                     "SpecifiedSkills": [
-                      "digi_crystal_cloud",
-                      "digi_hydro_water_ii",
-                      "digi_mirror_reflection",
-                      "digi_x_heal"
+                      "digi_starter_neutral_physical",
+                      "digi_katana_attack",
+                      "digi_heavy_strike_i",
+                      "digi_critical_charge"
                     ],
-                    "Intrinsic": "digi_socerimon",
+                    "Intrinsic": "digi_ryudamon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -16431,7 +16435,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "shakkoumon",
+                      "Species": "mushroomon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -16441,10 +16445,12 @@
                       "Max": 24
                     },
                     "SpecifiedSkills": [
-                      "digi_disaster_blaster",
-                      "digi_shining_laser_i"
+                      "digi_starter_plant_physical",
+                      "digi_fungus_crusher",
+                      "digi_venom_trap",
+                      "digi_crescent_leaf_i"
                     ],
-                    "Intrinsic": "digi_shakkoumon",
+                    "Intrinsic": "digi_mushroomon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -16470,7 +16476,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "peckmon",
+                      "Species": "renamon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -16480,12 +16486,12 @@
                       "Max": 26
                     },
                     "SpecifiedSkills": [
-                      "digi_kunai_wing",
-                      "digi_wind_claw_ii",
-                      "digi_agility_charge",
-                      "digi_escape_dash"
+                      "digi_starter_plant_magic",
+                      "digi_diamond_storm",
+                      "digi_gaia_element_i",
+                      "digi_anti_panic"
                     ],
-                    "Intrinsic": "digi_peckmon",
+                    "Intrinsic": "digi_renamon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -16511,7 +16517,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "aquilamon",
+                      "Species": "veedramon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -16521,12 +16527,12 @@
                       "Max": 30
                     },
                     "SpecifiedSkills": [
-                      "digi_glide_horn",
+                      "digi_v_nova_blast",
                       "digi_wind_claw_ii",
-                      "digi_sonic_void_ii",
-                      "digi_gale_storm_i"
+                      "digi_chain_plus",
+                      "digi_saint_knuckle_ii"
                     ],
-                    "Intrinsic": "digi_aquilamon",
+                    "Intrinsic": "digi_veedramon",
                     "Tactic": "wander_dumb",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -17032,7 +17038,7 @@
                       "Spawns": [
                         {
                           "BaseForm": {
-                            "Species": "lekismon",
+                            "Species": "cyberdramon",
                             "Form": 0,
                             "Skin": "normal",
                             "Gender": -1
@@ -17042,12 +17048,12 @@
                             "Max": 50
                           },
                           "SpecifiedSkills": [
-                            "digi_moon_night_bomb",
-                            "digi_ice_archery_ii",
-                            "digi_power_energy_ii",
-                            "digi_cross_counter"
+                            "digi_venom_trap",
+                            "digi_attack_break",
+                            "digi_comet_hammer_iii",
+                            "digi_destruction_cannon_iii"
                           ],
-                          "Intrinsic": "digi_lekismon",
+                          "Intrinsic": "digi_cyberdramon",
                           "Tactic": "wander_normal",
                           "SpawnConditions": [],
                           "SpawnFeatures": [
@@ -18562,7 +18568,7 @@
                     {
                       "Spawn": {
                         "BaseForm": {
-                          "Species": "icedevimon",
+                          "Species": "slayerdramon",
                           "Form": 0,
                           "Skin": "normal",
                           "Gender": -1
@@ -18572,12 +18578,12 @@
                           "Max": 100
                         },
                         "SpecifiedSkills": [
-                          "digi_frozen_claw",
-                          "digi_ice_archery_ii",
-                          "digi_spirit_drain",
-                          "digi_hell_crusher_i"
+                          "digi_attack_charge_field",
+                          "digi_speed_charge_field",
+                          "digi_x_aura",
+                          "digi_gale_storm_iii"
                         ],
-                        "Intrinsic": "digi_icedevimon",
+                        "Intrinsic": "digi_slayerdramon",
                         "Tactic": "shopkeeper",
                         "SpawnConditions": [],
                         "SpawnFeatures": [
@@ -18602,7 +18608,7 @@
                     {
                       "Spawn": {
                         "BaseForm": {
-                          "Species": "sistermon_c_awake",
+                          "Species": "craniamon",
                           "Form": 0,
                           "Skin": "normal",
                           "Gender": -1
@@ -18612,12 +18618,12 @@
                           "Max": 100
                         },
                         "SpecifiedSkills": [
-                          "digi_destruction_cannon_iii",
-                          "digi_acceleration_boost",
-                          "digi_support_end",
-                          "digi_final_aura"
+                          "digi_awesome_quake_ii",
+                          "digi_guard_charge_field",
+                          "digi_gaia_element_iii",
+                          "digi_awesome_quake_iii"
                         ],
-                        "Intrinsic": "digi_sistermon_c_awake",
+                        "Intrinsic": "digi_craniamon",
                         "Tactic": "shopkeeper",
                         "SpawnConditions": [],
                         "SpawnFeatures": [
@@ -18642,7 +18648,7 @@
                     {
                       "Spawn": {
                         "BaseForm": {
-                          "Species": "coelamon",
+                          "Species": "silphymon",
                           "Form": 0,
                           "Skin": "normal",
                           "Gender": -1
@@ -18652,12 +18658,12 @@
                           "Max": 100
                         },
                         "SpecifiedSkills": [
-                          "digi_fossil_bite",
-                          "digi_ice_archery_ii",
-                          "digi_chain_minus",
-                          "digi_heavy_strike_ii"
+                          "digi_gale_storm_i",
+                          "digi_critical_charge",
+                          "digi_sonic_void_iii",
+                          "digi_wind_claw_iii"
                         ],
-                        "Intrinsic": "digi_coelamon",
+                        "Intrinsic": "digi_silphymon",
                         "Tactic": "shuckle",
                         "SpawnConditions": [],
                         "SpawnFeatures": [
@@ -18682,7 +18688,7 @@
                     {
                       "Spawn": {
                         "BaseForm": {
-                          "Species": "wisemon",
+                          "Species": "leopardmon_lm",
                           "Form": 0,
                           "Skin": "normal",
                           "Gender": -1
@@ -18692,12 +18698,12 @@
                           "Max": 100
                         },
                         "SpecifiedSkills": [
-                          "digi_hell_crusher_i",
-                          "digi_mirror_reflection",
-                          "digi_hell_crusher_ii",
-                          "digi_nightmare_iii"
+                          "digi_speed_break_field",
+                          "digi_shining_laser_iii",
+                          "digi_awesome_quake_iii",
+                          "digi_support_end"
                         ],
-                        "Intrinsic": "digi_wisemon",
+                        "Intrinsic": "digi_leopardmon_lm",
                         "Tactic": "shuckle",
                         "SpawnConditions": [],
                         "SpawnFeatures": [
@@ -18722,7 +18728,7 @@
                   ],
                   "StartMob": {
                     "BaseForm": {
-                      "Species": "metalgreymon",
+                      "Species": "wingdramon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -18732,12 +18738,12 @@
                       "Max": 100
                     },
                     "SpecifiedSkills": [
-                      "digi_mach_rush_i",
-                      "digi_attack_charge",
-                      "digi_meteor_fall_i",
-                      "digi_wolkenapalm_iii"
+                      "digi_speed_break",
+                      "digi_mach_rush_ii",
+                      "digi_wind_claw_ii",
+                      "digi_gale_storm_ii"
                     ],
-                    "Intrinsic": "digi_metalgreymon",
+                    "Intrinsic": "digi_wingdramon",
                     "Tactic": "shopkeeper",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -18821,7 +18827,7 @@
                     {
                       "Spawn": {
                         "BaseForm": {
-                          "Species": "kuwagamon",
+                          "Species": "shinegreymon",
                           "Form": 0,
                           "Skin": "normal",
                           "Gender": -1
@@ -18831,132 +18837,12 @@
                           "Max": 100
                         },
                         "SpecifiedSkills": [
-                          "digi_scissor_claw",
-                          "digi_crescent_leaf_ii",
-                          "digi_destruction_cannon_ii",
-                          "digi_gale_storm_i"
-                        ],
-                        "Intrinsic": "digi_kuwagamon",
-                        "Tactic": "shopkeeper",
-                        "SpawnConditions": [],
-                        "SpawnFeatures": [
-                          {
-                            "$type": "PMDC.LevelGen.MobSpawnBoost, PMDC",
-                            "MaxHPBonus": 256,
-                            "AtkBonus": 256,
-                            "DefBonus": 256,
-                            "SpAtkBonus": 256,
-                            "SpDefBonus": 256,
-                            "SpeedBonus": 256
-                          },
-                          {
-                            "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-                            "Items": [],
-                            "MapStartOnly": false
-                          }
-                        ]
-                      },
-                      "Rate": 10
-                    },
-                    {
-                      "Spawn": {
-                        "BaseForm": {
-                          "Species": "okuwamon",
-                          "Form": 0,
-                          "Skin": "normal",
-                          "Gender": -1
-                        },
-                        "Level": {
-                          "Min": 100,
-                          "Max": 100
-                        },
-                        "SpecifiedSkills": [
-                          "digi_thunder_fall_i",
-                          "digi_venom_trap",
-                          "digi_hit_charge",
-                          "digi_crescent_leaf_iii"
-                        ],
-                        "Intrinsic": "digi_okuwamon",
-                        "Tactic": "shopkeeper",
-                        "SpawnConditions": [],
-                        "SpawnFeatures": [
-                          {
-                            "$type": "PMDC.LevelGen.MobSpawnBoost, PMDC",
-                            "MaxHPBonus": 256,
-                            "AtkBonus": 256,
-                            "DefBonus": 256,
-                            "SpAtkBonus": 256,
-                            "SpDefBonus": 256,
-                            "SpeedBonus": 256
-                          },
-                          {
-                            "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-                            "Items": [],
-                            "MapStartOnly": false
-                          }
-                        ]
-                      },
-                      "Rate": 10
-                    },
-                    {
-                      "Spawn": {
-                        "BaseForm": {
-                          "Species": "sunflowmon",
-                          "Form": 0,
-                          "Skin": "normal",
-                          "Gender": -1
-                        },
-                        "Level": {
-                          "Min": 100,
-                          "Max": 100
-                        },
-                        "SpecifiedSkills": [
-                          "digi_sunshine_beam",
-                          "digi_gaia_element_ii",
-                          "digi_holy_light_ii",
-                          "digi_x_heal"
-                        ],
-                        "Intrinsic": "digi_sunflowmon",
-                        "Tactic": "shopkeeper",
-                        "SpawnConditions": [],
-                        "SpawnFeatures": [
-                          {
-                            "$type": "PMDC.LevelGen.MobSpawnBoost, PMDC",
-                            "MaxHPBonus": 256,
-                            "AtkBonus": 256,
-                            "DefBonus": 256,
-                            "SpAtkBonus": 256,
-                            "SpDefBonus": 256,
-                            "SpeedBonus": 256
-                          },
-                          {
-                            "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
-                            "Items": [],
-                            "MapStartOnly": false
-                          }
-                        ]
-                      },
-                      "Rate": 10
-                    },
-                    {
-                      "Spawn": {
-                        "BaseForm": {
-                          "Species": "lilamon",
-                          "Form": 0,
-                          "Skin": "normal",
-                          "Gender": -1
-                        },
-                        "Level": {
-                          "Min": 100,
-                          "Max": 100
-                        },
-                        "SpecifiedSkills": [
-                          "digi_rune_forest_i",
                           "digi_aura",
-                          "digi_rune_forest_ii",
-                          "digi_gaia_element_iii"
+                          "digi_awesome_quake_ii",
+                          "digi_chain_max",
+                          "digi_meteor_fall_iii"
                         ],
-                        "Intrinsic": "digi_lilamon",
+                        "Intrinsic": "digi_shinegreymon",
                         "Tactic": "shopkeeper",
                         "SpawnConditions": [],
                         "SpawnFeatures": [
@@ -18981,7 +18867,7 @@
                     {
                       "Spawn": {
                         "BaseForm": {
-                          "Species": "angewomon",
+                          "Species": "leviamon",
                           "Form": 0,
                           "Skin": "normal",
                           "Gender": -1
@@ -18991,12 +18877,12 @@
                           "Max": 100
                         },
                         "SpecifiedSkills": [
-                          "digi_shining_laser_i",
-                          "digi_aura",
-                          "digi_revive",
-                          "digi_holy_light_iii"
+                          "digi_grand_rock_iii",
+                          "digi_guard_break_field",
+                          "digi_power_energy_iii",
+                          "digi_ocean_wave_iii"
                         ],
-                        "Intrinsic": "digi_angewomon",
+                        "Intrinsic": "digi_leviamon",
                         "Tactic": "shopkeeper",
                         "SpawnConditions": [],
                         "SpawnFeatures": [
@@ -19021,7 +18907,7 @@
                     {
                       "Spawn": {
                         "BaseForm": {
-                          "Species": "agunimon",
+                          "Species": "ouryumon",
                           "Form": 0,
                           "Skin": "normal",
                           "Gender": -1
@@ -19031,12 +18917,12 @@
                           "Max": 100
                         },
                         "SpecifiedSkills": [
-                          "digi_pyro_punch",
-                          "digi_wolkenapalm_iii",
-                          "digi_meteor_fall_i",
-                          "digi_acceleration_boost"
+                          "digi_acceleration_boost",
+                          "digi_nanomachine_break_iii",
+                          "digi_attack_charge_field",
+                          "digi_mach_rush_iii"
                         ],
-                        "Intrinsic": "digi_agunimon",
+                        "Intrinsic": "digi_ouryumon",
                         "Tactic": "shopkeeper",
                         "SpawnConditions": [],
                         "SpawnFeatures": [
@@ -19061,7 +18947,7 @@
                     {
                       "Spawn": {
                         "BaseForm": {
-                          "Species": "coelamon",
+                          "Species": "blackkingnumemon",
                           "Form": 0,
                           "Skin": "normal",
                           "Gender": -1
@@ -19071,12 +18957,12 @@
                           "Max": 100
                         },
                         "SpecifiedSkills": [
-                          "digi_fossil_bite",
-                          "digi_ice_archery_ii",
+                          "digi_antidote",
+                          "digi_texture_blow",
                           "digi_chain_minus",
-                          "digi_heavy_strike_ii"
+                          "digi_nightmare_iii"
                         ],
-                        "Intrinsic": "digi_coelamon",
+                        "Intrinsic": "digi_blackkingnumemon",
                         "Tactic": "shopkeeper",
                         "SpawnConditions": [],
                         "SpawnFeatures": [
@@ -19101,7 +18987,7 @@
                     {
                       "Spawn": {
                         "BaseForm": {
-                          "Species": "togemon",
+                          "Species": "dorugreymon",
                           "Form": 0,
                           "Skin": "normal",
                           "Gender": -1
@@ -19111,12 +18997,132 @@
                           "Max": 100
                         },
                         "SpecifiedSkills": [
-                          "digi_needle_spray",
-                          "digi_crescent_leaf_ii",
-                          "digi_anti_paralysis",
-                          "digi_ripping_net"
+                          "digi_awesome_quake_i",
+                          "digi_attack_break",
+                          "digi_wolkenapalm_iii",
+                          "digi_cross_counter"
                         ],
-                        "Intrinsic": "digi_togemon",
+                        "Intrinsic": "digi_dorugreymon",
+                        "Tactic": "shopkeeper",
+                        "SpawnConditions": [],
+                        "SpawnFeatures": [
+                          {
+                            "$type": "PMDC.LevelGen.MobSpawnBoost, PMDC",
+                            "MaxHPBonus": 256,
+                            "AtkBonus": 256,
+                            "DefBonus": 256,
+                            "SpAtkBonus": 256,
+                            "SpDefBonus": 256,
+                            "SpeedBonus": 256
+                          },
+                          {
+                            "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
+                            "Items": [],
+                            "MapStartOnly": false
+                          }
+                        ]
+                      },
+                      "Rate": 10
+                    },
+                    {
+                      "Spawn": {
+                        "BaseForm": {
+                          "Species": "ouryumon",
+                          "Form": 0,
+                          "Skin": "normal",
+                          "Gender": -1
+                        },
+                        "Level": {
+                          "Min": 100,
+                          "Max": 100
+                        },
+                        "SpecifiedSkills": [
+                          "digi_acceleration_boost",
+                          "digi_nanomachine_break_iii",
+                          "digi_attack_charge_field",
+                          "digi_mach_rush_iii"
+                        ],
+                        "Intrinsic": "digi_ouryumon",
+                        "Tactic": "shopkeeper",
+                        "SpawnConditions": [],
+                        "SpawnFeatures": [
+                          {
+                            "$type": "PMDC.LevelGen.MobSpawnBoost, PMDC",
+                            "MaxHPBonus": 256,
+                            "AtkBonus": 256,
+                            "DefBonus": 256,
+                            "SpAtkBonus": 256,
+                            "SpDefBonus": 256,
+                            "SpeedBonus": 256
+                          },
+                          {
+                            "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
+                            "Items": [],
+                            "MapStartOnly": false
+                          }
+                        ]
+                      },
+                      "Rate": 10
+                    },
+                    {
+                      "Spawn": {
+                        "BaseForm": {
+                          "Species": "burninggreymon",
+                          "Form": 0,
+                          "Skin": "normal",
+                          "Gender": -1
+                        },
+                        "Level": {
+                          "Min": 100,
+                          "Max": 100
+                        },
+                        "SpecifiedSkills": [
+                          "digi_acceleration_boost",
+                          "digi_wolkenapalm_iii",
+                          "digi_awesome_quake_ii",
+                          "digi_meteor_fall_ii"
+                        ],
+                        "Intrinsic": "digi_burninggreymon",
+                        "Tactic": "shopkeeper",
+                        "SpawnConditions": [],
+                        "SpawnFeatures": [
+                          {
+                            "$type": "PMDC.LevelGen.MobSpawnBoost, PMDC",
+                            "MaxHPBonus": 256,
+                            "AtkBonus": 256,
+                            "DefBonus": 256,
+                            "SpAtkBonus": 256,
+                            "SpDefBonus": 256,
+                            "SpeedBonus": 256
+                          },
+                          {
+                            "$type": "PMDC.LevelGen.MobSpawnInv, PMDC",
+                            "Items": [],
+                            "MapStartOnly": false
+                          }
+                        ]
+                      },
+                      "Rate": 10
+                    },
+                    {
+                      "Spawn": {
+                        "BaseForm": {
+                          "Species": "neptunemon",
+                          "Form": 0,
+                          "Skin": "normal",
+                          "Gender": -1
+                        },
+                        "Level": {
+                          "Min": 100,
+                          "Max": 100
+                        },
+                        "SpecifiedSkills": [
+                          "digi_idle_bubble",
+                          "digi_mirror_reflection",
+                          "digi_ocean_wave_iii",
+                          "digi_hydro_water_iii"
+                        ],
+                        "Intrinsic": "digi_neptunemon",
                         "Tactic": "shopkeeper",
                         "SpawnConditions": [],
                         "SpawnFeatures": [
@@ -19141,7 +19147,7 @@
                   ],
                   "StartMob": {
                     "BaseForm": {
-                      "Species": "shakkoumon",
+                      "Species": "ophanimon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -19151,12 +19157,12 @@
                       "Max": 100
                     },
                     "SpecifiedSkills": [
-                      "digi_shining_laser_i",
-                      "digi_dispel",
+                      "digi_perfect_revival",
+                      "digi_final_aura",
                       "digi_holy_light_iii",
-                      "digi_grand_rock_iii"
+                      "digi_shining_laser_iii"
                     ],
-                    "Intrinsic": "digi_shakkoumon",
+                    "Intrinsic": "digi_ophanimon",
                     "Tactic": "shopkeeper",
                     "SpawnConditions": [],
                     "SpawnFeatures": [
@@ -22862,7 +22868,7 @@
               {
                 "Spawn": {
                   "BaseForm": {
-                    "Species": "coredramon_blue",
+                    "Species": "poyomon",
                     "Form": 0,
                     "Skin": "normal",
                     "Gender": -1
@@ -22872,9 +22878,10 @@
                     "Max": 1
                   },
                   "SpecifiedSkills": [
-                    "digi_blue_flare_breath"
+                    "digi_starter_neutral_magic",
+                    "digi_super_bubble_blow"
                   ],
-                  "Intrinsic": "digi_coredramon_blue",
+                  "Intrinsic": "digi_poyomon",
                   "Tactic": "loot_guard",
                   "SpawnConditions": [],
                   "SpawnFeatures": [
@@ -22902,7 +22909,7 @@
               {
                 "Spawn": {
                   "BaseForm": {
-                    "Species": "kuwagamon",
+                    "Species": "koromon",
                     "Form": 0,
                     "Skin": "normal",
                     "Gender": -1
@@ -22912,9 +22919,10 @@
                     "Max": 1
                   },
                   "SpecifiedSkills": [
-                    "digi_scissor_claw"
+                    "digi_starter_fire_physical",
+                    "digi_bubbles"
                   ],
-                  "Intrinsic": "digi_kuwagamon",
+                  "Intrinsic": "digi_koromon",
                   "Tactic": "loot_guard",
                   "SpawnConditions": [],
                   "SpawnFeatures": [
@@ -22942,7 +22950,7 @@
               {
                 "Spawn": {
                   "BaseForm": {
-                    "Species": "matadormon",
+                    "Species": "botamon",
                     "Form": 0,
                     "Skin": "normal",
                     "Gender": -1
@@ -22952,9 +22960,10 @@
                     "Max": 1
                   },
                   "SpecifiedSkills": [
-                    "digi_earth_shattering_stomp"
+                    "digi_starter_neutral_physical",
+                    "digi_bubble_blow"
                   ],
-                  "Intrinsic": "digi_matadormon",
+                  "Intrinsic": "digi_botamon",
                   "Tactic": "loot_guard",
                   "SpawnConditions": [],
                   "SpawnFeatures": [
@@ -22982,7 +22991,7 @@
               {
                 "Spawn": {
                   "BaseForm": {
-                    "Species": "icedevimon",
+                    "Species": "pabumon",
                     "Form": 0,
                     "Skin": "normal",
                     "Gender": -1
@@ -22992,9 +23001,10 @@
                     "Max": 1
                   },
                   "SpecifiedSkills": [
-                    "digi_frozen_claw"
+                    "digi_starter_neutral_physical",
+                    "digi_adhesive_bubble_blow"
                   ],
-                  "Intrinsic": "digi_icedevimon",
+                  "Intrinsic": "digi_pabumon",
                   "Tactic": "loot_guard",
                   "SpawnConditions": [],
                   "SpawnFeatures": [
@@ -24020,7 +24030,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "aeroveedramon",
+                                      "Species": "sistermon_blanc",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -24030,11 +24040,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_dragon_impulse",
-                                      "digi_chain_plus",
-                                      "digi_speed_charge"
+                                      "digi_divine_pierce",
+                                      "digi_protect_wave",
+                                      "digi_heal",
+                                      "digi_holy_light_i"
                                     ],
-                                    "Intrinsic": "digi_aeroveedramon",
+                                    "Intrinsic": "digi_sistermon_blanc",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -24056,7 +24067,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "wingdramon",
+                                      "Species": "golemon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -24066,47 +24077,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_blaze_sonic_breath",
-                                      "digi_speed_break",
-                                      "digi_mach_rush_ii"
-                                    ],
-                                    "Intrinsic": "digi_wingdramon",
-                                    "Tactic": "wander_normal",
-                                    "SpawnConditions": [],
-                                    "SpawnFeatures": [
-                                      {
-                                        "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
-                                      },
-                                      {
-                                        "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
-                                        "StartAt": 1,
-                                        "Remove": false
-                                      }
-                                    ]
-                                  },
-                                  "Role": 0
-                                },
-                                "Rate": 10
-                              },
-                              {
-                                "Spawn": {
-                                  "Spawn": {
-                                    "BaseForm": {
-                                      "Species": "pumpkinmon",
-                                      "Form": 0,
-                                      "Skin": "normal",
-                                      "Gender": -1
-                                    },
-                                    "Level": {
-                                      "Min": 25,
-                                      "Max": 25
-                                    },
-                                    "SpecifiedSkills": [
-                                      "digi_trick_or_treat",
+                                      "digi_crimson_curse",
                                       "digi_awesome_quake_i",
+                                      "digi_comet_hammer_ii",
                                       "digi_meteor_fall_i"
                                     ],
-                                    "Intrinsic": "digi_pumpkinmon",
+                                    "Intrinsic": "digi_golemon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -24128,7 +24104,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "blackkingnumemon",
+                                      "Species": "gomamon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -24138,11 +24114,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_dark_pupil",
-                                      "digi_antidote",
-                                      "digi_texture_blow"
+                                      "digi_starter_water_physical",
+                                      "digi_marching_fishes",
+                                      "digi_idle_bubble",
+                                      "digi_anti_panic"
                                     ],
-                                    "Intrinsic": "digi_blackkingnumemon",
+                                    "Intrinsic": "digi_gomamon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -24164,7 +24141,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "icedevimon",
+                                      "Species": "tyrannomon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -24174,12 +24151,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_frozen_claw",
-                                      "digi_ice_archery_ii",
-                                      "digi_spirit_drain",
-                                      "digi_hell_crusher_i"
+                                      "digi_fire_breath",
+                                      "digi_acceleration_boost",
+                                      "digi_wolkenapalm_ii",
+                                      "digi_heavy_strike_ii"
                                     ],
-                                    "Intrinsic": "digi_icedevimon",
+                                    "Intrinsic": "digi_tyrannomon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -24201,7 +24178,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "arcadiamon_champion",
+                                      "Species": "toyagumon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -24211,12 +24188,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_prison_fist",
-                                      "digi_destruction_cannon_ii",
-                                      "digi_heavy_strike_ii",
-                                      "digi_cross_counter"
+                                      "digi_starter_neutral_physical",
+                                      "digi_plastic_blaze",
+                                      "digi_power_energy_i",
+                                      "digi_burst_flame_i"
                                     ],
-                                    "Intrinsic": "digi_arcadiamon_champion",
+                                    "Intrinsic": "digi_toyagumon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -24238,7 +24215,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "ikkakumon",
+                                      "Species": "salamon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -24248,12 +24225,49 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_harpoon_torpedo",
-                                      "digi_ice_archery_ii",
-                                      "digi_ocean_wave_i",
+                                      "digi_starter_light_magic",
+                                      "digi_puppy_howl",
+                                      "digi_holy_light_i",
                                       "digi_heal"
                                     ],
-                                    "Intrinsic": "digi_ikkakumon",
+                                    "Intrinsic": "digi_salamon",
+                                    "Tactic": "wander_normal",
+                                    "SpawnConditions": [],
+                                    "SpawnFeatures": [
+                                      {
+                                        "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
+                                      },
+                                      {
+                                        "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
+                                        "StartAt": 1,
+                                        "Remove": false
+                                      }
+                                    ]
+                                  },
+                                  "Role": 0
+                                },
+                                "Rate": 10
+                              },
+                              {
+                                "Spawn": {
+                                  "Spawn": {
+                                    "BaseForm": {
+                                      "Species": "arcadiamon_rookie",
+                                      "Form": 0,
+                                      "Skin": "normal",
+                                      "Gender": -1
+                                    },
+                                    "Level": {
+                                      "Min": 25,
+                                      "Max": 25
+                                    },
+                                    "SpecifiedSkills": [
+                                      "digi_starter_dark_physical",
+                                      "digi_soul_absorption",
+                                      "digi_acceleration_boost",
+                                      "digi_destruction_cannon_i"
+                                    ],
+                                    "Intrinsic": "digi_arcadiamon_rookie",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -24307,7 +24321,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "lobomon",
+                                      "Species": "raptordramon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -24317,12 +24331,12 @@
                                       "Max": 30
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_zwei_sieger",
-                                      "digi_speed_charge",
-                                      "digi_saint_knuckle_ii",
-                                      "digi_heavy_strike_ii"
+                                      "digi_ambush_crunch",
+                                      "digi_heavy_strike_ii",
+                                      "digi_comet_hammer_ii",
+                                      "digi_shock"
                                     ],
-                                    "Intrinsic": "digi_lobomon",
+                                    "Intrinsic": "digi_raptordramon",
                                     "Tactic": "wander_smart",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -24410,7 +24424,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "megakabuterimon",
+                                              "Species": "woodmon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -24420,11 +24434,12 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_horn_buster",
-                                              "digi_rune_forest_i",
-                                              "digi_speed_break"
+                                              "digi_branch_drain",
+                                              "digi_gaia_element_ii",
+                                              "digi_crescent_leaf_ii",
+                                              "digi_power_energy_ii"
                                             ],
-                                            "Intrinsic": "digi_megakabuterimon",
+                                            "Intrinsic": "digi_woodmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -24476,7 +24491,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "metalgreymon_blue",
+                                              "Species": "pumpkinmon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -24486,11 +24501,11 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_revenge_flame",
+                                              "digi_trick_or_treat",
                                               "digi_awesome_quake_i",
-                                              "digi_critical_charge"
+                                              "digi_meteor_fall_i"
                                             ],
-                                            "Intrinsic": "digi_metalgreymon_blue",
+                                            "Intrinsic": "digi_pumpkinmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -24608,7 +24623,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "ogremon",
+                                              "Species": "garurumon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -24618,12 +24633,12 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_pummel_whack",
-                                              "digi_comet_hammer_ii",
-                                              "digi_critical_charge",
-                                              "digi_destruction_cannon_ii"
+                                              "digi_fox_fire",
+                                              "digi_speed_charge",
+                                              "digi_grand_rock_ii",
+                                              "digi_escape_dash"
                                             ],
-                                            "Intrinsic": "digi_ogremon",
+                                            "Intrinsic": "digi_garurumon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -24675,7 +24690,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "hisyaryumon",
+                                              "Species": "airdramon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -24685,10 +24700,12 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_legendary_dragon_blade",
-                                              "digi_thunder_fall_i"
+                                              "digi_spinning_needle",
+                                              "digi_sonic_void_ii",
+                                              "digi_gale_storm_i",
+                                              "digi_wolkenapalm_ii"
                                             ],
-                                            "Intrinsic": "digi_hisyaryumon",
+                                            "Intrinsic": "digi_airdramon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -24740,7 +24757,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "arcadiamon_champion",
+                                              "Species": "panjyamon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -24750,12 +24767,11 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_prison_fist",
-                                              "digi_destruction_cannon_ii",
-                                              "digi_heavy_strike_ii",
-                                              "digi_cross_counter"
+                                              "digi_fist_of_ice",
+                                              "digi_ocean_wave_i",
+                                              "digi_agility_charge"
                                             ],
-                                            "Intrinsic": "digi_arcadiamon_champion",
+                                            "Intrinsic": "digi_panjyamon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -25360,7 +25376,7 @@
                               "Spawn": {
                                 "Spawn": {
                                   "BaseForm": {
-                                    "Species": "sangloupmon",
+                                    "Species": "veedramon",
                                     "Form": 0,
                                     "Skin": "normal",
                                     "Gender": -1
@@ -25370,12 +25386,12 @@
                                     "Max": 30
                                   },
                                   "SpecifiedSkills": [
-                                    "digi_sticker_blade",
-                                    "digi_destruction_cannon_ii",
-                                    "digi_nightmare_ii",
-                                    "digi_physical_drain"
+                                    "digi_v_nova_blast",
+                                    "digi_wind_claw_ii",
+                                    "digi_chain_plus",
+                                    "digi_saint_knuckle_ii"
                                   ],
-                                  "Intrinsic": "digi_sangloupmon",
+                                  "Intrinsic": "digi_veedramon",
                                   "Tactic": "wander_smart",
                                   "SpawnConditions": [],
                                   "SpawnFeatures": [
@@ -25852,7 +25868,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "arcadiamon_champion",
+                                      "Species": "cyclonemon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -25862,12 +25878,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_prison_fist",
-                                      "digi_destruction_cannon_ii",
-                                      "digi_heavy_strike_ii",
+                                      "digi_hyper_heat",
+                                      "digi_critical_charge",
+                                      "digi_awesome_quake_i",
                                       "digi_cross_counter"
                                     ],
-                                    "Intrinsic": "digi_arcadiamon_champion",
+                                    "Intrinsic": "digi_cyclonemon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -25889,7 +25905,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "whamon",
+                                      "Species": "ankylomon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -25899,157 +25915,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_tidal_wave",
-                                      "digi_ocean_wave_i",
-                                      "digi_x_heal"
-                                    ],
-                                    "Intrinsic": "digi_whamon",
-                                    "Tactic": "wander_normal",
-                                    "SpawnConditions": [],
-                                    "SpawnFeatures": [
-                                      {
-                                        "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
-                                      },
-                                      {
-                                        "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
-                                        "StartAt": 1,
-                                        "Remove": false
-                                      }
-                                    ]
-                                  },
-                                  "Role": 0
-                                },
-                                "Rate": 10
-                              },
-                              {
-                                "Spawn": {
-                                  "Spawn": {
-                                    "BaseForm": {
-                                      "Species": "wargrowlmon",
-                                      "Form": 0,
-                                      "Skin": "normal",
-                                      "Gender": -1
-                                    },
-                                    "Level": {
-                                      "Min": 25,
-                                      "Max": 25
-                                    },
-                                    "SpecifiedSkills": [
-                                      "digi_atomic_blaster",
-                                      "digi_chain_plus",
-                                      "digi_guard_break"
-                                    ],
-                                    "Intrinsic": "digi_wargrowlmon",
-                                    "Tactic": "wander_normal",
-                                    "SpawnConditions": [],
-                                    "SpawnFeatures": [
-                                      {
-                                        "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
-                                      },
-                                      {
-                                        "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
-                                        "StartAt": 1,
-                                        "Remove": false
-                                      }
-                                    ]
-                                  },
-                                  "Role": 0
-                                },
-                                "Rate": 10
-                              },
-                              {
-                                "Spawn": {
-                                  "Spawn": {
-                                    "BaseForm": {
-                                      "Species": "kabuterimon",
-                                      "Form": 0,
-                                      "Skin": "normal",
-                                      "Gender": -1
-                                    },
-                                    "Level": {
-                                      "Min": 25,
-                                      "Max": 25
-                                    },
-                                    "SpecifiedSkills": [
-                                      "digi_electro_shocker",
-                                      "digi_crescent_leaf_ii",
-                                      "digi_mental_charge",
-                                      "digi_heaven_s_thunder_ii"
-                                    ],
-                                    "Intrinsic": "digi_kabuterimon",
-                                    "Tactic": "wander_normal",
-                                    "SpawnConditions": [],
-                                    "SpawnFeatures": [
-                                      {
-                                        "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
-                                      },
-                                      {
-                                        "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
-                                        "StartAt": 1,
-                                        "Remove": false
-                                      }
-                                    ]
-                                  },
-                                  "Role": 0
-                                },
-                                "Rate": 10
-                              },
-                              {
-                                "Spawn": {
-                                  "Spawn": {
-                                    "BaseForm": {
-                                      "Species": "megakabuterimon",
-                                      "Form": 0,
-                                      "Skin": "normal",
-                                      "Gender": -1
-                                    },
-                                    "Level": {
-                                      "Min": 25,
-                                      "Max": 25
-                                    },
-                                    "SpecifiedSkills": [
-                                      "digi_horn_buster",
-                                      "digi_rune_forest_i",
-                                      "digi_speed_break"
-                                    ],
-                                    "Intrinsic": "digi_megakabuterimon",
-                                    "Tactic": "wander_normal",
-                                    "SpawnConditions": [],
-                                    "SpawnFeatures": [
-                                      {
-                                        "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
-                                      },
-                                      {
-                                        "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
-                                        "StartAt": 1,
-                                        "Remove": false
-                                      }
-                                    ]
-                                  },
-                                  "Role": 0
-                                },
-                                "Rate": 10
-                              },
-                              {
-                                "Spawn": {
-                                  "Spawn": {
-                                    "BaseForm": {
-                                      "Species": "garurumon_blk",
-                                      "Form": 0,
-                                      "Skin": "normal",
-                                      "Gender": -1
-                                    },
-                                    "Level": {
-                                      "Min": 25,
-                                      "Max": 25
-                                    },
-                                    "SpecifiedSkills": [
-                                      "digi_freeze_fang",
-                                      "digi_speed_charge",
+                                      "digi_tail_hammer",
                                       "digi_grand_rock_ii",
-                                      "digi_agility_charge"
+                                      "digi_anti_stun",
+                                      "digi_awesome_quake_i"
                                     ],
-                                    "Intrinsic": "digi_garurumon_blk",
+                                    "Intrinsic": "digi_ankylomon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -26071,7 +25942,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "coelamon",
+                                      "Species": "cyclonemon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -26081,12 +25952,160 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_fossil_bite",
-                                      "digi_ice_archery_ii",
-                                      "digi_chain_minus",
-                                      "digi_heavy_strike_ii"
+                                      "digi_hyper_heat",
+                                      "digi_critical_charge",
+                                      "digi_awesome_quake_i",
+                                      "digi_cross_counter"
                                     ],
-                                    "Intrinsic": "digi_coelamon",
+                                    "Intrinsic": "digi_cyclonemon",
+                                    "Tactic": "wander_normal",
+                                    "SpawnConditions": [],
+                                    "SpawnFeatures": [
+                                      {
+                                        "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
+                                      },
+                                      {
+                                        "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
+                                        "StartAt": 1,
+                                        "Remove": false
+                                      }
+                                    ]
+                                  },
+                                  "Role": 0
+                                },
+                                "Rate": 10
+                              },
+                              {
+                                "Spawn": {
+                                  "Spawn": {
+                                    "BaseForm": {
+                                      "Species": "lopmon",
+                                      "Form": 0,
+                                      "Skin": "normal",
+                                      "Gender": -1
+                                    },
+                                    "Level": {
+                                      "Min": 25,
+                                      "Max": 25
+                                    },
+                                    "SpecifiedSkills": [
+                                      "digi_starter_earth_magic",
+                                      "digi_blazing_ice",
+                                      "digi_grand_rock_i",
+                                      "digi_mental_break"
+                                    ],
+                                    "Intrinsic": "digi_lopmon",
+                                    "Tactic": "wander_normal",
+                                    "SpawnConditions": [],
+                                    "SpawnFeatures": [
+                                      {
+                                        "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
+                                      },
+                                      {
+                                        "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
+                                        "StartAt": 1,
+                                        "Remove": false
+                                      }
+                                    ]
+                                  },
+                                  "Role": 0
+                                },
+                                "Rate": 10
+                              },
+                              {
+                                "Spawn": {
+                                  "Spawn": {
+                                    "BaseForm": {
+                                      "Species": "terriermon",
+                                      "Form": 0,
+                                      "Skin": "normal",
+                                      "Gender": -1
+                                    },
+                                    "Level": {
+                                      "Min": 25,
+                                      "Max": 25
+                                    },
+                                    "SpecifiedSkills": [
+                                      "digi_starter_wind_magic",
+                                      "digi_terrier_tornado",
+                                      "digi_heal",
+                                      "digi_speed_charge"
+                                    ],
+                                    "Intrinsic": "digi_terriermon",
+                                    "Tactic": "wander_normal",
+                                    "SpawnConditions": [],
+                                    "SpawnFeatures": [
+                                      {
+                                        "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
+                                      },
+                                      {
+                                        "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
+                                        "StartAt": 1,
+                                        "Remove": false
+                                      }
+                                    ]
+                                  },
+                                  "Role": 0
+                                },
+                                "Rate": 10
+                              },
+                              {
+                                "Spawn": {
+                                  "Spawn": {
+                                    "BaseForm": {
+                                      "Species": "toyagumon",
+                                      "Form": 0,
+                                      "Skin": "normal",
+                                      "Gender": -1
+                                    },
+                                    "Level": {
+                                      "Min": 25,
+                                      "Max": 25
+                                    },
+                                    "SpecifiedSkills": [
+                                      "digi_starter_neutral_physical",
+                                      "digi_plastic_blaze",
+                                      "digi_power_energy_i",
+                                      "digi_burst_flame_i"
+                                    ],
+                                    "Intrinsic": "digi_toyagumon",
+                                    "Tactic": "wander_normal",
+                                    "SpawnConditions": [],
+                                    "SpawnFeatures": [
+                                      {
+                                        "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
+                                      },
+                                      {
+                                        "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
+                                        "StartAt": 1,
+                                        "Remove": false
+                                      }
+                                    ]
+                                  },
+                                  "Role": 0
+                                },
+                                "Rate": 10
+                              },
+                              {
+                                "Spawn": {
+                                  "Spawn": {
+                                    "BaseForm": {
+                                      "Species": "gotsumon",
+                                      "Form": 0,
+                                      "Skin": "normal",
+                                      "Gender": -1
+                                    },
+                                    "Level": {
+                                      "Min": 25,
+                                      "Max": 25
+                                    },
+                                    "SpecifiedSkills": [
+                                      "digi_starter_earth_physical",
+                                      "digi_rock_fist",
+                                      "digi_guard_charge",
+                                      "digi_comet_hammer_i"
+                                    ],
+                                    "Intrinsic": "digi_gotsumon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -26140,7 +26159,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "rizegreymon",
+                                      "Species": "unimon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -26150,11 +26169,12 @@
                                       "Max": 30
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_trident_revolver",
-                                      "digi_chain_plus",
-                                      "digi_hit_charge"
+                                      "digi_holy_shot",
+                                      "digi_sonic_void_ii",
+                                      "digi_speed_charge",
+                                      "digi_holy_light_ii"
                                     ],
-                                    "Intrinsic": "digi_rizegreymon",
+                                    "Intrinsic": "digi_unimon",
                                     "Tactic": "wander_smart",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -26242,7 +26262,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "grapleomon",
+                                              "Species": "growlmon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -26252,11 +26272,12 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_the_king_of_fists",
-                                              "digi_thunder_fall_i",
-                                              "digi_agility_charge"
+                                              "digi_exhaust_flame",
+                                              "digi_wolkenapalm_ii",
+                                              "digi_comet_hammer_ii",
+                                              "digi_chain_plus"
                                             ],
-                                            "Intrinsic": "digi_grapleomon",
+                                            "Intrinsic": "digi_growlmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -26308,7 +26329,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "icedevimon",
+                                              "Species": "woodmon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -26318,79 +26339,12 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_frozen_claw",
-                                              "digi_ice_archery_ii",
-                                              "digi_spirit_drain",
-                                              "digi_hell_crusher_i"
-                                            ],
-                                            "Intrinsic": "digi_icedevimon",
-                                            "Tactic": "wander_smart",
-                                            "SpawnConditions": [],
-                                            "SpawnFeatures": [
-                                              {
-                                                "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
-                                              },
-                                              {
-                                                "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
-                                                "StartAt": 2,
-                                                "Remove": false
-                                              }
-                                            ]
-                                          },
-                                          "Role": 0
-                                        },
-                                        "Rate": 10
-                                      }
-                                    ],
-                                    "TeamSizes": [
-                                      {
-                                        "Spawn": 1,
-                                        "Rate": 12
-                                      }
-                                    ]
-                                  }
-                                },
-                                "Ally": false,
-                                "ClumpFactor": 25
-                              },
-                              "Rate": 10
-                            },
-                            {
-                              "Spawn": {
-                                "$type": "RogueEssence.LevelGen.PlaceRandomMobsStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], RogueEssence",
-                                "Filters": [],
-                                "IncludeHalls": false,
-                                "Spawn": {
-                                  "$type": "RogueEssence.LevelGen.LoopedTeamSpawner`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], RogueEssence",
-                                  "AmountSpawner": {
-                                    "$type": "RogueElements.RandRange, RogueElements",
-                                    "Min": 2,
-                                    "Max": 2
-                                  },
-                                  "Picker": {
-                                    "$type": "RogueEssence.LevelGen.PoolTeamSpawner, RogueEssence",
-                                    "Explorer": false,
-                                    "Spawns": [
-                                      {
-                                        "Spawn": {
-                                          "Spawn": {
-                                            "BaseForm": {
-                                              "Species": "kabuterimon",
-                                              "Form": 0,
-                                              "Skin": "normal",
-                                              "Gender": -1
-                                            },
-                                            "Level": {
-                                              "Min": 30,
-                                              "Max": 30
-                                            },
-                                            "SpecifiedSkills": [
-                                              "digi_electro_shocker",
+                                              "digi_branch_drain",
+                                              "digi_gaia_element_ii",
                                               "digi_crescent_leaf_ii",
-                                              "digi_mental_charge",
-                                              "digi_heaven_s_thunder_ii"
+                                              "digi_power_energy_ii"
                                             ],
-                                            "Intrinsic": "digi_kabuterimon",
+                                            "Intrinsic": "digi_woodmon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -26442,7 +26396,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "superstarmon",
+                                              "Species": "gargomon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -26452,11 +26406,12 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_superstar_uppercut",
-                                              "digi_shining_laser_i",
-                                              "digi_anti_sleep"
+                                              "digi_dumdum_uppercut",
+                                              "digi_ripping_net",
+                                              "digi_thunder_fall_i",
+                                              "digi_mach_rush_i"
                                             ],
-                                            "Intrinsic": "digi_superstarmon",
+                                            "Intrinsic": "digi_gargomon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -26508,7 +26463,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "wisemon",
+                                              "Species": "rizegreymon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -26518,11 +26473,11 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_pandora_dialogue",
-                                              "digi_hell_crusher_i",
-                                              "digi_mirror_reflection"
+                                              "digi_trident_revolver",
+                                              "digi_chain_plus",
+                                              "digi_hit_charge"
                                             ],
-                                            "Intrinsic": "digi_wisemon",
+                                            "Intrinsic": "digi_rizegreymon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -26574,7 +26529,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "lobomon",
+                                              "Species": "strikedramon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -26584,12 +26539,79 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_zwei_sieger",
-                                              "digi_speed_charge",
-                                              "digi_saint_knuckle_ii",
-                                              "digi_heavy_strike_ii"
+                                              "digi_fang_strike",
+                                              "digi_meteor_fall_i",
+                                              "digi_guard_break",
+                                              "digi_mach_rush_ii"
                                             ],
-                                            "Intrinsic": "digi_lobomon",
+                                            "Intrinsic": "digi_strikedramon",
+                                            "Tactic": "wander_smart",
+                                            "SpawnConditions": [],
+                                            "SpawnFeatures": [
+                                              {
+                                                "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
+                                              },
+                                              {
+                                                "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
+                                                "StartAt": 2,
+                                                "Remove": false
+                                              }
+                                            ]
+                                          },
+                                          "Role": 0
+                                        },
+                                        "Rate": 10
+                                      }
+                                    ],
+                                    "TeamSizes": [
+                                      {
+                                        "Spawn": 1,
+                                        "Rate": 12
+                                      }
+                                    ]
+                                  }
+                                },
+                                "Ally": false,
+                                "ClumpFactor": 25
+                              },
+                              "Rate": 10
+                            },
+                            {
+                              "Spawn": {
+                                "$type": "RogueEssence.LevelGen.PlaceRandomMobsStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], RogueEssence",
+                                "Filters": [],
+                                "IncludeHalls": false,
+                                "Spawn": {
+                                  "$type": "RogueEssence.LevelGen.LoopedTeamSpawner`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], RogueEssence",
+                                  "AmountSpawner": {
+                                    "$type": "RogueElements.RandRange, RogueElements",
+                                    "Min": 2,
+                                    "Max": 2
+                                  },
+                                  "Picker": {
+                                    "$type": "RogueEssence.LevelGen.PoolTeamSpawner, RogueEssence",
+                                    "Explorer": false,
+                                    "Spawns": [
+                                      {
+                                        "Spawn": {
+                                          "Spawn": {
+                                            "BaseForm": {
+                                              "Species": "leomon",
+                                              "Form": 0,
+                                              "Skin": "normal",
+                                              "Gender": -1
+                                            },
+                                            "Level": {
+                                              "Min": 30,
+                                              "Max": 30
+                                            },
+                                            "SpecifiedSkills": [
+                                              "digi_fist_of_the_beast_king",
+                                              "digi_comet_hammer_ii",
+                                              "digi_attack_charge",
+                                              "digi_saint_knuckle_ii"
+                                            ],
+                                            "Intrinsic": "digi_leomon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -27194,7 +27216,7 @@
                               "Spawn": {
                                 "Spawn": {
                                   "BaseForm": {
-                                    "Species": "coelamon",
+                                    "Species": "platinumsukamon",
                                     "Form": 0,
                                     "Skin": "normal",
                                     "Gender": -1
@@ -27204,12 +27226,12 @@
                                     "Max": 30
                                   },
                                   "SpecifiedSkills": [
-                                    "digi_fossil_bite",
-                                    "digi_ice_archery_ii",
-                                    "digi_chain_minus",
-                                    "digi_heavy_strike_ii"
+                                    "digi_rare_metal_poop",
+                                    "digi_anti_bug",
+                                    "digi_mental_break",
+                                    "digi_character_reversal"
                                   ],
-                                  "Intrinsic": "digi_coelamon",
+                                  "Intrinsic": "digi_platinumsukamon",
                                   "Tactic": "wander_smart",
                                   "SpawnConditions": [],
                                   "SpawnFeatures": [
@@ -27686,7 +27708,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "megakabuterimon",
+                                      "Species": "reppamon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -27696,11 +27718,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_horn_buster",
-                                      "digi_rune_forest_i",
-                                      "digi_speed_break"
+                                      "digi_razor_wind",
+                                      "digi_saint_knuckle_ii",
+                                      "digi_shining_laser_i",
+                                      "digi_aura"
                                     ],
-                                    "Intrinsic": "digi_megakabuterimon",
+                                    "Intrinsic": "digi_reppamon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -27722,7 +27745,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "machgaogamon",
+                                      "Species": "gabumon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -27732,11 +27755,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_winning_knuckle",
-                                      "digi_thunder_fall_i",
+                                      "digi_starter_fire_physical",
+                                      "digi_blue_blaster",
+                                      "digi_burst_flame_i",
                                       "digi_anti_stun"
                                     ],
-                                    "Intrinsic": "digi_machgaogamon",
+                                    "Intrinsic": "digi_gabumon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -27758,7 +27782,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "whamon",
+                                      "Species": "gabumon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -27768,11 +27792,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_tidal_wave",
-                                      "digi_ocean_wave_i",
-                                      "digi_x_heal"
+                                      "digi_starter_fire_physical",
+                                      "digi_blue_blaster",
+                                      "digi_burst_flame_i",
+                                      "digi_anti_stun"
                                     ],
-                                    "Intrinsic": "digi_whamon",
+                                    "Intrinsic": "digi_gabumon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -27794,7 +27819,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "pandamon",
+                                      "Species": "ikkakumon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -27804,11 +27829,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_animal_nail",
-                                      "digi_mach_rush_i",
+                                      "digi_harpoon_torpedo",
+                                      "digi_ice_archery_ii",
+                                      "digi_ocean_wave_i",
                                       "digi_heal"
                                     ],
-                                    "Intrinsic": "digi_pandamon",
+                                    "Intrinsic": "digi_ikkakumon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -27830,7 +27856,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "dorugamon",
+                                      "Species": "gabumon_blk",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -27840,12 +27866,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_power_metal",
-                                      "digi_comet_hammer_ii",
-                                      "digi_guard_charge",
-                                      "digi_speed_charge"
+                                      "digi_starter_fire_physical",
+                                      "digi_little_horn",
+                                      "digi_grand_rock_i",
+                                      "digi_anti_panic"
                                     ],
-                                    "Intrinsic": "digi_dorugamon",
+                                    "Intrinsic": "digi_gabumon_blk",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -27867,7 +27893,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "growlmon",
+                                      "Species": "greymon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -27877,12 +27903,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_exhaust_flame",
+                                      "digi_mega_flame",
                                       "digi_wolkenapalm_ii",
-                                      "digi_comet_hammer_ii",
-                                      "digi_chain_plus"
+                                      "digi_heavy_strike_ii",
+                                      "digi_acceleration_boost"
                                     ],
-                                    "Intrinsic": "digi_growlmon",
+                                    "Intrinsic": "digi_greymon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -27904,7 +27930,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "bluemeramon",
+                                      "Species": "veemon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -27914,11 +27940,12 @@
                                       "Max": 25
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_cold_flame",
-                                      "digi_meteor_fall_i",
-                                      "digi_mental_break"
+                                      "digi_starter_neutral_physical",
+                                      "digi_veemon_headbutt",
+                                      "digi_heavy_strike_i",
+                                      "digi_wind_claw_i"
                                     ],
-                                    "Intrinsic": "digi_bluemeramon",
+                                    "Intrinsic": "digi_veemon",
                                     "Tactic": "wander_normal",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -27972,7 +27999,7 @@
                                 "Spawn": {
                                   "Spawn": {
                                     "BaseForm": {
-                                      "Species": "meteormon",
+                                      "Species": "goldnumemon",
                                       "Form": 0,
                                       "Skin": "normal",
                                       "Gender": -1
@@ -27982,11 +28009,12 @@
                                       "Max": 30
                                     },
                                     "SpecifiedSkills": [
-                                      "digi_galactic_flare",
-                                      "digi_awesome_quake_i",
-                                      "digi_meteor_fall_i"
+                                      "digi_golden_rush",
+                                      "digi_antidote",
+                                      "digi_revive",
+                                      "digi_texture_blow"
                                     ],
-                                    "Intrinsic": "digi_meteormon",
+                                    "Intrinsic": "digi_goldnumemon",
                                     "Tactic": "wander_smart",
                                     "SpawnConditions": [],
                                     "SpawnFeatures": [
@@ -28074,7 +28102,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "baohuckmon",
+                                              "Species": "birdramon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -28084,12 +28112,12 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_fif_cross",
-                                              "digi_attack_charge",
-                                              "digi_heavy_strike_ii",
-                                              "digi_meteor_fall_ii"
+                                              "digi_meteor_wing",
+                                              "digi_burst_flame_ii",
+                                              "digi_anti_poison",
+                                              "digi_meteor_fall_i"
                                             ],
-                                            "Intrinsic": "digi_baohuckmon",
+                                            "Intrinsic": "digi_birdramon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -28141,7 +28169,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "aeroveedramon",
+                                              "Species": "devimon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -28151,11 +28179,12 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_dragon_impulse",
-                                              "digi_chain_plus",
-                                              "digi_speed_charge"
+                                              "digi_death_claw",
+                                              "digi_destruction_cannon_ii",
+                                              "digi_physical_drain",
+                                              "digi_hell_crusher_i"
                                             ],
-                                            "Intrinsic": "digi_aeroveedramon",
+                                            "Intrinsic": "digi_devimon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -28207,7 +28236,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "cherrymon",
+                                              "Species": "unimon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -28217,11 +28246,12 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_cherry_bomb",
-                                              "digi_rune_forest_i",
-                                              "digi_physical_drain"
+                                              "digi_holy_shot",
+                                              "digi_sonic_void_ii",
+                                              "digi_speed_charge",
+                                              "digi_holy_light_ii"
                                             ],
-                                            "Intrinsic": "digi_cherrymon",
+                                            "Intrinsic": "digi_unimon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -28273,7 +28303,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "megakabuterimon",
+                                              "Species": "unimon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -28283,11 +28313,12 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_horn_buster",
-                                              "digi_rune_forest_i",
-                                              "digi_speed_break"
+                                              "digi_holy_shot",
+                                              "digi_sonic_void_ii",
+                                              "digi_speed_charge",
+                                              "digi_holy_light_ii"
                                             ],
-                                            "Intrinsic": "digi_megakabuterimon",
+                                            "Intrinsic": "digi_unimon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -28339,7 +28370,7 @@
                                         "Spawn": {
                                           "Spawn": {
                                             "BaseForm": {
-                                              "Species": "guardromon_gold",
+                                              "Species": "monochromon",
                                               "Form": 0,
                                               "Skin": "normal",
                                               "Gender": -1
@@ -28349,79 +28380,79 @@
                                               "Max": 30
                                             },
                                             "SpecifiedSkills": [
-                                              "digi_d_grenade",
-                                              "digi_heaven_s_thunder_ii",
-                                              "digi_mental_charge",
-                                              "digi_thunder_fall_i"
-                                            ],
-                                            "Intrinsic": "digi_guardromon_gold",
-                                            "Tactic": "wander_smart",
-                                            "SpawnConditions": [],
-                                            "SpawnFeatures": [
-                                              {
-                                                "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
-                                              },
-                                              {
-                                                "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
-                                                "StartAt": 2,
-                                                "Remove": false
-                                              }
-                                            ]
-                                          },
-                                          "Role": 0
-                                        },
-                                        "Rate": 10
-                                      }
-                                    ],
-                                    "TeamSizes": [
-                                      {
-                                        "Spawn": 1,
-                                        "Rate": 12
-                                      }
-                                    ]
-                                  }
-                                },
-                                "Ally": false,
-                                "ClumpFactor": 25
-                              },
-                              "Rate": 10
-                            },
-                            {
-                              "Spawn": {
-                                "$type": "RogueEssence.LevelGen.PlaceRandomMobsStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], RogueEssence",
-                                "Filters": [],
-                                "IncludeHalls": false,
-                                "Spawn": {
-                                  "$type": "RogueEssence.LevelGen.LoopedTeamSpawner`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], RogueEssence",
-                                  "AmountSpawner": {
-                                    "$type": "RogueElements.RandRange, RogueElements",
-                                    "Min": 2,
-                                    "Max": 2
-                                  },
-                                  "Picker": {
-                                    "$type": "RogueEssence.LevelGen.PoolTeamSpawner, RogueEssence",
-                                    "Explorer": false,
-                                    "Spawns": [
-                                      {
-                                        "Spawn": {
-                                          "Spawn": {
-                                            "BaseForm": {
-                                              "Species": "icemon",
-                                              "Form": 0,
-                                              "Skin": "normal",
-                                              "Gender": -1
-                                            },
-                                            "Level": {
-                                              "Min": 30,
-                                              "Max": 30
-                                            },
-                                            "SpecifiedSkills": [
-                                              "digi_iceball_bomb",
-                                              "digi_ice_archery_ii",
+                                              "digi_volcanic_strike",
                                               "digi_comet_hammer_ii",
-                                              "digi_ocean_wave_i"
+                                              "digi_acceleration_boost",
+                                              "digi_awesome_quake_i"
                                             ],
-                                            "Intrinsic": "digi_icemon",
+                                            "Intrinsic": "digi_monochromon",
+                                            "Tactic": "wander_smart",
+                                            "SpawnConditions": [],
+                                            "SpawnFeatures": [
+                                              {
+                                                "$type": "PMDC.LevelGen.MobSpawnWeak, PMDC"
+                                              },
+                                              {
+                                                "$type": "PMDC.LevelGen.MobSpawnMovesOff, PMDC",
+                                                "StartAt": 2,
+                                                "Remove": false
+                                              }
+                                            ]
+                                          },
+                                          "Role": 0
+                                        },
+                                        "Rate": 10
+                                      }
+                                    ],
+                                    "TeamSizes": [
+                                      {
+                                        "Spawn": 1,
+                                        "Rate": 12
+                                      }
+                                    ]
+                                  }
+                                },
+                                "Ally": false,
+                                "ClumpFactor": 25
+                              },
+                              "Rate": 10
+                            },
+                            {
+                              "Spawn": {
+                                "$type": "RogueEssence.LevelGen.PlaceRandomMobsStep`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], RogueEssence",
+                                "Filters": [],
+                                "IncludeHalls": false,
+                                "Spawn": {
+                                  "$type": "RogueEssence.LevelGen.LoopedTeamSpawner`1[[RogueEssence.LevelGen.MapGenContext, RogueEssence]], RogueEssence",
+                                  "AmountSpawner": {
+                                    "$type": "RogueElements.RandRange, RogueElements",
+                                    "Min": 2,
+                                    "Max": 2
+                                  },
+                                  "Picker": {
+                                    "$type": "RogueEssence.LevelGen.PoolTeamSpawner, RogueEssence",
+                                    "Explorer": false,
+                                    "Spawns": [
+                                      {
+                                        "Spawn": {
+                                          "Spawn": {
+                                            "BaseForm": {
+                                              "Species": "veedramon",
+                                              "Form": 0,
+                                              "Skin": "normal",
+                                              "Gender": -1
+                                            },
+                                            "Level": {
+                                              "Min": 30,
+                                              "Max": 30
+                                            },
+                                            "SpecifiedSkills": [
+                                              "digi_v_nova_blast",
+                                              "digi_wind_claw_ii",
+                                              "digi_chain_plus",
+                                              "digi_saint_knuckle_ii"
+                                            ],
+                                            "Intrinsic": "digi_veedramon",
                                             "Tactic": "wander_smart",
                                             "SpawnConditions": [],
                                             "SpawnFeatures": [
@@ -29026,7 +29057,7 @@
                               "Spawn": {
                                 "Spawn": {
                                   "BaseForm": {
-                                    "Species": "growlmon",
+                                    "Species": "socerimon",
                                     "Form": 0,
                                     "Skin": "normal",
                                     "Gender": -1
@@ -29036,12 +29067,12 @@
                                     "Max": 30
                                   },
                                   "SpecifiedSkills": [
-                                    "digi_exhaust_flame",
-                                    "digi_wolkenapalm_ii",
-                                    "digi_comet_hammer_ii",
-                                    "digi_chain_plus"
+                                    "digi_crystal_cloud",
+                                    "digi_hydro_water_ii",
+                                    "digi_mirror_reflection",
+                                    "digi_x_heal"
                                   ],
-                                  "Intrinsic": "digi_growlmon",
+                                  "Intrinsic": "digi_socerimon",
                                   "Tactic": "wander_smart",
                                   "SpawnConditions": [],
                                   "SpawnFeatures": [

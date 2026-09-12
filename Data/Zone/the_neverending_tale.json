@@ -2380,7 +2380,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "keramon",
+                      "Species": "motimon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -2390,9 +2390,11 @@
                       "Max": 5
                     },
                     "SpecifiedSkills": [
-                      "digi_crazy_giggle"
+                      "digi_starter_neutral_magic",
+                      "digi_elastic_bubbles",
+                      "digi_power_energy_i"
                     ],
-                    "Intrinsic": "digi_keramon",
+                    "Intrinsic": "digi_motimon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2403,6 +2405,157 @@
                 "Range": {
                   "Min": 0,
                   "Max": 1
+                }
+              },
+              {
+                "Spawn": {
+                  "Spawn": {
+                    "BaseForm": {
+                      "Species": "botamon",
+                      "Form": 0,
+                      "Skin": "normal",
+                      "Gender": -1
+                    },
+                    "Level": {
+                      "Min": 5,
+                      "Max": 5
+                    },
+                    "SpecifiedSkills": [
+                      "digi_starter_neutral_physical",
+                      "digi_bubble_blow"
+                    ],
+                    "Intrinsic": "digi_botamon",
+                    "Tactic": "wander_normal",
+                    "SpawnConditions": [],
+                    "SpawnFeatures": []
+                  },
+                  "Role": 0
+                },
+                "Rate": 10,
+                "Range": {
+                  "Min": 0,
+                  "Max": 1
+                }
+              },
+              {
+                "Spawn": {
+                  "Spawn": {
+                    "BaseForm": {
+                      "Species": "kuramon",
+                      "Form": 0,
+                      "Skin": "normal",
+                      "Gender": -1
+                    },
+                    "Level": {
+                      "Min": 5,
+                      "Max": 5
+                    },
+                    "SpecifiedSkills": [
+                      "digi_starter_neutral_physical",
+                      "digi_glare_eye"
+                    ],
+                    "Intrinsic": "digi_kuramon",
+                    "Tactic": "wander_normal",
+                    "SpawnConditions": [],
+                    "SpawnFeatures": []
+                  },
+                  "Role": 0
+                },
+                "Rate": 10,
+                "Range": {
+                  "Min": 0,
+                  "Max": 1
+                }
+              },
+              {
+                "Spawn": {
+                  "Spawn": {
+                    "BaseForm": {
+                      "Species": "arcadiamon_in_tr",
+                      "Form": 0,
+                      "Skin": "normal",
+                      "Gender": -1
+                    },
+                    "Level": {
+                      "Min": 5,
+                      "Max": 5
+                    },
+                    "SpecifiedSkills": [
+                      "digi_starter_dark_physical",
+                      "digi_data_drain",
+                      "digi_physical_drain"
+                    ],
+                    "Intrinsic": "digi_arcadiamon_in_tr",
+                    "Tactic": "wander_normal",
+                    "SpawnConditions": [],
+                    "SpawnFeatures": []
+                  },
+                  "Role": 0
+                },
+                "Rate": 10,
+                "Range": {
+                  "Min": 0,
+                  "Max": 1
+                }
+              },
+              {
+                "Spawn": {
+                  "Spawn": {
+                    "BaseForm": {
+                      "Species": "punimon",
+                      "Form": 0,
+                      "Skin": "normal",
+                      "Gender": -1
+                    },
+                    "Level": {
+                      "Min": 6,
+                      "Max": 6
+                    },
+                    "SpecifiedSkills": [
+                      "digi_starter_neutral_physical",
+                      "digi_bubble_blow"
+                    ],
+                    "Intrinsic": "digi_punimon",
+                    "Tactic": "wander_normal",
+                    "SpawnConditions": [],
+                    "SpawnFeatures": []
+                  },
+                  "Role": 0
+                },
+                "Rate": 10,
+                "Range": {
+                  "Min": 1,
+                  "Max": 2
+                }
+              },
+              {
+                "Spawn": {
+                  "Spawn": {
+                    "BaseForm": {
+                      "Species": "botamon",
+                      "Form": 0,
+                      "Skin": "normal",
+                      "Gender": -1
+                    },
+                    "Level": {
+                      "Min": 6,
+                      "Max": 6
+                    },
+                    "SpecifiedSkills": [
+                      "digi_starter_neutral_physical",
+                      "digi_bubble_blow"
+                    ],
+                    "Intrinsic": "digi_botamon",
+                    "Tactic": "wander_normal",
+                    "SpawnConditions": [],
+                    "SpawnFeatures": []
+                  },
+                  "Role": 0
+                },
+                "Rate": 10,
+                "Range": {
+                  "Min": 1,
+                  "Max": 2
                 }
               },
               {
@@ -2415,98 +2568,11 @@
                       "Gender": -1
                     },
                     "Level": {
-                      "Min": 5,
-                      "Max": 5
-                    },
-                    "SpecifiedSkills": [
-                      "digi_bubbles",
-                      "digi_wolkenapalm_i"
-                    ],
-                    "Intrinsic": "digi_koromon",
-                    "Tactic": "wander_normal",
-                    "SpawnConditions": [],
-                    "SpawnFeatures": []
-                  },
-                  "Role": 0
-                },
-                "Rate": 10,
-                "Range": {
-                  "Min": 0,
-                  "Max": 1
-                }
-              },
-              {
-                "Spawn": {
-                  "Spawn": {
-                    "BaseForm": {
-                      "Species": "kudamon",
-                      "Form": 0,
-                      "Skin": "normal",
-                      "Gender": -1
-                    },
-                    "Level": {
-                      "Min": 5,
-                      "Max": 5
-                    },
-                    "SpecifiedSkills": [
-                      "digi_blinding_ray"
-                    ],
-                    "Intrinsic": "digi_kudamon",
-                    "Tactic": "wander_normal",
-                    "SpawnConditions": [],
-                    "SpawnFeatures": []
-                  },
-                  "Role": 0
-                },
-                "Rate": 10,
-                "Range": {
-                  "Min": 0,
-                  "Max": 1
-                }
-              },
-              {
-                "Spawn": {
-                  "Spawn": {
-                    "BaseForm": {
-                      "Species": "kuramon",
-                      "Form": 0,
-                      "Skin": "normal",
-                      "Gender": -1
-                    },
-                    "Level": {
-                      "Min": 5,
-                      "Max": 5
-                    },
-                    "SpecifiedSkills": [
-                      "digi_glare_eye"
-                    ],
-                    "Intrinsic": "digi_kuramon",
-                    "Tactic": "wander_normal",
-                    "SpawnConditions": [],
-                    "SpawnFeatures": []
-                  },
-                  "Role": 0
-                },
-                "Rate": 10,
-                "Range": {
-                  "Min": 0,
-                  "Max": 1
-                }
-              },
-              {
-                "Spawn": {
-                  "Spawn": {
-                    "BaseForm": {
-                      "Species": "koromon",
-                      "Form": 0,
-                      "Skin": "normal",
-                      "Gender": -1
-                    },
-                    "Level": {
                       "Min": 6,
                       "Max": 6
                     },
                     "SpecifiedSkills": [
+                      "digi_starter_fire_physical",
                       "digi_bubbles",
                       "digi_wolkenapalm_i"
                     ],
@@ -2527,36 +2593,6 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "kudamon",
-                      "Form": 0,
-                      "Skin": "normal",
-                      "Gender": -1
-                    },
-                    "Level": {
-                      "Min": 6,
-                      "Max": 6
-                    },
-                    "SpecifiedSkills": [
-                      "digi_blinding_ray",
-                      "digi_saint_knuckle_i"
-                    ],
-                    "Intrinsic": "digi_kudamon",
-                    "Tactic": "wander_normal",
-                    "SpawnConditions": [],
-                    "SpawnFeatures": []
-                  },
-                  "Role": 0
-                },
-                "Rate": 10,
-                "Range": {
-                  "Min": 1,
-                  "Max": 2
-                }
-              },
-              {
-                "Spawn": {
-                  "Spawn": {
-                    "BaseForm": {
                       "Species": "kuramon",
                       "Form": 0,
                       "Skin": "normal",
@@ -2567,6 +2603,7 @@
                       "Max": 6
                     },
                     "SpecifiedSkills": [
+                      "digi_starter_neutral_physical",
                       "digi_glare_eye"
                     ],
                     "Intrinsic": "digi_kuramon",
@@ -2586,37 +2623,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "lalamon",
-                      "Form": 0,
-                      "Skin": "normal",
-                      "Gender": -1
-                    },
-                    "Level": {
-                      "Min": 6,
-                      "Max": 6
-                    },
-                    "SpecifiedSkills": [
-                      "digi_seed_blast",
-                      "digi_venom_trap"
-                    ],
-                    "Intrinsic": "digi_lalamon",
-                    "Tactic": "wander_normal",
-                    "SpawnConditions": [],
-                    "SpawnFeatures": []
-                  },
-                  "Role": 0
-                },
-                "Rate": 10,
-                "Range": {
-                  "Min": 1,
-                  "Max": 2
-                }
-              },
-              {
-                "Spawn": {
-                  "Spawn": {
-                    "BaseForm": {
-                      "Species": "kudamon",
+                      "Species": "bukamon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -2626,10 +2633,11 @@
                       "Max": 7
                     },
                     "SpecifiedSkills": [
-                      "digi_blinding_ray",
-                      "digi_saint_knuckle_i"
+                      "digi_starter_water_magic",
+                      "digi_air_bubbles",
+                      "digi_hydro_water_i"
                     ],
-                    "Intrinsic": "digi_kudamon",
+                    "Intrinsic": "digi_bukamon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2646,7 +2654,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "kuramon",
+                      "Species": "tsumemon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -2656,9 +2664,11 @@
                       "Max": 7
                     },
                     "SpecifiedSkills": [
-                      "digi_glare_eye"
+                      "digi_starter_dark_physical",
+                      "digi_nail_scratch",
+                      "digi_destruction_cannon_i"
                     ],
-                    "Intrinsic": "digi_kuramon",
+                    "Intrinsic": "digi_tsumemon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2675,7 +2685,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "lalamon",
+                      "Species": "pabumon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -2685,10 +2695,10 @@
                       "Max": 7
                     },
                     "SpecifiedSkills": [
-                      "digi_seed_blast",
-                      "digi_venom_trap"
+                      "digi_starter_neutral_physical",
+                      "digi_adhesive_bubble_blow"
                     ],
-                    "Intrinsic": "digi_lalamon",
+                    "Intrinsic": "digi_pabumon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
@@ -2705,7 +2715,7 @@
                 "Spawn": {
                   "Spawn": {
                     "BaseForm": {
-                      "Species": "lopmon",
+                      "Species": "tsunomon",
                       "Form": 0,
                       "Skin": "normal",
                       "Gender": -1
@@ -2715,10 +2725,11 @@
                       "Max": 7
                     },
                     "SpecifiedSkills": [
-                      "digi_blazing_ice",
-                      "digi_grand_rock_i"
+                      "digi_starter_earth_physical",
+                      "digi_bubbles",
+                      "digi_comet_hammer_i"
                     ],
-                    "Intrinsic": "digi_lopmon",
+                    "Intrinsic": "digi_tsunomon",
                     "Tactic": "wander_normal",
                     "SpawnConditions": [],
                     "SpawnFeatures": []
