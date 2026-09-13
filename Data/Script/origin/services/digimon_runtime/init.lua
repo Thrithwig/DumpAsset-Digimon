@@ -12,6 +12,7 @@ function Service:NewGame()
   -- Fresh slice saves start with the hub services available; existing dialogue is untouched.
   SV.base_camp.IntroComplete = true
   SV.base_camp.ExpositionComplete = true
+  require('origin.digimon.story_missions').ensure()
   require('origin.digimon.dungeon_access').ensure()
   Passives.team()
   for _,char in ipairs(GAME:GetPlayerPartyTable()) do
@@ -22,6 +23,10 @@ function Service:NewGame()
 end
 
 local function cast(data, name)
+  if name=='base_camp:Noctowl' or name=='guild_hut:Noctowl' or name=='guildmaster_summit:Noctowl' then
+    data:Promote(RogueEssence.Dungeon.MonsterID('clockmon',0,'normal',Gender.Genderless))
+    return
+  end
   if data.BaseForm.Species=='snorlax' or name=='forest_camp:Snorlax' then
     data:Promote(RogueEssence.Dungeon.MonsterID('monzaemon',0,'normal',Gender.Genderless))
     return

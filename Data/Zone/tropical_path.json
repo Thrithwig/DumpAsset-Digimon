@@ -2510,6 +2510,11 @@
         ],
         "ZoneSteps": [
           {
+            "$type": "RogueEssence.LevelGen.ScriptZoneStep, RogueEssence",
+            "Script": "SpawnMissionNpcFromSV",
+            "ArgTable": "{}"
+          },
+          {
             "$type": "PMDC.LevelGen.SaveVarsZoneStep, PMDC",
             "Priority": {
               "str": [
@@ -3413,6 +3418,11 @@
           }
         ],
         "ZoneSteps": [
+          {
+            "$type": "RogueEssence.LevelGen.ScriptZoneStep, RogueEssence",
+            "Script": "SpawnMissionNpcFromSV",
+            "ArgTable": "{}"
+          },
           {
             "$type": "PMDC.LevelGen.FloorNameDropZoneStep, PMDC",
             "DropPriority": {

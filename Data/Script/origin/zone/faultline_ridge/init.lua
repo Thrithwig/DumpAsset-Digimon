@@ -1,4 +1,5 @@
 require 'origin.common'
+local StoryMissions = require 'origin.digimon.story_missions'
 
 local faultline_ridge = {}
 --------------------------------------------------
@@ -33,7 +34,10 @@ function faultline_ridge.ExitSegment(zone, result, rescue, segmentID, mapID)
     COMMON.EndDungeonDay(result, SV.checkpoint.Zone, SV.checkpoint.Segment, SV.checkpoint.Map, SV.checkpoint.Entry)
   else
     if segmentID == 0 then
-      COMMON.UnlockWithFanfare('trickster_woods', true)
+      StoryMissions.on_zone_exit(zone.ID, segmentID, result)
+      if not StoryMissions.gates_unlock(zone.ID) then
+        COMMON.UnlockWithFanfare('trickster_woods', true)
+      end
       COMMON.EndDungeonDay(result, 'guildmaster_island', -1, 3, 0)
     else
       PrintInfo("No exit procedure found!")

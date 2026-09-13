@@ -465,6 +465,7 @@
         "PromoteForm": 0,
         "Element1": "dark",
         "Element2": "none",
+        "DigimonAttribute": "Free",
         "Intrinsic1": "digi_infermon",
         "Intrinsic2": "none",
         "Intrinsic3": "none",

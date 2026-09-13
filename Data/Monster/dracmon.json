@@ -465,6 +465,7 @@
         "PromoteForm": 0,
         "Element1": "dark",
         "Element2": "none",
+        "DigimonAttribute": "Virus",
         "Intrinsic1": "digi_dracmon",
         "Intrinsic2": "none",
         "Intrinsic3": "none",

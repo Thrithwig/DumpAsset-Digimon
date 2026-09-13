@@ -465,6 +465,7 @@
         "PromoteForm": 0,
         "Element1": "water",
         "Element2": "none",
+        "DigimonAttribute": "Vaccine",
         "Intrinsic1": "digi_socerimon",
         "Intrinsic2": "none",
         "Intrinsic3": "none",

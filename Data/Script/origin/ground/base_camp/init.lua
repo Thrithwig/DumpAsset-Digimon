@@ -1,4 +1,5 @@
 require 'origin.common'
+local StoryMissions = require 'origin.digimon.story_missions'
 
 local base_camp = {}
 
@@ -477,22 +478,28 @@ function base_camp.Noctowl_Action(chara, activator)
     SV.base_camp.FirstTalkComplete = true
   end
   
-  local tutorial_choices = {STRINGS:FormatKey("DLG_CHOICE_YES"),
+  if SV.Digimon then StoryMissions.ensure() end
+
+  local tutorial_choices = {"Primary Missions",
+    "Training Maze",
     STRINGS:FormatKey("MENU_INFO"),
     STRINGS:FormatKey("DLG_CHOICE_NO")}
   
   local zone = _DATA.DataIndices[RogueEssence.Data.DataManager.DataType.Zone]:Get('training_maze')
   
-  local result = 2
-  while result == 2 do
-    UI:BeginChoiceMenu(STRINGS:Format(STRINGS.MapStrings['Noctowl_Ask_Tutorial'], zone:GetColoredName()), tutorial_choices, 1, 3)
+  local result = 3
+  while result == 3 do
+    UI:BeginChoiceMenu(STRINGS:Format(STRINGS.MapStrings['Noctowl_Ask_Tutorial'], zone:GetColoredName()), tutorial_choices, 1, 4)
     UI:WaitForChoice()
     result = UI:ChoiceResult()
     if result == 1 then
+      StoryMissions.interact(chara)
+      break
+    elseif result == 2 then
       GAME:FadeOut(false, 20)
       GAME:EnterDungeon('training_maze', 0, 9, 0, RogueEssence.Data.GameProgress.DungeonStakes.None, false, true)
       break
-    elseif result == 3 then
+    elseif result == 4 then
       UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['Noctowl_Tutorial_End']))
       break
     else

@@ -403,6 +403,12 @@ function BATTLE_SCRIPT.SidequestRescueReached(owner, ownerChar, context, args)
   if result then
   
     mission.Complete = COMMON.MISSION_COMPLETE
+    if mission.StoryMission then
+      require('origin.digimon.story_missions').objective_met(tbl.Mission)
+      if mission.StoryObjectiveText ~= nil then
+        UI:WaitShowDialogue(mission.StoryObjectiveText)
+      end
+    end
     
     local poseAction = RogueEssence.Dungeon.CharAnimPose(context.User.CharLoc, context.User.CharDir, 50, 0)
     DUNGEON:CharSetAction(context.User, poseAction)

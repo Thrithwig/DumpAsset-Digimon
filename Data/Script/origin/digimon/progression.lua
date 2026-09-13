@@ -75,6 +75,8 @@ function M.change(character, edge)
   if not ok then return false, 'Target creature data is unavailable.' end
   local fields = {'Level','EXP','HP','MaxHPBonus','AtkBonus','DefBonus','MAtkBonus','MDefBonus','SpeedBonus'}
   local snapshot, old_form, ratio = {}, character.BaseForm, character.HP / character.MaxHP
+  if character.EnsureFormHistory then character:EnsureFormHistory() end
+  local history_count = character.FormHistory and character.FormHistory.Count or 0
   for _, field in ipairs(fields) do snapshot[field] = character[field] end
   local row = M.progress(character)
   local row_copy = {}; for k,v in pairs(row) do row_copy[k]=v end
@@ -107,6 +109,7 @@ function M.change(character, edge)
   if not changed then
     for _, field in ipairs(fields) do character[field]=snapshot[field] end
     character:Promote(old_form)
+    if character.RestoreFormHistory then character:RestoreFormHistory(history_count) end
     character.HP=snapshot.HP
     for k in pairs(row) do row[k]=nil end
     for k,v in pairs(row_copy) do row[k]=v end

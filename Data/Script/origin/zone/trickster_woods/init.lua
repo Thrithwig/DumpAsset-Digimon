@@ -1,4 +1,5 @@
 require 'origin.common'
+local StoryMissions = require 'origin.digimon.story_missions'
 
 local trickster_woods = {}
 --------------------------------------------------
@@ -33,6 +34,7 @@ function trickster_woods.ExitSegment(zone, result, rescue, segmentID, mapID)
     COMMON.EndDungeonDay(result, SV.checkpoint.Zone, SV.checkpoint.Segment, SV.checkpoint.Map, SV.checkpoint.Entry)
   else
     if segmentID == 0 then
+      StoryMissions.on_zone_exit(zone.ID, segmentID, result)
       COMMON.UnlockWithFanfare('deserted_fortress', true)
       COMMON.EndDungeonDay(result, 'guildmaster_island', -1, 4, 0)
     elseif segmentID == 1 then

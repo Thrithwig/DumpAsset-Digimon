@@ -1,4 +1,5 @@
 require 'origin.common'
+local StoryMissions = require 'origin.digimon.story_missions'
 
 local tropical_path = {}
 --------------------------------------------------
@@ -33,6 +34,7 @@ function tropical_path.ExitSegment(zone, result, rescue, segmentID, mapID)
     COMMON.EndDungeonDay(result, SV.checkpoint.Zone, SV.checkpoint.Segment, SV.checkpoint.Map, SV.checkpoint.Entry)
   else
     if segmentID == 0 then
+      StoryMissions.on_zone_exit(zone.ID, segmentID, result)
       COMMON.EndDungeonDay(result, 'guildmaster_island', -1, 3, 0)
     elseif segmentID == 1 then
       COMMON.UnlockWithFanfare('tiny_tunnel', true)

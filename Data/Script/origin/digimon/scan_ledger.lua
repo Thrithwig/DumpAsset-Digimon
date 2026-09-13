@@ -3,7 +3,9 @@ local Ledger = {}
 local Catalog = require 'origin.digimon.catalog'
 
 function Ledger.new()
-  return { version = 1, species = {}, floor_sequence = 0, floor = nil }
+  return { version = 1, species = {}, floor_sequence = 0, floor = nil,
+           StoryMissions = { version = 1, records = {}, current = "",
+                             legacy_access = { faultline = false, trickster = false } } }
 end
 
 function Ledger.valid(state)

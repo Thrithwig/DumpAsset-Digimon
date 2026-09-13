@@ -70,6 +70,10 @@ function UpgradeTools:OnUpgrade()
 	  FinishedMissions = { },
 	}
   end
+
+  if SV.Digimon ~= nil then
+    require('origin.digimon.story_missions').ensure()
+  end
   
   
   if SV.unlocked_trades ~= nil then
