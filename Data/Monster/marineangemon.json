@@ -1289,7 +1289,10 @@
             111
           ]
         ],
-        "Family_Type": "Fairy"
+        "Family_Types": [
+          "Fairy",
+          "Pixie"
+        ]
       }
     ]
   }

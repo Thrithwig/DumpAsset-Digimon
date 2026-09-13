@@ -1285,7 +1285,9 @@
             92
           ]
         ],
-        "Family_Type": "Mutant"
+        "Family_Types": [
+          "Mutant"
+        ]
       }
     ]
   }

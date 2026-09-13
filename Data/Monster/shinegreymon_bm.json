@@ -1289,7 +1289,9 @@
             119
           ]
         ],
-        "Family_Type": "Light Dragon"
+        "Family_Types": [
+          "Light Dragon"
+        ]
       }
     ]
   }

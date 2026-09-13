@@ -1281,7 +1281,9 @@
             78
           ]
         ],
-        "Family_Type": "Reptile"
+        "Family_Types": [
+          "Reptile"
+        ]
       }
     ]
   }

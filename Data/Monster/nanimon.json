@@ -1281,7 +1281,9 @@
             65
           ]
         ],
-        "Family_Type": "Invader"
+        "Family_Types": [
+          "Invader"
+        ]
       }
     ]
   }

@@ -1281,7 +1281,10 @@
             66
           ]
         ],
-        "Family_Type": "Aquatic"
+        "Family_Types": [
+          "Aquatic",
+          "Crustacean"
+        ]
       }
     ]
   }

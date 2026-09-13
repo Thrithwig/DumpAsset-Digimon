@@ -1281,7 +1281,10 @@
             85
           ]
         ],
-        "Family_Type": "Evil"
+        "Family_Types": [
+          "Evil",
+          "Reptile"
+        ]
       }
     ]
   }

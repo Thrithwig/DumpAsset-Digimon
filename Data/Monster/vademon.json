@@ -1285,7 +1285,9 @@
             76
           ]
         ],
-        "Family_Type": "Alien"
+        "Family_Types": [
+          "Alien"
+        ]
       }
     ]
   }

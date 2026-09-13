@@ -1281,7 +1281,9 @@
             88
           ]
         ],
-        "Family_Type": "Warrior"
+        "Family_Types": [
+          "Warrior"
+        ]
       }
     ]
   }

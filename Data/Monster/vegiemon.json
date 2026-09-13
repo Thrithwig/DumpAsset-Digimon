@@ -1281,7 +1281,10 @@
             71
           ]
         ],
-        "Family_Type": "Carnivorous Plant"
+        "Family_Types": [
+          "Carnivorous Plant",
+          "Vegetation"
+        ]
       }
     ]
   }

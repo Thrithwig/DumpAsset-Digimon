@@ -1281,7 +1281,9 @@
             86
           ]
         ],
-        "Family_Type": "Evil"
+        "Family_Types": [
+          "Evil"
+        ]
       }
     ]
   }

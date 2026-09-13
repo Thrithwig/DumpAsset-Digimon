@@ -1285,7 +1285,9 @@
             114
           ]
         ],
-        "Family_Type": "Sky Dragon"
+        "Family_Types": [
+          "Sky Dragon"
+        ]
       }
     ]
   }

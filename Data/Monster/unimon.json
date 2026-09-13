@@ -1281,7 +1281,11 @@
             94
           ]
         ],
-        "Family_Type": "Composite"
+        "Family_Types": [
+          "Composite",
+          "Mythical Animal",
+          "Mythical Beast"
+        ]
       }
     ]
   }

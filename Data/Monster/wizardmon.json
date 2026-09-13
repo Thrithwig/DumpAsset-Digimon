@@ -1281,7 +1281,9 @@
             94
           ]
         ],
-        "Family_Type": "Wizard"
+        "Family_Types": [
+          "Wizard"
+        ]
       }
     ]
   }

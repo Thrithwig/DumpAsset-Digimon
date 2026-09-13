@@ -1273,7 +1273,9 @@
             67
           ]
         ],
-        "Family_Type": "Slime"
+        "Family_Types": [
+          "Slime"
+        ]
       }
     ]
   }

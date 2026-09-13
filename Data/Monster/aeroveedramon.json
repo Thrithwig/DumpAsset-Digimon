@@ -1285,7 +1285,9 @@
             111
           ]
         ],
-        "Family_Type": "Holy Dragon"
+        "Family_Types": [
+          "Holy Dragon"
+        ]
       }
     ]
   }

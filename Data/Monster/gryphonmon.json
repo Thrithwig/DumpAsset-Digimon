@@ -1289,7 +1289,10 @@
             121
           ]
         ],
-        "Family_Type": "Mythical Animal"
+        "Family_Types": [
+          "Mythical Animal",
+          "Mythical Beast"
+        ]
       }
     ]
   }

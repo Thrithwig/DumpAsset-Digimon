@@ -1289,7 +1289,9 @@
             92
           ]
         ],
-        "Family_Type": "Cyborg"
+        "Family_Types": [
+          "Cyborg"
+        ]
       }
     ]
   }

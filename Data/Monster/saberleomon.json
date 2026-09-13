@@ -1289,7 +1289,9 @@
             116
           ]
         ],
-        "Family_Type": "Ancient Animal"
+        "Family_Types": [
+          "Ancient Animal"
+        ]
       }
     ]
   }

@@ -1285,7 +1285,10 @@
             86
           ]
         ],
-        "Family_Type": "Fire"
+        "Family_Types": [
+          "Fire",
+          "Flame"
+        ]
       }
     ]
   }

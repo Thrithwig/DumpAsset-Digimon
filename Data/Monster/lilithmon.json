@@ -1289,7 +1289,9 @@
             121
           ]
         ],
-        "Family_Type": "Demon Lord"
+        "Family_Types": [
+          "Demon Lord"
+        ]
       }
     ]
   }

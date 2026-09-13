@@ -1293,7 +1293,9 @@
             129
           ]
         ],
-        "Family_Type": "Unique"
+        "Family_Types": [
+          "Unique"
+        ]
       }
     ]
   }

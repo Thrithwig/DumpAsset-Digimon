@@ -1289,7 +1289,9 @@
             114
           ]
         ],
-        "Family_Type": "Evil Dragon"
+        "Family_Types": [
+          "Evil Dragon"
+        ]
       }
     ]
   }

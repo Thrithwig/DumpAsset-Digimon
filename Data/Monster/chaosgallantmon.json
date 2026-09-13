@@ -1293,7 +1293,10 @@
             102
           ]
         ],
-        "Family_Type": "Dark Knight"
+        "Family_Types": [
+          "Dark Knight",
+          "Dark Warrior"
+        ]
       }
     ]
   }

@@ -1281,7 +1281,10 @@
             94
           ]
         ],
-        "Family_Type": "Beast Dragon"
+        "Family_Types": [
+          "Beast Dragon",
+          "Dragon"
+        ]
       }
     ]
   }

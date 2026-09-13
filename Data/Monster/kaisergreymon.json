@@ -1289,7 +1289,9 @@
             99
           ]
         ],
-        "Family_Type": "Dragon Warrior"
+        "Family_Types": [
+          "Dragon Warrior"
+        ]
       }
     ]
   }

@@ -1289,7 +1289,10 @@
             111
           ]
         ],
-        "Family_Type": "Ancient Dragon"
+        "Family_Types": [
+          "Ancient Dragon",
+          "Ancient Dragonkin"
+        ]
       }
     ]
   }

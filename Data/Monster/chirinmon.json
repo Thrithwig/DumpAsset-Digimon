@@ -1285,7 +1285,9 @@
             121
           ]
         ],
-        "Family_Type": "Holy Beast"
+        "Family_Types": [
+          "Holy Beast"
+        ]
       }
     ]
   }

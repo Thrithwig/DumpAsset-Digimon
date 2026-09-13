@@ -1281,7 +1281,9 @@
             84
           ]
         ],
-        "Family_Type": "Dark Dragon"
+        "Family_Types": [
+          "Dark Dragon"
+        ]
       }
     ]
   }

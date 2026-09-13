@@ -1289,7 +1289,9 @@
             87
           ]
         ],
-        "Family_Type": "Angel"
+        "Family_Types": [
+          "Angel"
+        ]
       }
     ]
   }

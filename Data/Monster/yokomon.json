@@ -1277,7 +1277,10 @@
             62
           ]
         ],
-        "Family_Type": "Bulb"
+        "Family_Types": [
+          "Bulb",
+          "Lesser"
+        ]
       }
     ]
   }

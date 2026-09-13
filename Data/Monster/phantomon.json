@@ -1285,7 +1285,9 @@
             104
           ]
         ],
-        "Family_Type": "Ghost"
+        "Family_Types": [
+          "Ghost"
+        ]
       }
     ]
   }

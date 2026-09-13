@@ -1285,7 +1285,10 @@
             79
           ]
         ],
-        "Family_Type": "Aquabeast"
+        "Family_Types": [
+          "Aquabeast",
+          "Sea Animal"
+        ]
       }
     ]
   }

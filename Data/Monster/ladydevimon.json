@@ -1285,7 +1285,10 @@
             106
           ]
         ],
-        "Family_Type": "Evil"
+        "Family_Types": [
+          "Evil",
+          "Fallen Angel"
+        ]
       }
     ]
   }

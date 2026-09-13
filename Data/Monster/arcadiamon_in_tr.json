@@ -1277,7 +1277,9 @@
             81
           ]
         ],
-        "Family_Type": "Mysterious Beast"
+        "Family_Types": [
+          "Mysterious Beast"
+        ]
       }
     ]
   }

@@ -1281,7 +1281,10 @@
             67
           ]
         ],
-        "Family_Type": "Mineral"
+        "Family_Types": [
+          "Mineral",
+          "Rock"
+        ]
       }
     ]
   }

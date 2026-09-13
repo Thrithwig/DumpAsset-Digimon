@@ -1289,7 +1289,9 @@
             97
           ]
         ],
-        "Family_Type": "Holy Sword"
+        "Family_Types": [
+          "Holy Sword"
+        ]
       }
     ]
   }

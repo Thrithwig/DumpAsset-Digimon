@@ -1281,7 +1281,9 @@
             78
           ]
         ],
-        "Family_Type": "Bird"
+        "Family_Types": [
+          "Bird"
+        ]
       }
     ]
   }

@@ -1281,7 +1281,10 @@
             83
           ]
         ],
-        "Family_Type": "Abnormal"
+        "Family_Types": [
+          "Abnormal",
+          "Mutant"
+        ]
       }
     ]
   }

@@ -1289,7 +1289,9 @@
             117
           ]
         ],
-        "Family_Type": "Beast Knight"
+        "Family_Types": [
+          "Beast Knight"
+        ]
       }
     ]
   }

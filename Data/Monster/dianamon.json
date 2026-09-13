@@ -1289,7 +1289,9 @@
             126
           ]
         ],
-        "Family_Type": "Shaman"
+        "Family_Types": [
+          "Shaman"
+        ]
       }
     ]
   }

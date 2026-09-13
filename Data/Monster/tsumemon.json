@@ -1277,7 +1277,9 @@
             81
           ]
         ],
-        "Family_Type": "Unidentified"
+        "Family_Types": [
+          "Unidentified"
+        ]
       }
     ]
   }

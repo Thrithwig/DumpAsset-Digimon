@@ -1285,7 +1285,9 @@
             89
           ]
         ],
-        "Family_Type": "Flame"
+        "Family_Types": [
+          "Flame"
+        ]
       }
     ]
   }

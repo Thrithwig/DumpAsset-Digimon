@@ -1281,7 +1281,9 @@
             64
           ]
         ],
-        "Family_Type": "Mollusk"
+        "Family_Types": [
+          "Mollusk"
+        ]
       }
     ]
   }

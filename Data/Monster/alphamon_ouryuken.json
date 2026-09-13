@@ -1289,7 +1289,9 @@
             109
           ]
         ],
-        "Family_Type": "Holy Warrior"
+        "Family_Types": [
+          "Holy Warrior"
+        ]
       }
     ]
   }

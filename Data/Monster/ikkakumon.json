@@ -1281,7 +1281,10 @@
             72
           ]
         ],
-        "Family_Type": "Sea Animal"
+        "Family_Types": [
+          "Sea Animal",
+          "Sea Beast"
+        ]
       }
     ]
   }

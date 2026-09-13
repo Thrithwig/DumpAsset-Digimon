@@ -1285,7 +1285,10 @@
             78
           ]
         ],
-        "Family_Type": "Aquatic"
+        "Family_Types": [
+          "Aquatic",
+          "Sea Animal"
+        ]
       }
     ]
   }

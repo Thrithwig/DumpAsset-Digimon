@@ -1281,7 +1281,9 @@
             79
           ]
         ],
-        "Family_Type": "Dark Animal"
+        "Family_Types": [
+          "Dark Animal"
+        ]
       }
     ]
   }

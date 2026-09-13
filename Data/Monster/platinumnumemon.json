@@ -1289,7 +1289,10 @@
             109
           ]
         ],
-        "Family_Type": "Mollusk"
+        "Family_Types": [
+          "Mollusk",
+          "Mutant"
+        ]
       }
     ]
   }

@@ -1289,7 +1289,9 @@
             89
           ]
         ],
-        "Family_Type": "Machine"
+        "Family_Types": [
+          "Machine"
+        ]
       }
     ]
   }

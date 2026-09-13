@@ -1285,7 +1285,9 @@
             89
           ]
         ],
-        "Family_Type": "Insectoid"
+        "Family_Types": [
+          "Insectoid"
+        ]
       }
     ]
   }

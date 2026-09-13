@@ -1281,7 +1281,9 @@
             73
           ]
         ],
-        "Family_Type": "Mini Dragon"
+        "Family_Types": [
+          "Mini Dragon"
+        ]
       }
     ]
   }

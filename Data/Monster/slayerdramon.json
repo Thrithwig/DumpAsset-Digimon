@@ -1289,7 +1289,9 @@
             109
           ]
         ],
-        "Family_Type": "Dragonkin"
+        "Family_Types": [
+          "Dragonkin"
+        ]
       }
     ]
   }

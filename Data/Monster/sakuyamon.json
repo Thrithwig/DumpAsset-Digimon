@@ -1289,7 +1289,10 @@
             121
           ]
         ],
-        "Family_Type": "Shaman"
+        "Family_Types": [
+          "Shaman",
+          "Wizard"
+        ]
       }
     ]
   }

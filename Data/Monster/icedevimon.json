@@ -1281,7 +1281,9 @@
             76
           ]
         ],
-        "Family_Type": "Fallen Angel"
+        "Family_Types": [
+          "Fallen Angel"
+        ]
       }
     ]
   }

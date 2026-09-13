@@ -1281,7 +1281,9 @@
             66
           ]
         ],
-        "Family_Type": "Amphibian"
+        "Family_Types": [
+          "Amphibian"
+        ]
       }
     ]
   }

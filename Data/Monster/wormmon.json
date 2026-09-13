@@ -1281,7 +1281,9 @@
             60
           ]
         ],
-        "Family_Type": "Larva"
+        "Family_Types": [
+          "Larva"
+        ]
       }
     ]
   }

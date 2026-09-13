@@ -1289,7 +1289,11 @@
             92
           ]
         ],
-        "Family_Type": "Android"
+        "Family_Types": [
+          "Android",
+          "Aquatic",
+          "Cyborg"
+        ]
       }
     ]
   }

@@ -1289,7 +1289,10 @@
             92
           ]
         ],
-        "Family_Type": "Dragon"
+        "Family_Types": [
+          "Dragon",
+          "Plesiosaur"
+        ]
       }
     ]
   }

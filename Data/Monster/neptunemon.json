@@ -1289,7 +1289,10 @@
             94
           ]
         ],
-        "Family_Type": "Aquatic"
+        "Family_Types": [
+          "Aquatic",
+          "Shaman"
+        ]
       }
     ]
   }

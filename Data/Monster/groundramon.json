@@ -1285,7 +1285,9 @@
             82
           ]
         ],
-        "Family_Type": "Earth Dragon"
+        "Family_Types": [
+          "Earth Dragon"
+        ]
       }
     ]
   }

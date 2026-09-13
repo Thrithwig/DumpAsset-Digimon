@@ -1281,7 +1281,9 @@
             61
           ]
         ],
-        "Family_Type": "Mammal"
+        "Family_Types": [
+          "Mammal"
+        ]
       }
     ]
   }

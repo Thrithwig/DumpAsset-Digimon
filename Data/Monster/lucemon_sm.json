@@ -1289,7 +1289,10 @@
             114
           ]
         ],
-        "Family_Type": "Demon God"
+        "Family_Types": [
+          "Demon God",
+          "Wizard"
+        ]
       }
     ]
   }

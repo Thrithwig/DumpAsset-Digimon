@@ -1289,7 +1289,10 @@
             94
           ]
         ],
-        "Family_Type": "Machine Dragon"
+        "Family_Types": [
+          "Machine Dragon",
+          "Undead"
+        ]
       }
     ]
   }

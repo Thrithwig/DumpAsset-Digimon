@@ -1277,7 +1277,9 @@
             82
           ]
         ],
-        "Family_Type": "Lesser"
+        "Family_Types": [
+          "Lesser"
+        ]
       }
     ]
   }

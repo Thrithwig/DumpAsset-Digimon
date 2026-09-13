@@ -1289,7 +1289,9 @@
             99
           ]
         ],
-        "Family_Type": "Beastkin"
+        "Family_Types": [
+          "Beastkin"
+        ]
       }
     ]
   }

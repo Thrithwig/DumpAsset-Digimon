@@ -1281,7 +1281,10 @@
             76
           ]
         ],
-        "Family_Type": "Ankylosaur"
+        "Family_Types": [
+          "Ankylosaur",
+          "Dinosaur"
+        ]
       }
     ]
   }

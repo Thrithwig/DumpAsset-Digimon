@@ -1281,7 +1281,10 @@
             72
           ]
         ],
-        "Family_Type": "Ice-Snow"
+        "Family_Types": [
+          "Ice-Snow",
+          "Wizard"
+        ]
       }
     ]
   }

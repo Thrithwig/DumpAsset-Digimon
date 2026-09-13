@@ -1285,7 +1285,11 @@
             104
           ]
         ],
-        "Family_Type": "Android"
+        "Family_Types": [
+          "Android",
+          "Cyborg",
+          "Warrior"
+        ]
       }
     ]
   }

@@ -1285,7 +1285,10 @@
             79
           ]
         ],
-        "Family_Type": "Ceratopsian"
+        "Family_Types": [
+          "Ceratopsian",
+          "Dinosaur"
+        ]
       }
     ]
   }

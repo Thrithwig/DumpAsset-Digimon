@@ -1285,7 +1285,9 @@
             78
           ]
         ],
-        "Family_Type": "Perfect"
+        "Family_Types": [
+          "Perfect"
+        ]
       }
     ]
   }

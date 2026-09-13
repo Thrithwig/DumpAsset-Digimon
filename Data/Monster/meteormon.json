@@ -1285,7 +1285,9 @@
             69
           ]
         ],
-        "Family_Type": "Rock"
+        "Family_Types": [
+          "Rock"
+        ]
       }
     ]
   }

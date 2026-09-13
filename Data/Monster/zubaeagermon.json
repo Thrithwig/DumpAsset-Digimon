@@ -1281,7 +1281,9 @@
             85
           ]
         ],
-        "Family_Type": "Weapon"
+        "Family_Types": [
+          "Weapon"
+        ]
       }
     ]
   }

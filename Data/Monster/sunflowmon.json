@@ -1281,7 +1281,9 @@
             70
           ]
         ],
-        "Family_Type": "Vegetation"
+        "Family_Types": [
+          "Vegetation"
+        ]
       }
     ]
   }

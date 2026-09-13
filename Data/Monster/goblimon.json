@@ -1281,7 +1281,10 @@
             72
           ]
         ],
-        "Family_Type": "Demon"
+        "Family_Types": [
+          "Demon",
+          "Evil"
+        ]
       }
     ]
   }

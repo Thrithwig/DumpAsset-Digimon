@@ -1289,7 +1289,12 @@
             87
           ]
         ],
-        "Family_Type": "Android"
+        "Family_Types": [
+          "Android",
+          "Composite",
+          "Cyborg",
+          "Machine"
+        ]
       }
     ]
   }

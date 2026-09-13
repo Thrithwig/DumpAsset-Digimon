@@ -1293,7 +1293,9 @@
             121
           ]
         ],
-        "Family_Type": "Puppet"
+        "Family_Types": [
+          "Puppet"
+        ]
       }
     ]
   }

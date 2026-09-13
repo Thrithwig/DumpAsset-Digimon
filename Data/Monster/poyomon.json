@@ -1273,7 +1273,10 @@
             78
           ]
         ],
-        "Family_Type": "Jellyfish"
+        "Family_Types": [
+          "Jellyfish",
+          "Slime"
+        ]
       }
     ]
   }

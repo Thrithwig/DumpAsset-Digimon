@@ -1281,7 +1281,10 @@
             72
           ]
         ],
-        "Family_Type": "Animal"
+        "Family_Types": [
+          "Animal",
+          "Beast"
+        ]
       }
     ]
   }

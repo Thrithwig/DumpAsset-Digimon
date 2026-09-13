@@ -1281,7 +1281,9 @@
             82
           ]
         ],
-        "Family_Type": "Dinosaur"
+        "Family_Types": [
+          "Dinosaur"
+        ]
       }
     ]
   }

@@ -1285,7 +1285,9 @@
             111
           ]
         ],
-        "Family_Type": "Mythical Beast"
+        "Family_Types": [
+          "Mythical Beast"
+        ]
       }
     ]
   }
