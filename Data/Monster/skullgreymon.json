@@ -1287,7 +1287,6 @@
         ],
         "Family_Types": [
           "Ghost",
-          "Skeleton",
           "Undead"
         ]
       }
