@@ -1085,6 +1085,11 @@ function base_camp_2.Compute_Swap_Catalog()
 	local base_data = COMMON_GEN.TRADES[ii]
 	table.insert(catalog, base_data)
   end
+  --Digimon family items: three-star treasures for the family's lower tiers
+  local ok, digimon_trades = pcall(require, 'origin.digimon.family_trades')
+  if ok and type(digimon_trades) == 'table' then
+    for _, trade in ipairs(digimon_trades) do table.insert(catalog, trade) end
+  end
   
   --random trades
   for ii = 1, #SV.base_trades, 1 do

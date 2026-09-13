@@ -2409,6 +2409,3834 @@
 "Comment": "",
 "SortOrder": 16
 },
+"digixcl_android_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Alloy Casing",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Android tier 1",
+"SortOrder": 17
+},
+"digixcl_android_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Coolant Line",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Android tier 1",
+"SortOrder": 17
+},
+"digixcl_android_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Gyro Stabilizer",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Android tier 2",
+"SortOrder": 17
+},
+"digixcl_android_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Pulse Emitter",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Android tier 2",
+"SortOrder": 17
+},
+"digixcl_android_05": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Bastion Frame",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Android tier 3",
+"SortOrder": 17
+},
+"digixcl_angel_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Vigilant Feather",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Angel tier 1",
+"SortOrder": 17
+},
+"digixcl_angel_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Halo Ring",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Angel tier 2",
+"SortOrder": 17
+},
+"digixcl_angel_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Judgment Bell",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Angel tier 2",
+"SortOrder": 17
+},
+"digixcl_angel_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Grace of Heaven",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Angel tier 3",
+"SortOrder": 17
+},
+"digixcl_animal_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Keen Nose",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Animal tier 1",
+"SortOrder": 17
+},
+"digixcl_animal_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Digging Claws",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Animal tier 1",
+"SortOrder": 17
+},
+"digixcl_animal_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Trail Collar",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Animal tier 2",
+"SortOrder": 17
+},
+"digixcl_animal_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Pounce Pads",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Animal tier 2",
+"SortOrder": 17
+},
+"digixcl_animal_05": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Wild Instinct",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Animal tier 3",
+"SortOrder": 17
+},
+"digixcl_aquatic_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Coral Charm",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Aquatic tier 1",
+"SortOrder": 17
+},
+"digixcl_aquatic_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Bubble Pearl",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Aquatic tier 2",
+"SortOrder": 17
+},
+"digixcl_aquatic_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Abyssal Pearl",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Aquatic tier 3",
+"SortOrder": 17
+},
+"digixcl_beastkin_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Fang Necklace",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Beastkin tier 1",
+"SortOrder": 17
+},
+"digixcl_beastkin_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Sprinter's Anklet",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Beastkin tier 2",
+"SortOrder": 17
+},
+"digixcl_beastkin_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Roaring Mane",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Beastkin tier 2",
+"SortOrder": 17
+},
+"digixcl_beastkin_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "King's Mane",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Beastkin tier 3",
+"SortOrder": 17
+},
+"digixcl_beast_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Foraging Pouch",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Beast tier 1",
+"SortOrder": 17
+},
+"digixcl_beast_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Scent Ribbon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Beast tier 1",
+"SortOrder": 17
+},
+"digixcl_beast_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Rookie's Pluck",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Beast tier 2",
+"SortOrder": 17
+},
+"digixcl_beast_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Springy Fur",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Beast tier 2",
+"SortOrder": 17
+},
+"digixcl_beast_05": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Pack Whistle",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Beast tier 3",
+"SortOrder": 17
+},
+"digixcl_bird_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Wind Vane",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Bird tier 1",
+"SortOrder": 17
+},
+"digixcl_bird_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Gale Talon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Bird tier 2",
+"SortOrder": 17
+},
+"digixcl_bird_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Stormcaller Plume",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Bird tier 3",
+"SortOrder": 17
+},
+"digixcl_cyborg_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Surge Guard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Cyborg tier 1",
+"SortOrder": 17
+},
+"digixcl_cyborg_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Optic Sight",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Cyborg tier 1",
+"SortOrder": 17
+},
+"digixcl_cyborg_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Grounding Spike",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Cyborg tier 2",
+"SortOrder": 17
+},
+"digixcl_cyborg_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Reactive Armor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Cyborg tier 2",
+"SortOrder": 17
+},
+"digixcl_cyborg_05": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Full Burst Array",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Cyborg tier 3",
+"SortOrder": 17
+},
+"digixcl_demon_lord_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Pride Ring",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Demon Lord tier 1",
+"SortOrder": 17
+},
+"digixcl_demon_lord_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Gluttony Fang",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Demon Lord tier 2",
+"SortOrder": 17
+},
+"digixcl_demon_lord_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Crown of Seven Sins",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Demon Lord tier 3",
+"SortOrder": 17
+},
+"digixcl_dragonkin_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Spark Bracer",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragonkin tier 1",
+"SortOrder": 17
+},
+"digixcl_dragonkin_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Dragon Drive",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragonkin tier 2",
+"SortOrder": 17
+},
+"digixcl_dragonkin_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Rush Scarf",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragonkin tier 2",
+"SortOrder": 17
+},
+"digixcl_dragonkin_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Imperial Emblem",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragonkin tier 3",
+"SortOrder": 17
+},
+"digixcl_dragonling_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Nipping Fang",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragonling tier 1",
+"SortOrder": 17
+},
+"digixcl_dragonling_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Growth Charm",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragonling tier 2",
+"SortOrder": 17
+},
+"digixcl_dragonling_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Hot Breath",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragonling tier 2",
+"SortOrder": 17
+},
+"digixcl_dragonling_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Ember Scale",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragonling tier 3",
+"SortOrder": 17
+},
+"digixcl_dragon_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Ember Whisker",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragon tier 1",
+"SortOrder": 17
+},
+"digixcl_dragon_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Drake Claw",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragon tier 1",
+"SortOrder": 17
+},
+"digixcl_dragon_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Wyrm Crest",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragon tier 2",
+"SortOrder": 17
+},
+"digixcl_dragon_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Furnace Heart",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragon tier 2",
+"SortOrder": 17
+},
+"digixcl_dragon_05": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Rampart Breaker",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Dragon tier 3",
+"SortOrder": 17
+},
+"digixcl_elemental_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Core Shard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Elemental tier 1",
+"SortOrder": 17
+},
+"digixcl_elemental_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Elemental Prism",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Elemental tier 2",
+"SortOrder": 17
+},
+"digixcl_elemental_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Molten Heart",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Elemental tier 3",
+"SortOrder": 17
+},
+"digixcl_evil_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Wicked Grin",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Evil tier 1",
+"SortOrder": 17
+},
+"digixcl_evil_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Vengeful Pact",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Evil tier 2",
+"SortOrder": 17
+},
+"digixcl_evil_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Shadow Cloak",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Evil tier 2",
+"SortOrder": 17
+},
+"digixcl_evil_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Carnage Talon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Evil tier 3",
+"SortOrder": 17
+},
+"digixcl_fairy_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Fae Ribbon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Fairy tier 1",
+"SortOrder": 17
+},
+"digixcl_fairy_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Rose Whip",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Fairy tier 2",
+"SortOrder": 17
+},
+"digixcl_fairy_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Blossom Tiara",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Fairy tier 3",
+"SortOrder": 17
+},
+"digixcl_ghost_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Wisp Lantern",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Ghost tier 1",
+"SortOrder": 17
+},
+"digixcl_ghost_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Spectral Chain",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Ghost tier 2",
+"SortOrder": 17
+},
+"digixcl_ghost_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Veil of the Departed",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Ghost tier 3",
+"SortOrder": 17
+},
+"digixcl_holy_warrior_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Knight's Oath",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Holy Warrior tier 1",
+"SortOrder": 17
+},
+"digixcl_holy_warrior_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Vigil Lantern",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Holy Warrior tier 1",
+"SortOrder": 17
+},
+"digixcl_holy_warrior_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Paladin's Plate",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Holy Warrior tier 2",
+"SortOrder": 17
+},
+"digixcl_holy_warrior_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Aegis Mantle",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Holy Warrior tier 2",
+"SortOrder": 17
+},
+"digixcl_holy_warrior_05": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Grail of Valor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Holy Warrior tier 3",
+"SortOrder": 17
+},
+"digixcl_insectoid_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Venom Gland",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Insectoid tier 1",
+"SortOrder": 17
+},
+"digixcl_insectoid_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Antenna Band",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Insectoid tier 1",
+"SortOrder": 17
+},
+"digixcl_insectoid_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Stinger",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Insectoid tier 2",
+"SortOrder": 17
+},
+"digixcl_insectoid_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Swarm Wings",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Insectoid tier 2",
+"SortOrder": 17
+},
+"digixcl_insectoid_05": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Silk Spinner",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Insectoid tier 3",
+"SortOrder": 17
+},
+"digixcl_lesser_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Bubble Wrap",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Lesser tier 1",
+"SortOrder": 17
+},
+"digixcl_lesser_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Bouncy Ball",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Lesser tier 2",
+"SortOrder": 17
+},
+"digixcl_lesser_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Foam Spray",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Lesser tier 2",
+"SortOrder": 17
+},
+"digixcl_lesser_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Cradle Blanket",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Lesser tier 3",
+"SortOrder": 17
+},
+"digixcl_machine_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Gear Cog",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Machine tier 1",
+"SortOrder": 17
+},
+"digixcl_machine_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Static Coil",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Machine tier 2",
+"SortOrder": 17
+},
+"digixcl_machine_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Crawler Treads",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Machine tier 2",
+"SortOrder": 17
+},
+"digixcl_machine_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Faraday Frame",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Machine tier 3",
+"SortOrder": 17
+},
+"digixcl_mollusk_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Mucus Coat",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mollusk tier 1",
+"SortOrder": 17
+},
+"digixcl_mollusk_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Hard Shell",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mollusk tier 2",
+"SortOrder": 17
+},
+"digixcl_mollusk_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Pearl Lure",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mollusk tier 2",
+"SortOrder": 17
+},
+"digixcl_mollusk_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Cannon Shell",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mollusk tier 3",
+"SortOrder": 17
+},
+"digixcl_mutant_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Sludge Skin",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mutant tier 1",
+"SortOrder": 17
+},
+"digixcl_mutant_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Adaptive Gene",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mutant tier 2",
+"SortOrder": 17
+},
+"digixcl_mutant_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Toxic Spore",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mutant tier 2",
+"SortOrder": 17
+},
+"digixcl_mutant_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Regenerating Ooze",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mutant tier 3",
+"SortOrder": 17
+},
+"digixcl_mythical_beast_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Cloud Hoof",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mythical Beast tier 1",
+"SortOrder": 17
+},
+"digixcl_mythical_beast_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Zephyr Mane",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mythical Beast tier 2",
+"SortOrder": 17
+},
+"digixcl_mythical_beast_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Storm Horn",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Mythical Beast tier 3",
+"SortOrder": 17
+},
+"digixcl_puppet_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Toy Bell",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Puppet tier 1",
+"SortOrder": 17
+},
+"digixcl_puppet_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Marionette String",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Puppet tier 2",
+"SortOrder": 17
+},
+"digixcl_puppet_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Cotton Stuffing",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Puppet tier 2",
+"SortOrder": 17
+},
+"digixcl_puppet_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Puppet Strings",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Puppet tier 3",
+"SortOrder": 17
+},
+"digixcl_reptile_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Sun Basker",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Reptile tier 1",
+"SortOrder": 17
+},
+"digixcl_reptile_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Tail Sweep",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Reptile tier 1",
+"SortOrder": 17
+},
+"digixcl_reptile_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Nova Tooth",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Reptile tier 2",
+"SortOrder": 17
+},
+"digixcl_reptile_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Greymon Helm",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Reptile tier 2",
+"SortOrder": 17
+},
+"digixcl_reptile_05": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Courage Crest",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Reptile tier 3",
+"SortOrder": 17
+},
+"digixcl_sea_animal_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Fin Guard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Sea Animal tier 1",
+"SortOrder": 17
+},
+"digixcl_sea_animal_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Harpoon Tooth",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Sea Animal tier 2",
+"SortOrder": 17
+},
+"digixcl_sea_animal_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Kelp Wrap",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Sea Animal tier 2",
+"SortOrder": 17
+},
+"digixcl_sea_animal_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Leviathan Pearl",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Sea Animal tier 3",
+"SortOrder": 17
+},
+"digixcl_shaman_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Spirit Beads",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Shaman tier 1",
+"SortOrder": 17
+},
+"digixcl_shaman_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Rain Dance Rattle",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Shaman tier 2",
+"SortOrder": 17
+},
+"digixcl_shaman_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Spirit Gate",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Shaman tier 3",
+"SortOrder": 17
+},
+"digixcl_spiritual_beast_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Moon Bell",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Spiritual Beast tier 1",
+"SortOrder": 17
+},
+"digixcl_spiritual_beast_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Spirit Charm",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Spiritual Beast tier 1",
+"SortOrder": 17
+},
+"digixcl_spiritual_beast_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Twilight Veil",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Spiritual Beast tier 2",
+"SortOrder": 17
+},
+"digixcl_spiritual_beast_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Ninefold Tail",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Spiritual Beast tier 2",
+"SortOrder": 17
+},
+"digixcl_spiritual_beast_05": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Beckoning Mirror",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Spiritual Beast tier 3",
+"SortOrder": 17
+},
+"digixcl_undead_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Cursed Ash",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Undead tier 1",
+"SortOrder": 17
+},
+"digixcl_undead_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Bone Armor",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Undead tier 2",
+"SortOrder": 17
+},
+"digixcl_undead_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Deathly Lullaby",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Undead tier 3",
+"SortOrder": 17
+},
+"digixcl_unidentified_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Glitch Ribbon",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Unidentified tier 1",
+"SortOrder": 17
+},
+"digixcl_unidentified_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Egg Shell",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Unidentified tier 2",
+"SortOrder": 17
+},
+"digixcl_unidentified_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Corrupted Sigil",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Unidentified tier 2",
+"SortOrder": 17
+},
+"digixcl_unidentified_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Chaos Lens",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Unidentified tier 3",
+"SortOrder": 17
+},
+"digixcl_vegetation_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Rooting Sandals",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Vegetation tier 1",
+"SortOrder": 17
+},
+"digixcl_vegetation_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Pollen Puff",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Vegetation tier 2",
+"SortOrder": 17
+},
+"digixcl_vegetation_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Verdant Crown",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Vegetation tier 3",
+"SortOrder": 17
+},
+"digixcl_warrior_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Resolute Gauntlet",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Warrior tier 1",
+"SortOrder": 17
+},
+"digixcl_warrior_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Iron Greaves",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Warrior tier 1",
+"SortOrder": 17
+},
+"digixcl_warrior_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Twin Edge",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Warrior tier 2",
+"SortOrder": 17
+},
+"digixcl_warrior_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Blitz Bandana",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Warrior tier 2",
+"SortOrder": 17
+},
+"digixcl_warrior_05": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Champion's Standard",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Warrior tier 3",
+"SortOrder": 17
+},
+"digixcl_wizard_01": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Apprentice Hat",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Wizard tier 1",
+"SortOrder": 17
+},
+"digixcl_wizard_02": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Grimoire",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Wizard tier 2",
+"SortOrder": 17
+},
+"digixcl_wizard_03": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Hex Charm",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Wizard tier 2",
+"SortOrder": 17
+},
+"digixcl_wizard_04": {
+"$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
+"Icon": 10,
+"UsageType": 8,
+"States": [
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.ExclusiveState"
+},
+{
+"assembly": "PMDC, Version=0.8.12.0, Culture=neutral, PublicKeyToken=null",
+"type": "PMDC.Dungeon.FamilyState"
+},
+{
+"assembly": "RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null",
+"type": "RogueEssence.Dungeon.MaterialState"
+}
+],
+"MaxStack": 0,
+"CannotDrop": true,
+"BagEffect": true,
+"Name": {
+"DefaultText": "Nightmare Tome",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "Digimon family item: Wizard tier 3",
+"SortOrder": 17
+},
 "digi_brave_point_a": {
 "$type": "RogueEssence.Data.ItemEntrySummary, RogueEssence",
 "Icon": 4,

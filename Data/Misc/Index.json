@@ -5,7 +5,4649 @@
 "$values": [
 {
 "$type": "PMDC.Data.RarityData, PMDC",
-"RarityMap": {}
+"RarityMap": {
+"andromon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"boltmon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"cannonbeemon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02",
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04",
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05",
+"digixcl_insectoid_05"
+]
+},
+"gigadramon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"hiandromon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"justimon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"kendogarurumon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"machinedramon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02",
+"digixcl_machine_01"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04",
+"digixcl_machine_02",
+"digixcl_machine_03"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05",
+"digixcl_machine_04"
+]
+},
+"magnagarurumon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"megadramon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02",
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04",
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05",
+"digixcl_dragon_05"
+]
+},
+"metaletemon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"metalgarurumon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"metalgreymon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"metalgreymon_blue": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"metalmamemon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"metalseadramon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_aquatic_01",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_aquatic_02",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_aquatic_03",
+"digixcl_cyborg_05"
+]
+},
+"metaltyrannomon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02",
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04",
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05",
+"digixcl_reptile_05"
+]
+},
+"pilevolcamon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"rapidmon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05",
+"digixcl_warrior_05"
+]
+},
+"raptordramon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"tankmon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"volcanomon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"wargrowlmon": {
+"1": [
+"digixcl_android_01",
+"digixcl_android_02",
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_android_03",
+"digixcl_android_04",
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_android_05",
+"digixcl_cyborg_05"
+]
+},
+"angemon": {
+"1": [
+"digixcl_angel_01"
+],
+"2": [
+"digixcl_angel_02",
+"digixcl_angel_03"
+],
+"3": [
+"digixcl_angel_04"
+]
+},
+"angewomon": {
+"1": [
+"digixcl_angel_01"
+],
+"2": [
+"digixcl_angel_02",
+"digixcl_angel_03"
+],
+"3": [
+"digixcl_angel_04"
+]
+},
+"kerpymon_blk": {
+"1": [
+"digixcl_angel_01"
+],
+"2": [
+"digixcl_angel_02",
+"digixcl_angel_03"
+],
+"3": [
+"digixcl_angel_04"
+]
+},
+"kerpymon_good": {
+"1": [
+"digixcl_angel_01"
+],
+"2": [
+"digixcl_angel_02",
+"digixcl_angel_03"
+],
+"3": [
+"digixcl_angel_04"
+]
+},
+"lucemon": {
+"1": [
+"digixcl_angel_01"
+],
+"2": [
+"digixcl_angel_02",
+"digixcl_angel_03"
+],
+"3": [
+"digixcl_angel_04"
+]
+},
+"magnaangemon": {
+"1": [
+"digixcl_angel_01"
+],
+"2": [
+"digixcl_angel_02",
+"digixcl_angel_03"
+],
+"3": [
+"digixcl_angel_04"
+]
+},
+"mastemon": {
+"1": [
+"digixcl_angel_01"
+],
+"2": [
+"digixcl_angel_02",
+"digixcl_angel_03"
+],
+"3": [
+"digixcl_angel_04"
+]
+},
+"ophanimon": {
+"1": [
+"digixcl_angel_01"
+],
+"2": [
+"digixcl_angel_02",
+"digixcl_angel_03"
+],
+"3": [
+"digixcl_angel_04"
+]
+},
+"seraphimon": {
+"1": [
+"digixcl_angel_01"
+],
+"2": [
+"digixcl_angel_02",
+"digixcl_angel_03"
+],
+"3": [
+"digixcl_angel_04"
+]
+},
+"shakkoumon": {
+"1": [
+"digixcl_angel_01",
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_angel_02",
+"digixcl_angel_03",
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_angel_04",
+"digixcl_mutant_04"
+]
+},
+"chuumon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beast_05"
+]
+},
+"dorugamon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_dragonling_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_dragonling_02",
+"digixcl_dragonling_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_dragonling_04"
+]
+},
+"dorugreymon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_dragonling_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_dragonling_02",
+"digixcl_dragonling_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_dragonling_04"
+]
+},
+"dorumon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beast_05"
+]
+},
+"gargomon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beastkin_04"
+]
+},
+"garurumon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beast_05"
+]
+},
+"gatomon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_spiritual_beast_05"
+]
+},
+"grapleomon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beastkin_04"
+]
+},
+"hououmon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_spiritual_beast_05"
+]
+},
+"leomon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beastkin_04"
+]
+},
+"lopmon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beast_05"
+]
+},
+"panjyamon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beastkin_04"
+]
+},
+"renamon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beastkin_04"
+]
+},
+"silphymon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beastkin_04"
+]
+},
+"terriermon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beast_05"
+]
+},
+"turuiemon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beastkin_04"
+]
+},
+"weregarurumon": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beastkin_04"
+]
+},
+"weregarurumon_blk": {
+"1": [
+"digixcl_animal_01",
+"digixcl_animal_02",
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_animal_03",
+"digixcl_animal_04",
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_animal_05",
+"digixcl_beastkin_04"
+]
+},
+"megaseadramon": {
+"1": [
+"digixcl_aquatic_01",
+"digixcl_sea_animal_01"
+],
+"2": [
+"digixcl_aquatic_02",
+"digixcl_sea_animal_02",
+"digixcl_sea_animal_03"
+],
+"3": [
+"digixcl_aquatic_03",
+"digixcl_sea_animal_04"
+]
+},
+"neptunemon": {
+"1": [
+"digixcl_aquatic_01",
+"digixcl_shaman_01"
+],
+"2": [
+"digixcl_aquatic_02",
+"digixcl_shaman_02"
+],
+"3": [
+"digixcl_aquatic_03",
+"digixcl_shaman_03"
+]
+},
+"seadramon": {
+"1": [
+"digixcl_aquatic_01",
+"digixcl_sea_animal_01"
+],
+"2": [
+"digixcl_aquatic_02",
+"digixcl_sea_animal_02",
+"digixcl_sea_animal_03"
+],
+"3": [
+"digixcl_aquatic_03",
+"digixcl_sea_animal_04"
+]
+},
+"syakomon": {
+"1": [
+"digixcl_aquatic_01",
+"digixcl_mollusk_01"
+],
+"2": [
+"digixcl_aquatic_02",
+"digixcl_mollusk_02",
+"digixcl_mollusk_03"
+],
+"3": [
+"digixcl_aquatic_03",
+"digixcl_mollusk_04"
+]
+},
+"whamon": {
+"1": [
+"digixcl_aquatic_01",
+"digixcl_sea_animal_01"
+],
+"2": [
+"digixcl_aquatic_02",
+"digixcl_sea_animal_02",
+"digixcl_sea_animal_03"
+],
+"3": [
+"digixcl_aquatic_03",
+"digixcl_sea_animal_04"
+]
+},
+"armadillomon": {
+"1": [
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_beast_05"
+]
+},
+"elecmon": {
+"1": [
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_beast_05"
+]
+},
+"gaogamon": {
+"1": [
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_beast_05"
+]
+},
+"gaomon": {
+"1": [
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_beast_05"
+]
+},
+"garurumon_blk": {
+"1": [
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_beast_05"
+]
+},
+"gazimon": {
+"1": [
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_beast_05"
+]
+},
+"lunamon": {
+"1": [
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_beast_05"
+]
+},
+"patamon": {
+"1": [
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_beast_05"
+]
+},
+"ryudamon": {
+"1": [
+"digixcl_beast_01",
+"digixcl_beast_02",
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_beast_03",
+"digixcl_beast_04",
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_beast_05",
+"digixcl_dragon_05"
+]
+},
+"salamon": {
+"1": [
+"digixcl_beast_01",
+"digixcl_beast_02"
+],
+"2": [
+"digixcl_beast_03",
+"digixcl_beast_04"
+],
+"3": [
+"digixcl_beast_05"
+]
+},
+"bancholeomon": {
+"1": [
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_beastkin_04"
+]
+},
+"lekismon": {
+"1": [
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_beastkin_04"
+]
+},
+"vikemon": {
+"1": [
+"digixcl_beastkin_01"
+],
+"2": [
+"digixcl_beastkin_02",
+"digixcl_beastkin_03"
+],
+"3": [
+"digixcl_beastkin_04"
+]
+},
+"aquilamon": {
+"1": [
+"digixcl_bird_01"
+],
+"2": [
+"digixcl_bird_02"
+],
+"3": [
+"digixcl_bird_03"
+]
+},
+"birdramon": {
+"1": [
+"digixcl_bird_01"
+],
+"2": [
+"digixcl_bird_02"
+],
+"3": [
+"digixcl_bird_03"
+]
+},
+"biyomon": {
+"1": [
+"digixcl_bird_01"
+],
+"2": [
+"digixcl_bird_02"
+],
+"3": [
+"digixcl_bird_03"
+]
+},
+"crowmon": {
+"1": [
+"digixcl_bird_01"
+],
+"2": [
+"digixcl_bird_02"
+],
+"3": [
+"digixcl_bird_03"
+]
+},
+"falcomon": {
+"1": [
+"digixcl_bird_01"
+],
+"2": [
+"digixcl_bird_02"
+],
+"3": [
+"digixcl_bird_03"
+]
+},
+"garudamon": {
+"1": [
+"digixcl_bird_01"
+],
+"2": [
+"digixcl_bird_02"
+],
+"3": [
+"digixcl_bird_03"
+]
+},
+"hawkmon": {
+"1": [
+"digixcl_bird_01"
+],
+"2": [
+"digixcl_bird_02"
+],
+"3": [
+"digixcl_bird_03"
+]
+},
+"peckmon": {
+"1": [
+"digixcl_bird_01"
+],
+"2": [
+"digixcl_bird_02"
+],
+"3": [
+"digixcl_bird_03"
+]
+},
+"varodurumon": {
+"1": [
+"digixcl_bird_01"
+],
+"2": [
+"digixcl_bird_02"
+],
+"3": [
+"digixcl_bird_03"
+]
+},
+"cyberdramon": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02",
+"digixcl_dragonkin_01"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04",
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03"
+],
+"3": [
+"digixcl_cyborg_05",
+"digixcl_dragonkin_04"
+]
+},
+"darkdramon": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_cyborg_05"
+]
+},
+"ebemon": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_cyborg_05"
+]
+},
+"machgaogamon": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_cyborg_05"
+]
+},
+"magnagarurumon_sv": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_cyborg_05"
+]
+},
+"metalgarurumon_blk": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_cyborg_05"
+]
+},
+"raremon": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02",
+"digixcl_ghost_01",
+"digixcl_undead_01"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04",
+"digixcl_ghost_02",
+"digixcl_undead_02"
+],
+"3": [
+"digixcl_cyborg_05",
+"digixcl_ghost_03",
+"digixcl_undead_03"
+]
+},
+"ravemon": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_cyborg_05"
+]
+},
+"ravemon_bm": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_cyborg_05"
+]
+},
+"rizegreymon": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_cyborg_05"
+]
+},
+"rusttyranomon": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04"
+],
+"3": [
+"digixcl_cyborg_05"
+]
+},
+"tigervespamon": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02",
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04",
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_cyborg_05",
+"digixcl_insectoid_05"
+]
+},
+"waspmon": {
+"1": [
+"digixcl_cyborg_01",
+"digixcl_cyborg_02",
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_cyborg_03",
+"digixcl_cyborg_04",
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_cyborg_05",
+"digixcl_insectoid_05"
+]
+},
+"barbamon": {
+"1": [
+"digixcl_demon_lord_01"
+],
+"2": [
+"digixcl_demon_lord_02"
+],
+"3": [
+"digixcl_demon_lord_03"
+]
+},
+"beelzemon": {
+"1": [
+"digixcl_demon_lord_01",
+"digixcl_evil_01"
+],
+"2": [
+"digixcl_demon_lord_02",
+"digixcl_evil_02",
+"digixcl_evil_03"
+],
+"3": [
+"digixcl_demon_lord_03",
+"digixcl_evil_04"
+]
+},
+"beelzemon_bm": {
+"1": [
+"digixcl_demon_lord_01"
+],
+"2": [
+"digixcl_demon_lord_02"
+],
+"3": [
+"digixcl_demon_lord_03"
+]
+},
+"belphemon_rm": {
+"1": [
+"digixcl_demon_lord_01"
+],
+"2": [
+"digixcl_demon_lord_02"
+],
+"3": [
+"digixcl_demon_lord_03"
+]
+},
+"belphemon_sm": {
+"1": [
+"digixcl_demon_lord_01"
+],
+"2": [
+"digixcl_demon_lord_02"
+],
+"3": [
+"digixcl_demon_lord_03"
+]
+},
+"creepymon": {
+"1": [
+"digixcl_demon_lord_01"
+],
+"2": [
+"digixcl_demon_lord_02"
+],
+"3": [
+"digixcl_demon_lord_03"
+]
+},
+"leviamon": {
+"1": [
+"digixcl_demon_lord_01"
+],
+"2": [
+"digixcl_demon_lord_02"
+],
+"3": [
+"digixcl_demon_lord_03"
+]
+},
+"lilithmon": {
+"1": [
+"digixcl_demon_lord_01"
+],
+"2": [
+"digixcl_demon_lord_02"
+],
+"3": [
+"digixcl_demon_lord_03"
+]
+},
+"lucemon_fm": {
+"1": [
+"digixcl_demon_lord_01",
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_demon_lord_02",
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_demon_lord_03",
+"digixcl_wizard_04"
+]
+},
+"aeroveedramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"breakdramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_undead_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_undead_02"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_undead_03"
+]
+},
+"burninggreymon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"coredramon_blue": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"coredramon_green": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"cyclonemon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_dragonkin_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_dragonkin_04"
+]
+},
+"dorugoramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_dragonling_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_dragonling_02",
+"digixcl_dragonling_03"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_dragonling_04"
+]
+},
+"dracomon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"exveemon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"flamedramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_dragonkin_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_dragonkin_04"
+]
+},
+"gaiomon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_dragonkin_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_dragonkin_04"
+]
+},
+"ginryumon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_dragonling_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_dragonling_02",
+"digixcl_dragonling_03"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_dragonling_04"
+]
+},
+"goldramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"groundramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"growlmon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"hisyaryumon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_dragonling_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_dragonling_02",
+"digixcl_dragonling_03"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_dragonling_04"
+]
+},
+"imperialdramon_dm": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"imperialdramon_fm": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"imperialdramon_pm": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"kaisergreymon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"magnadramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"megidramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"ouryumon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_dragonling_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_dragonling_02",
+"digixcl_dragonling_03"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_dragonling_04"
+]
+},
+"paildramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_dragonkin_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_dragonkin_04"
+]
+},
+"plesiomon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"shinegreymon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"shinegreymon_bm": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"veedramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_mythical_beast_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_mythical_beast_02"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_mythical_beast_03"
+]
+},
+"veemon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_dragonling_01"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_dragonling_02",
+"digixcl_dragonling_03"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_dragonling_04"
+]
+},
+"wargreymon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02",
+"digixcl_dragonkin_01",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04",
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_dragon_05",
+"digixcl_dragonkin_04",
+"digixcl_warrior_05"
+]
+},
+"wingdramon": {
+"1": [
+"digixcl_dragon_01",
+"digixcl_dragon_02"
+],
+"2": [
+"digixcl_dragon_03",
+"digixcl_dragon_04"
+],
+"3": [
+"digixcl_dragon_05"
+]
+},
+"blackwargreymon": {
+"1": [
+"digixcl_dragonkin_01"
+],
+"2": [
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03"
+],
+"3": [
+"digixcl_dragonkin_04"
+]
+},
+"omnishoutmon": {
+"1": [
+"digixcl_dragonkin_01"
+],
+"2": [
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03"
+],
+"3": [
+"digixcl_dragonkin_04"
+]
+},
+"saviorhuckmon": {
+"1": [
+"digixcl_dragonkin_01"
+],
+"2": [
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03"
+],
+"3": [
+"digixcl_dragonkin_04"
+]
+},
+"slayerdramon": {
+"1": [
+"digixcl_dragonkin_01"
+],
+"2": [
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03"
+],
+"3": [
+"digixcl_dragonkin_04"
+]
+},
+"strikedramon": {
+"1": [
+"digixcl_dragonkin_01"
+],
+"2": [
+"digixcl_dragonkin_02",
+"digixcl_dragonkin_03"
+],
+"3": [
+"digixcl_dragonkin_04"
+]
+},
+"hackmon": {
+"1": [
+"digixcl_dragonling_01"
+],
+"2": [
+"digixcl_dragonling_02",
+"digixcl_dragonling_03"
+],
+"3": [
+"digixcl_dragonling_04"
+]
+},
+"monodramon": {
+"1": [
+"digixcl_dragonling_01"
+],
+"2": [
+"digixcl_dragonling_02",
+"digixcl_dragonling_03"
+],
+"3": [
+"digixcl_dragonling_04"
+]
+},
+"shoutmon": {
+"1": [
+"digixcl_dragonling_01"
+],
+"2": [
+"digixcl_dragonling_02",
+"digixcl_dragonling_03"
+],
+"3": [
+"digixcl_dragonling_04"
+]
+},
+"bluemeramon": {
+"1": [
+"digixcl_elemental_01"
+],
+"2": [
+"digixcl_elemental_02"
+],
+"3": [
+"digixcl_elemental_03"
+]
+},
+"frigimon": {
+"1": [
+"digixcl_elemental_01"
+],
+"2": [
+"digixcl_elemental_02"
+],
+"3": [
+"digixcl_elemental_03"
+]
+},
+"golemon": {
+"1": [
+"digixcl_elemental_01"
+],
+"2": [
+"digixcl_elemental_02"
+],
+"3": [
+"digixcl_elemental_03"
+]
+},
+"gotsumon": {
+"1": [
+"digixcl_elemental_01"
+],
+"2": [
+"digixcl_elemental_02"
+],
+"3": [
+"digixcl_elemental_03"
+]
+},
+"icemon": {
+"1": [
+"digixcl_elemental_01"
+],
+"2": [
+"digixcl_elemental_02"
+],
+"3": [
+"digixcl_elemental_03"
+]
+},
+"meramon": {
+"1": [
+"digixcl_elemental_01"
+],
+"2": [
+"digixcl_elemental_02"
+],
+"3": [
+"digixcl_elemental_03"
+]
+},
+"meteormon": {
+"1": [
+"digixcl_elemental_01"
+],
+"2": [
+"digixcl_elemental_02"
+],
+"3": [
+"digixcl_elemental_03"
+]
+},
+"skullmeramon": {
+"1": [
+"digixcl_elemental_01"
+],
+"2": [
+"digixcl_elemental_02"
+],
+"3": [
+"digixcl_elemental_03"
+]
+},
+"socerimon": {
+"1": [
+"digixcl_elemental_01",
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_elemental_02",
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_elemental_03",
+"digixcl_wizard_04"
+]
+},
+"demidevimon": {
+"1": [
+"digixcl_evil_01"
+],
+"2": [
+"digixcl_evil_02",
+"digixcl_evil_03"
+],
+"3": [
+"digixcl_evil_04"
+]
+},
+"devimon": {
+"1": [
+"digixcl_evil_01"
+],
+"2": [
+"digixcl_evil_02",
+"digixcl_evil_03"
+],
+"3": [
+"digixcl_evil_04"
+]
+},
+"goblimon": {
+"1": [
+"digixcl_evil_01"
+],
+"2": [
+"digixcl_evil_02",
+"digixcl_evil_03"
+],
+"3": [
+"digixcl_evil_04"
+]
+},
+"guilmon": {
+"1": [
+"digixcl_evil_01",
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_evil_02",
+"digixcl_evil_03",
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_evil_04",
+"digixcl_reptile_05"
+]
+},
+"icedevimon": {
+"1": [
+"digixcl_evil_01"
+],
+"2": [
+"digixcl_evil_02",
+"digixcl_evil_03"
+],
+"3": [
+"digixcl_evil_04"
+]
+},
+"impmon": {
+"1": [
+"digixcl_evil_01"
+],
+"2": [
+"digixcl_evil_02",
+"digixcl_evil_03"
+],
+"3": [
+"digixcl_evil_04"
+]
+},
+"ladydevimon": {
+"1": [
+"digixcl_evil_01"
+],
+"2": [
+"digixcl_evil_02",
+"digixcl_evil_03"
+],
+"3": [
+"digixcl_evil_04"
+]
+},
+"ogremon": {
+"1": [
+"digixcl_evil_01"
+],
+"2": [
+"digixcl_evil_02",
+"digixcl_evil_03"
+],
+"3": [
+"digixcl_evil_04"
+]
+},
+"skullsatamon": {
+"1": [
+"digixcl_evil_01",
+"digixcl_ghost_01",
+"digixcl_undead_01"
+],
+"2": [
+"digixcl_evil_02",
+"digixcl_evil_03",
+"digixcl_ghost_02",
+"digixcl_undead_02"
+],
+"3": [
+"digixcl_evil_04",
+"digixcl_ghost_03",
+"digixcl_undead_03"
+]
+},
+"venommyotismon": {
+"1": [
+"digixcl_evil_01",
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_evil_02",
+"digixcl_evil_03",
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_evil_04",
+"digixcl_spiritual_beast_05"
+]
+},
+"lilamon": {
+"1": [
+"digixcl_fairy_01"
+],
+"2": [
+"digixcl_fairy_02"
+],
+"3": [
+"digixcl_fairy_03"
+]
+},
+"lillymon": {
+"1": [
+"digixcl_fairy_01"
+],
+"2": [
+"digixcl_fairy_02"
+],
+"3": [
+"digixcl_fairy_03"
+]
+},
+"lotosmon": {
+"1": [
+"digixcl_fairy_01"
+],
+"2": [
+"digixcl_fairy_02"
+],
+"3": [
+"digixcl_fairy_03"
+]
+},
+"marineangemon": {
+"1": [
+"digixcl_fairy_01"
+],
+"2": [
+"digixcl_fairy_02"
+],
+"3": [
+"digixcl_fairy_03"
+]
+},
+"piximon": {
+"1": [
+"digixcl_fairy_01"
+],
+"2": [
+"digixcl_fairy_02"
+],
+"3": [
+"digixcl_fairy_03"
+]
+},
+"rosemon": {
+"1": [
+"digixcl_fairy_01"
+],
+"2": [
+"digixcl_fairy_02"
+],
+"3": [
+"digixcl_fairy_03"
+]
+},
+"rosemon_bm": {
+"1": [
+"digixcl_fairy_01"
+],
+"2": [
+"digixcl_fairy_02"
+],
+"3": [
+"digixcl_fairy_03"
+]
+},
+"bakemon": {
+"1": [
+"digixcl_ghost_01"
+],
+"2": [
+"digixcl_ghost_02"
+],
+"3": [
+"digixcl_ghost_03"
+]
+},
+"myotismon": {
+"1": [
+"digixcl_ghost_01",
+"digixcl_undead_01"
+],
+"2": [
+"digixcl_ghost_02",
+"digixcl_undead_02"
+],
+"3": [
+"digixcl_ghost_03",
+"digixcl_undead_03"
+]
+},
+"phantomon": {
+"1": [
+"digixcl_ghost_01"
+],
+"2": [
+"digixcl_ghost_02"
+],
+"3": [
+"digixcl_ghost_03"
+]
+},
+"skullgreymon": {
+"1": [
+"digixcl_ghost_01",
+"digixcl_undead_01"
+],
+"2": [
+"digixcl_ghost_02",
+"digixcl_undead_02"
+],
+"3": [
+"digixcl_ghost_03",
+"digixcl_undead_03"
+]
+},
+"alphamon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"alphamon_nx": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"alphamon_ouryuken": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05"
+]
+},
+"craniamon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05"
+]
+},
+"crusadermon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"crusadermon_nx": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"dynasmon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"examon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05"
+]
+},
+"gallantmon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"gallantmon_cm": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"gallantmon_nx": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"gankoomon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05"
+]
+},
+"jesmon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05"
+]
+},
+"kentaurosmon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05"
+]
+},
+"leopardmon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05"
+]
+},
+"leopardmon_lm": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05"
+]
+},
+"leopardmon_nx": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05"
+]
+},
+"magnamon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"omnimon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"omnimon_nx": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"omnimon_zwart": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05"
+]
+},
+"rapidmon_armor": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"ulforceveedramon": {
+"1": [
+"digixcl_holy_warrior_01",
+"digixcl_holy_warrior_02",
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_holy_warrior_03",
+"digixcl_holy_warrior_04",
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_holy_warrior_05",
+"digixcl_warrior_05"
+]
+},
+"fanbeemon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"grankuwagamon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"herculeskabuterimon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"hudiemon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"kabuterimon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"kuwagamon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"megakabuterimon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"okuwamon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"stingmon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"tentomon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"tyrantkabuterimon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"wormmon": {
+"1": [
+"digixcl_insectoid_01",
+"digixcl_insectoid_02"
+],
+"2": [
+"digixcl_insectoid_03",
+"digixcl_insectoid_04"
+],
+"3": [
+"digixcl_insectoid_05"
+]
+},
+"bukamon": {
+"1": [
+"digixcl_lesser_01"
+],
+"2": [
+"digixcl_lesser_02",
+"digixcl_lesser_03"
+],
+"3": [
+"digixcl_lesser_04"
+]
+},
+"koromon": {
+"1": [
+"digixcl_lesser_01"
+],
+"2": [
+"digixcl_lesser_02",
+"digixcl_lesser_03"
+],
+"3": [
+"digixcl_lesser_04"
+]
+},
+"motimon": {
+"1": [
+"digixcl_lesser_01"
+],
+"2": [
+"digixcl_lesser_02",
+"digixcl_lesser_03"
+],
+"3": [
+"digixcl_lesser_04"
+]
+},
+"nyaromon": {
+"1": [
+"digixcl_lesser_01"
+],
+"2": [
+"digixcl_lesser_02",
+"digixcl_lesser_03"
+],
+"3": [
+"digixcl_lesser_04"
+]
+},
+"pagumon": {
+"1": [
+"digixcl_lesser_01"
+],
+"2": [
+"digixcl_lesser_02",
+"digixcl_lesser_03"
+],
+"3": [
+"digixcl_lesser_04"
+]
+},
+"tanemon": {
+"1": [
+"digixcl_lesser_01"
+],
+"2": [
+"digixcl_lesser_02",
+"digixcl_lesser_03"
+],
+"3": [
+"digixcl_lesser_04"
+]
+},
+"tokomon": {
+"1": [
+"digixcl_lesser_01"
+],
+"2": [
+"digixcl_lesser_02",
+"digixcl_lesser_03"
+],
+"3": [
+"digixcl_lesser_04"
+]
+},
+"tsunomon": {
+"1": [
+"digixcl_lesser_01"
+],
+"2": [
+"digixcl_lesser_02",
+"digixcl_lesser_03"
+],
+"3": [
+"digixcl_lesser_04"
+]
+},
+"wanyamon": {
+"1": [
+"digixcl_lesser_01"
+],
+"2": [
+"digixcl_lesser_02",
+"digixcl_lesser_03"
+],
+"3": [
+"digixcl_lesser_04"
+]
+},
+"yokomon": {
+"1": [
+"digixcl_lesser_01"
+],
+"2": [
+"digixcl_lesser_02",
+"digixcl_lesser_03"
+],
+"3": [
+"digixcl_lesser_04"
+]
+},
+"chaosdramon": {
+"1": [
+"digixcl_machine_01"
+],
+"2": [
+"digixcl_machine_02",
+"digixcl_machine_03"
+],
+"3": [
+"digixcl_machine_04"
+]
+},
+"clockmon": {
+"1": [
+"digixcl_machine_01"
+],
+"2": [
+"digixcl_machine_02",
+"digixcl_machine_03"
+],
+"3": [
+"digixcl_machine_04"
+]
+},
+"datamon": {
+"1": [
+"digixcl_machine_01"
+],
+"2": [
+"digixcl_machine_02",
+"digixcl_machine_03"
+],
+"3": [
+"digixcl_machine_04"
+]
+},
+"groundlocomon": {
+"1": [
+"digixcl_machine_01"
+],
+"2": [
+"digixcl_machine_02",
+"digixcl_machine_03"
+],
+"3": [
+"digixcl_machine_04"
+]
+},
+"guardromon": {
+"1": [
+"digixcl_machine_01"
+],
+"2": [
+"digixcl_machine_02",
+"digixcl_machine_03"
+],
+"3": [
+"digixcl_machine_04"
+]
+},
+"guardromon_gold": {
+"1": [
+"digixcl_machine_01"
+],
+"2": [
+"digixcl_machine_02",
+"digixcl_machine_03"
+],
+"3": [
+"digixcl_machine_04"
+]
+},
+"hagurumon": {
+"1": [
+"digixcl_machine_01"
+],
+"2": [
+"digixcl_machine_02",
+"digixcl_machine_03"
+],
+"3": [
+"digixcl_machine_04"
+]
+},
+"megagargomon": {
+"1": [
+"digixcl_machine_01"
+],
+"2": [
+"digixcl_machine_02",
+"digixcl_machine_03"
+],
+"3": [
+"digixcl_machine_04"
+]
+},
+"solarmon": {
+"1": [
+"digixcl_machine_01"
+],
+"2": [
+"digixcl_machine_02",
+"digixcl_machine_03"
+],
+"3": [
+"digixcl_machine_04"
+]
+},
+"blackkingnumemon": {
+"1": [
+"digixcl_mollusk_01"
+],
+"2": [
+"digixcl_mollusk_02",
+"digixcl_mollusk_03"
+],
+"3": [
+"digixcl_mollusk_04"
+]
+},
+"botamon": {
+"1": [
+"digixcl_mollusk_01"
+],
+"2": [
+"digixcl_mollusk_02",
+"digixcl_mollusk_03"
+],
+"3": [
+"digixcl_mollusk_04"
+]
+},
+"geremon": {
+"1": [
+"digixcl_mollusk_01"
+],
+"2": [
+"digixcl_mollusk_02",
+"digixcl_mollusk_03"
+],
+"3": [
+"digixcl_mollusk_04"
+]
+},
+"numemon": {
+"1": [
+"digixcl_mollusk_01"
+],
+"2": [
+"digixcl_mollusk_02",
+"digixcl_mollusk_03"
+],
+"3": [
+"digixcl_mollusk_04"
+]
+},
+"pabumon": {
+"1": [
+"digixcl_mollusk_01"
+],
+"2": [
+"digixcl_mollusk_02",
+"digixcl_mollusk_03"
+],
+"3": [
+"digixcl_mollusk_04"
+]
+},
+"platinumnumemon": {
+"1": [
+"digixcl_mollusk_01",
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mollusk_02",
+"digixcl_mollusk_03",
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mollusk_04",
+"digixcl_mutant_04"
+]
+},
+"poyomon": {
+"1": [
+"digixcl_mollusk_01"
+],
+"2": [
+"digixcl_mollusk_02",
+"digixcl_mollusk_03"
+],
+"3": [
+"digixcl_mollusk_04"
+]
+},
+"punimon": {
+"1": [
+"digixcl_mollusk_01"
+],
+"2": [
+"digixcl_mollusk_02",
+"digixcl_mollusk_03"
+],
+"3": [
+"digixcl_mollusk_04"
+]
+},
+"shellnumemon": {
+"1": [
+"digixcl_mollusk_01"
+],
+"2": [
+"digixcl_mollusk_02",
+"digixcl_mollusk_03"
+],
+"3": [
+"digixcl_mollusk_04"
+]
+},
+"apocalymon": {
+"1": [
+"digixcl_mutant_01",
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03",
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_mutant_04",
+"digixcl_unidentified_04"
+]
+},
+"catchmamemon": {
+"1": [
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mutant_04"
+]
+},
+"dinobeemon": {
+"1": [
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mutant_04"
+]
+},
+"goldnumemon": {
+"1": [
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mutant_04"
+]
+},
+"mamemon": {
+"1": [
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mutant_04"
+]
+},
+"mudfrigimon": {
+"1": [
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mutant_04"
+]
+},
+"platinumsukamon": {
+"1": [
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mutant_04"
+]
+},
+"princemamemon": {
+"1": [
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mutant_04"
+]
+},
+"starmon": {
+"1": [
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mutant_04"
+]
+},
+"sukamon": {
+"1": [
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mutant_04"
+]
+},
+"superstarmon": {
+"1": [
+"digixcl_mutant_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03"
+],
+"3": [
+"digixcl_mutant_04"
+]
+},
+"vademon": {
+"1": [
+"digixcl_mutant_01",
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_mutant_02",
+"digixcl_mutant_03",
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_mutant_04",
+"digixcl_unidentified_04"
+]
+},
+"airdramon": {
+"1": [
+"digixcl_mythical_beast_01"
+],
+"2": [
+"digixcl_mythical_beast_02"
+],
+"3": [
+"digixcl_mythical_beast_03"
+]
+},
+"gryphonmon": {
+"1": [
+"digixcl_mythical_beast_01"
+],
+"2": [
+"digixcl_mythical_beast_02"
+],
+"3": [
+"digixcl_mythical_beast_03"
+]
+},
+"hippogryphonmon": {
+"1": [
+"digixcl_mythical_beast_01"
+],
+"2": [
+"digixcl_mythical_beast_02"
+],
+"3": [
+"digixcl_mythical_beast_03"
+]
+},
+"kyubimon": {
+"1": [
+"digixcl_mythical_beast_01",
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_mythical_beast_02",
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_mythical_beast_03",
+"digixcl_spiritual_beast_05"
+]
+},
+"saberleomon": {
+"1": [
+"digixcl_mythical_beast_01"
+],
+"2": [
+"digixcl_mythical_beast_02"
+],
+"3": [
+"digixcl_mythical_beast_03"
+]
+},
+"unimon": {
+"1": [
+"digixcl_mythical_beast_01"
+],
+"2": [
+"digixcl_mythical_beast_02"
+],
+"3": [
+"digixcl_mythical_beast_03"
+]
+},
+"etemon": {
+"1": [
+"digixcl_puppet_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03"
+],
+"3": [
+"digixcl_puppet_04"
+]
+},
+"kingetemon": {
+"1": [
+"digixcl_puppet_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03"
+],
+"3": [
+"digixcl_puppet_04"
+]
+},
+"monzaemon": {
+"1": [
+"digixcl_puppet_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03"
+],
+"3": [
+"digixcl_puppet_04"
+]
+},
+"pandamon": {
+"1": [
+"digixcl_puppet_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03"
+],
+"3": [
+"digixcl_puppet_04"
+]
+},
+"pumpkinmon": {
+"1": [
+"digixcl_puppet_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03"
+],
+"3": [
+"digixcl_puppet_04"
+]
+},
+"puppetmon": {
+"1": [
+"digixcl_puppet_01",
+"digixcl_vegetation_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03",
+"digixcl_vegetation_02"
+],
+"3": [
+"digixcl_puppet_04",
+"digixcl_vegetation_03"
+]
+},
+"sistermon_b_awake": {
+"1": [
+"digixcl_puppet_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03"
+],
+"3": [
+"digixcl_puppet_04"
+]
+},
+"sistermon_blanc": {
+"1": [
+"digixcl_puppet_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03"
+],
+"3": [
+"digixcl_puppet_04"
+]
+},
+"sistermon_c_awake": {
+"1": [
+"digixcl_puppet_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03"
+],
+"3": [
+"digixcl_puppet_04"
+]
+},
+"sistermon_ciel": {
+"1": [
+"digixcl_puppet_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03"
+],
+"3": [
+"digixcl_puppet_04"
+]
+},
+"toyagumon": {
+"1": [
+"digixcl_puppet_01"
+],
+"2": [
+"digixcl_puppet_02",
+"digixcl_puppet_03"
+],
+"3": [
+"digixcl_puppet_04"
+]
+},
+"agumon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"agumon_blk": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"ankylomon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"baohuckmon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"gabumon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"gabumon_blk": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"gekomon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"geogreymon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"greymon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"greymon_blue": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"monochromon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"shogungekomon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"triceramon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"tyrannomon": {
+"1": [
+"digixcl_reptile_01",
+"digixcl_reptile_02"
+],
+"2": [
+"digixcl_reptile_03",
+"digixcl_reptile_04"
+],
+"3": [
+"digixcl_reptile_05"
+]
+},
+"betamon": {
+"1": [
+"digixcl_sea_animal_01"
+],
+"2": [
+"digixcl_sea_animal_02",
+"digixcl_sea_animal_03"
+],
+"3": [
+"digixcl_sea_animal_04"
+]
+},
+"coelamon": {
+"1": [
+"digixcl_sea_animal_01"
+],
+"2": [
+"digixcl_sea_animal_02",
+"digixcl_sea_animal_03"
+],
+"3": [
+"digixcl_sea_animal_04"
+]
+},
+"dragomon": {
+"1": [
+"digixcl_sea_animal_01"
+],
+"2": [
+"digixcl_sea_animal_02",
+"digixcl_sea_animal_03"
+],
+"3": [
+"digixcl_sea_animal_04"
+]
+},
+"gomamon": {
+"1": [
+"digixcl_sea_animal_01"
+],
+"2": [
+"digixcl_sea_animal_02",
+"digixcl_sea_animal_03"
+],
+"3": [
+"digixcl_sea_animal_04"
+]
+},
+"ikkakumon": {
+"1": [
+"digixcl_sea_animal_01"
+],
+"2": [
+"digixcl_sea_animal_02",
+"digixcl_sea_animal_03"
+],
+"3": [
+"digixcl_sea_animal_04"
+]
+},
+"otamamon": {
+"1": [
+"digixcl_sea_animal_01"
+],
+"2": [
+"digixcl_sea_animal_02",
+"digixcl_sea_animal_03"
+],
+"3": [
+"digixcl_sea_animal_04"
+]
+},
+"zudomon": {
+"1": [
+"digixcl_sea_animal_01"
+],
+"2": [
+"digixcl_sea_animal_02",
+"digixcl_sea_animal_03"
+],
+"3": [
+"digixcl_sea_animal_04"
+]
+},
+"dianamon": {
+"1": [
+"digixcl_shaman_01"
+],
+"2": [
+"digixcl_shaman_02"
+],
+"3": [
+"digixcl_shaman_03"
+]
+},
+"kuzuhamon": {
+"1": [
+"digixcl_shaman_01"
+],
+"2": [
+"digixcl_shaman_02"
+],
+"3": [
+"digixcl_shaman_03"
+]
+},
+"merukimon": {
+"1": [
+"digixcl_shaman_01"
+],
+"2": [
+"digixcl_shaman_02"
+],
+"3": [
+"digixcl_shaman_03"
+]
+},
+"minervamon": {
+"1": [
+"digixcl_shaman_01"
+],
+"2": [
+"digixcl_shaman_02"
+],
+"3": [
+"digixcl_shaman_03"
+]
+},
+"sakuyamon": {
+"1": [
+"digixcl_shaman_01",
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_shaman_02",
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_shaman_03",
+"digixcl_wizard_04"
+]
+},
+"susanomon": {
+"1": [
+"digixcl_shaman_01",
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_shaman_02",
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_shaman_03",
+"digixcl_wizard_04"
+]
+},
+"titamon": {
+"1": [
+"digixcl_shaman_01"
+],
+"2": [
+"digixcl_shaman_02"
+],
+"3": [
+"digixcl_shaman_03"
+]
+},
+"antylamon": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"arcadiamon_champion": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"arcadiamon_in_tr": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"arcadiamon_mega": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"arcadiamon_rookie": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"arcadiamon_ultimate": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"arcadiamon_ultra": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"blackgatomon": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"chirinmon": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"grandracmon": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"kudamon": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"reppamon": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"sangloupmon": {
+"1": [
+"digixcl_spiritual_beast_01",
+"digixcl_spiritual_beast_02"
+],
+"2": [
+"digixcl_spiritual_beast_03",
+"digixcl_spiritual_beast_04"
+],
+"3": [
+"digixcl_spiritual_beast_05"
+]
+},
+"dracmon": {
+"1": [
+"digixcl_undead_01"
+],
+"2": [
+"digixcl_undead_02"
+],
+"3": [
+"digixcl_undead_03"
+]
+},
+"matadormon": {
+"1": [
+"digixcl_undead_01"
+],
+"2": [
+"digixcl_undead_02"
+],
+"3": [
+"digixcl_undead_03"
+]
+},
+"armageddemon": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"chaosmon": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"chaosmon_va": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"diaboromon": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"digitamamon": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"infermon": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"keramon": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"kuramon": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"kurisarimon": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"nanimon": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"tsumemon": {
+"1": [
+"digixcl_unidentified_01"
+],
+"2": [
+"digixcl_unidentified_02",
+"digixcl_unidentified_03"
+],
+"3": [
+"digixcl_unidentified_04"
+]
+},
+"cherrymon": {
+"1": [
+"digixcl_vegetation_01"
+],
+"2": [
+"digixcl_vegetation_02"
+],
+"3": [
+"digixcl_vegetation_03"
+]
+},
+"lalamon": {
+"1": [
+"digixcl_vegetation_01"
+],
+"2": [
+"digixcl_vegetation_02"
+],
+"3": [
+"digixcl_vegetation_03"
+]
+},
+"mushroomon": {
+"1": [
+"digixcl_vegetation_01"
+],
+"2": [
+"digixcl_vegetation_02"
+],
+"3": [
+"digixcl_vegetation_03"
+]
+},
+"palmon": {
+"1": [
+"digixcl_vegetation_01"
+],
+"2": [
+"digixcl_vegetation_02"
+],
+"3": [
+"digixcl_vegetation_03"
+]
+},
+"sunflowmon": {
+"1": [
+"digixcl_vegetation_01"
+],
+"2": [
+"digixcl_vegetation_02"
+],
+"3": [
+"digixcl_vegetation_03"
+]
+},
+"togemon": {
+"1": [
+"digixcl_vegetation_01"
+],
+"2": [
+"digixcl_vegetation_02"
+],
+"3": [
+"digixcl_vegetation_03"
+]
+},
+"vegiemon": {
+"1": [
+"digixcl_vegetation_01"
+],
+"2": [
+"digixcl_vegetation_02"
+],
+"3": [
+"digixcl_vegetation_03"
+]
+},
+"woodmon": {
+"1": [
+"digixcl_vegetation_01"
+],
+"2": [
+"digixcl_vegetation_02"
+],
+"3": [
+"digixcl_vegetation_03"
+]
+},
+"chaosgallantmon": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"duramon": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"durandamon": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"grademon": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"knightmon": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"lobomon": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"miragegaogamon": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"miragegaogamon_bm": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"valkyrimon": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"zubaeagermon": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"zubamon": {
+"1": [
+"digixcl_warrior_01",
+"digixcl_warrior_02"
+],
+"2": [
+"digixcl_warrior_03",
+"digixcl_warrior_04"
+],
+"3": [
+"digixcl_warrior_05"
+]
+},
+"agunimon": {
+"1": [
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_wizard_04"
+]
+},
+"crescemon": {
+"1": [
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_wizard_04"
+]
+},
+"lucemon_sm": {
+"1": [
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_wizard_04"
+]
+},
+"piedmon": {
+"1": [
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_wizard_04"
+]
+},
+"taomon": {
+"1": [
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_wizard_04"
+]
+},
+"wisemon": {
+"1": [
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_wizard_04"
+]
+},
+"wizardmon": {
+"1": [
+"digixcl_wizard_01"
+],
+"2": [
+"digixcl_wizard_02",
+"digixcl_wizard_03"
+],
+"3": [
+"digixcl_wizard_04"
+]
+}
+}
 },
 {
 "$type": "PMDC.Data.MonsterFeatureData, PMDC",
